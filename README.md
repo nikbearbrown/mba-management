@@ -1,6 +1,6 @@
 # Principles of Management
 
-**Author:** Nik Bear Brown
+**Author:** Humanitarians AI
 
 **Folder:** `books/principles-of-management-bundle-with-llms/`
 
