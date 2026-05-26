@@ -1,440 +1,138 @@
 # Chapter 16 — Organizational Structure and Change
 
-## Three title options
-
-1. **The Machinery of Box-and-Line: Why Structure Matters and Why It Breaks**
-2. **Sloan's Invention and the Reorg That Follows: How Organizations Reshape Themselves**
-3. **Building Organizations That Adapt: Structure, Contingency, and the Three Stages of Change**
+*The chart changed. The organization didn't.*
 
 ---
 
-## TL;DR
+It is Wednesday. The company-wide all-hands is at 9:15. The CEO's office sent out the new org chart at 6:47 p.m. the night before. Lines have moved. Three departments have been consolidated into two. One person you know well is now two levels below you instead of a peer.
 
-Organizational structure is the system that answers three questions: who does what, who reports to whom, and how do different parts of the organization coordinate. Structure is not a permanent blueprint — it emerges from the actual work (the informal organization) and from conscious design choices about centralization, specialization, and control. When organizations grow, shrink, or face new environments, structure must change, but roughly 70% of large change initiatives are reported to fail — a statistic itself built on weak evidence. Understanding contingency (what structure fits which situation) and change management (how to implement structure without breaking culture) is how managers keep organizations from settling into the wrong shape.
+By 8:30 a.m., your phone has thirteen messages. "Is this permanent?" "What happens to my projects?" "Do we still report the same way?"
 
----
+The answers are not in the org chart.
 
-## Section 1: Wednesday morning at 9 a.m. — the structure you inherit and the one that actually works
+Here is what the org chart shows: boxes and lines. Titles. Who reports to whom. Here is what the org chart does not show: who people actually listen to, what relationships move decisions forward, who has influence that has nothing to do with their title. The formal organization — what is drawn — is real. The informal organization — what actually happens — is equally real, and it does not redraw itself when someone in the CEO's office moves some boxes.
 
-It is Wednesday. The company-wide all-hands is at 9:15. The CEO's office sent out the new organizational chart at 6:47 p.m. the night before. The chart shows new boxes. Lines have moved. Three departments have been consolidated into two. One person you know well is now two levels below you instead of a peer. Another has disappeared from the reporting structure — not fired, just moved.
+This is the central puzzle of organizational structure. You can design it. You can draw it. You can announce it. But the organization that actually exists lives in relationships, habits, and norms that were built over months and years. When you change the drawing, those relationships do not automatically change. The person who used to be your peer is still going to call you before they call their new manager, because that is the relationship they have.
 
-By 8:30 a.m., your phone has thirteen messages. People asking: "Is this permanent?" "Do we have to move teams?" "What does this mean for my projects?" You do not have answers. The answers are not in the org chart.
+This chapter is about both layers — the formal and the informal, how they interact, and what actually has to change when you want to change how an organization works.
 
-An organizational structure is a system for clarifying who does what work, how different people's work connects, and what counts as going up the chain versus going around it. The chart — the formal organization — draws boxes and lines. It names titles. It specifies who reports to whom. On paper, it looks like a completed architecture. You draw it, and the organization should follow it.
-
-This fails, often, on the first day of implementation.
-
-The reason: organizations contain two structures. The formal organization is what is written down. The informal organization is what actually happens — the relationships, the people people really listen to, the conversations that move decisions forward. An engineer nominally reports to an engineering manager but actually collaborates with someone in product, who collaborates with a designer, who is friends with someone in marketing. The work gets done through this network. The org chart captures none of it.
-
-When you redraw the formal structure on Wednesday night, the informal structure does not redraw itself. People still have the relationships they had. The question "Is this permanent?" really means "Will my actual working relationships stay stable, or do I have to rebuild them?" The org chart does not answer that.
-
-Understanding structure means understanding both. The formal organization is the tool. The informal organization is the machinery that either implements the tool well or grinds against it. A manager who understands only the chart, who thinks the boxes determine behavior, is a manager who will be surprised every time the actual work takes a different path.
-
-### Learning objectives
-
-By the end of this section you will be able to:
-
-- **Distinguish** between formal and informal organizations and explain why both matter.
-- **Explain** why redrawing an org chart does not automatically change how work actually gets done.
-- **Identify** the factors that shape the informal organization and recognize that they are partly emergent and partly within a manager's influence.
-- **Recognize** the trade-off between clarity (the formal organization) and flexibility (what the informal organization allows).
-
-### Why this section matters
-
-Every subsequent concept in this chapter assumes you understand that structure is a two-layer system. When you study mechanistic versus organic structures, or functional versus divisional design, you are studying tools for the formal organization. Those tools are only useful if you understand that the informal organization will respond to them — sometimes by implementing them, sometimes by routing around them. The manager who understands this difference stops being surprised by resistance to change and starts being able to design change that actually takes.
+<!-- → [IMAGE: two overlapping diagrams of the same company — left: clean org chart with boxes and reporting lines; right: the same company with informal relationship arrows drawn in, showing that actual coordination flows through different paths than the chart suggests; caption: "the left is what was announced Wednesday night; the right is what still exists Thursday morning"] -->
 
 ---
 
-## Section 2: The machinery of mechanistic and organic structures — Burns and Stalker's discovery that one design does not fit all environments
+## The structure you cannot draw
 
-In 1961, sociologists Tom Burns and George Stalker published a study that would reshape how organizations think about structure. They examined twenty firms in the British electronics industry. Some were stable, profitable, doing the same work year after year. Others were in turbulent markets — new technologies, shifting competition, constant pressure to innovate. Burns and Stalker asked: do different market conditions require different organizational structures?
+An organizational structure answers three questions: who does what work, who reports to whom, and how do different parts coordinate. The org chart answers the second question directly and implies the other two. But coordination — how work actually flows between people — is where the chart most often lies.
 
-The answer was yes. The firms in stable environments had mechanistic structures. Highly specialized roles. Clear chains of command. Standardized procedures. Many levels of hierarchy. Communication mostly flowed up and down, not sideways. If you wanted something done, you went through your manager. Rules were explicit.
+Take a software company. The chart shows an engineering team, a product team, a design team. They each have their own VP. Clean lines. But in practice, one senior engineer has worked with one senior product manager for three years. They have a shorthand. They resolve disagreements in thirty minutes over Slack that would otherwise take three levels of escalation. That relationship is not in the chart, but it is doing more coordination work than any formal structure the company has designed.
 
-The firms in turbulent environments had organic structures. Generalist roles. Flat hierarchies. Few written procedures. Communication flowed sideways constantly. If you needed something, you found the person who could help and worked it out directly. Titles mattered less than expertise.
+The formal organization is the tool. The informal organization is the machinery that either implements the tool or routes around it. The distinction matters enormously for change management, because when you redesign the formal structure, you are touching only one layer. The informal machinery — the actual working relationships — responds on its own timeline, often much slower.
 
-The key finding: mechanistic structures worked very well in stable environments. They were efficient. They were predictable. They prevented mistakes because every activity followed a procedure. But in turbulent environments, mechanistic structures failed. They were slow. They could not adapt fast enough. A procedure written for yesterday's market was useless when the market shifted.
+Max Weber, writing in the nineteenth century, described the levers of formal structure: specialization (divide work into focused roles), hierarchy (arrange roles in levels of authority), formalization (write down the procedures), centralization (concentrate or distribute decision-making), and span of control (how many people each manager oversees). These are real levers. You can pull them toward mechanistic — narrow spans, high specialization, centralized authority, many written rules — or toward organic — broad spans, generalist roles, decentralized decisions, few rules.
 
-Organic structures worked the opposite way. In turbulent environments, they were adaptive and quick. In stable environments, they were chaotic. Too many people making independent decisions. No consistency. Costs went up because people were reinventing work that had already been solved.
+<!-- → [TABLE: structural dimensions and their trade-offs — rows: specialization, hierarchy depth, formalization, centralization, span of control; columns: mechanistic end, organic end, works well when, breaks down when] -->
 
-The implication was radical: there is no one best way to organize. The structure must fit the environment. A manufacturing plant producing the same product year after year can be highly mechanistic. A software startup in a new market must be more organic. A hospital balances both — the procedures in the OR are mechanistic (standardized, rule-based, must be consistent); the research lab is organic (experimental, flexible, minimally procedure-bound).
+Every pull has a trade-off. Narrow specialization creates deep expertise — ten accountants who each know one tax code exceptionally well. But they do not know what the others are doing, and if a customer needs help with three codes, the three specialists do not naturally coordinate. Broad specialization loses depth but gains flexibility. Deep hierarchy slows information — a decision that must go up three levels and back down takes three times as long. Flat hierarchy moves fast but stretches managers, reducing the per-person coaching and problem-solving.
 
-This is contingency theory. The structure should be contingent on — dependent on — the environment the organization faces. Managers who understand this stop saying "we need to be flat" or "we need to be hierarchical." They start asking: what environment do we operate in? What kind of coordination does our work require? What structure allows us to respond quickly when we need to and standardize when we can?
-
-### Understanding the dimensions
-
-Max Weber, writing in the nineteenth century, had described the mechanics of bureaucracy: specialization (divide the work into specialized roles), hierarchy (arrange roles in levels), formalization (write down the procedures), centralization (concentrate decision-making authority), and span of control (decide how many people each manager oversees). These are levers. You can pull them toward mechanistic (narrow span, high specialization, centralized, formalized) or toward organic (broad span, generalist roles, decentralized, low formalization).
-
-The trade-off on specialization: narrow specialization creates deep expertise. If you have ten accountants, each focused on one tax code, each becomes exceptionally good at that code. But they do not know what the other nine are doing, and if your customer needs help with three different codes, the three specialists do not coordinate. Broad specialization (generalist accountants who know multiple codes) loses depth but gains flexibility. In a stable environment, you pay the specialist premium and enjoy the deep expertise. In a turbulent environment, you cannot afford to have people siloed.
-
-The trade-off on hierarchy: narrow span of control (few people per manager) means managers have time to coach, to know their people, to help solve problems. Many levels of hierarchy means information travels slowly through the organization. A decision that needs to go up three levels and back down takes three times as long. Broad span of control (many people per manager) means fewer levels and faster information flow. But managers are stretched. They have less time for each person. Coaching diminishes. You lose the person-to-person problem-solving.
-
-The trade-off on centralization: centralized decision-making means consistent decisions. One person or a small group decides. They have the full picture. But they are also a bottleneck. Decisions wait. Centralized authority also signals distrust — if you cannot decide your own work, your organization does not trust you. Decentralization speeds decisions and builds autonomy. But it risks inconsistency. Different parts of the organization might make contradictory choices. You solve this by creating strong shared values and information systems — everyone knows what the organization stands for, and information flows so people can see what others are deciding.
-
-The trade-off on formalization: formalization creates consistency and prevents mistakes because every process is documented. If ten people do the same task, they do it the same way. But formalization also kills discretion. If the rule says "follow procedure x," and a unique situation requires something different, the rule-follower has a problem. Informality allows discretion and adaptation. But it allows mistakes to happen repeatedly if someone does not have good judgment.
-
-### Worked example: General Motors in 1923 and the structure that outlasted its creator
-
-In 1923, General Motors was a chaos. Founder William Durant had bought dozens of small car companies and stitched them together, but they operated independently. Each had its own suppliers, its own engineers, its own design. Henry Ford, across town, was winning market share with the Model T — one product, produced the same way everywhere, cheaper each year. General Motors was losing money.
-
-Alfred Sloan, hired as CEO, invented a structure that would dominate American corporations for the next fifty years: the multidivisional structure. Each car line — Chevrolet, Pontiac, Oldsmobile, Buick, Cadillac — became a semi-autonomous division. Each division had its own finance, engineering, manufacturing. But headquarters set the strategy, coordinated the overall portfolio, and ensured that the divisions did not cannibalize each other. Each division could compete in its market but stayed within guidelines.
-
-This was neither fully centralized nor fully decentralized. It was contingent. The market was stable enough (car production in the 1920s was proven technology) that you could standardize procedures. But it was competitive enough that divisions needed autonomy to adapt to their specific markets. Chevrolet competed on price. Cadillac competed on luxury. The structure allowed each to optimize for its market while still benefiting from shared suppliers, engineering, manufacturing expertise.
-
-The multidivisional structure worked so well that it became the template. ITT used it. DuPont used it. By the 1970s, most large organizations were multidivisional. It was the right structure for mid-twentieth-century stability. When the environment shifted — Japanese competition, oil shocks, demand for customization — the multidivisional structure became a liability. Divisions were too autonomous. They did not share innovations. They competed against each other internally.
-
-But in 1923, Sloan invented exactly what the moment required.
-
-### Common misconceptions
-
-**Flat is always better.** In stable environments with routine work, flat is chaotic. You need coordination mechanisms — procedures, clarity, structure. Flat works in uncertain environments where you need quick decisions, where people have high expertise and do not need oversight. A startup is flat because founders cannot afford managers and need everyone deciding quickly. A manufacturing plant cannot be flat because you need consistency.
-
-**The org chart determines behavior.** It does not. The informal organization is equally powerful. You can redraw the chart, but if the informal relationships do not change, behavior does not change. Many reorgs fail not because the new structure is wrong but because managers did not attend to the informal relationships that need to shift.
-
-**Matrix structures solve everything.** A matrix structure — where people report to two managers (one functional, one product-based) — is designed to balance specialization and flexibility. But it creates ambiguity about who has authority. When two managers disagree about priorities, the person caught in the middle has a problem. Matrices work when the two reporting lines can negotiate; they fail when authority is genuinely unclear.
-
-**Tall hierarchies are inefficient; flat hierarchies are efficient.** A tall hierarchy is slow (many layers to get information up and down) but allows narrow span of control (managers know their people well). A flat hierarchy is fast but stretched. Both work in their contexts. A startup needs speed and cannot afford layers of management. A large organization needs span of control to be workable.
+These trade-offs do not have universal right answers. The right answer depends on the environment the organization is operating in.
 
 ---
 
-## Section 3: Contingency, scale, and the organizational life cycle — why the structure that works at 20 people fails at 200
+## One design does not fit all environments
 
-The organizational life cycle is a pattern that plays out in nearly every organization that grows. It is not a destiny, but it is a predictable trajectory.
+In 1961, Tom Burns and George Stalker published a study of twenty British electronics firms. Some were in stable markets: same products, same customers, same technologies year after year. Others were in turbulent markets: new competitors, shifting customer demands, constant technological change. Burns and Stalker asked whether different environments required different structures. The answer was yes, and the finding became the foundation of what organizational theorists call contingency theory.
 
-**Phase 1: Entrepreneurship.** The organization is small — ten, twenty, fifty people. Everyone knows everyone. Communication happens in hallways, in meetings, on Slack. The structure is organic by necessity. You cannot afford managers, so roles are generalist. The founder might be doing sales, product, strategy, sometimes operations. Everyone contributes everywhere. Decision-making is fast because there are no approval layers. There is no org chart, or if there is one, it is a fiction.
+The firms in stable environments had mechanistic structures. Highly specialized roles. Clear chains of command. Standardized procedures. Communication flowed up and down. If you wanted something done, you went through your manager. Rules were explicit. This worked beautifully in those environments — it was efficient, predictable, and prevented mistakes because every activity followed a procedure.
 
-This works brilliantly for creating new products in new markets. The organization is lean. People are intrinsically motivated (they own equity, they believe in the mission). The lack of bureaucracy lets people move fast. The downside: no consistency. Two customers might have different experiences depending on which person they talk to. Quality is uneven. Accounting is probably disorganized.
+In turbulent environments, mechanistic structures failed. They were too slow. A procedure written for yesterday's market was useless when the market shifted. The firms that succeeded in turbulent environments had organic structures: generalist roles, flat hierarchies, few written procedures, constant lateral communication. If you needed something, you found the person who could help and worked it out directly. In stable environments, this same organic structure was chaotic — too many people making independent decisions, too little consistency.
 
-**Phase 2: Survival and early success.** Revenue is growing. The organization has hit fifty, one hundred, two hundred people. The hallway meetings are no longer practical — too many people. Someone is missing from the Slack conversation who needs to know. Two people did the same work because they did not know the other was doing it. Costs are rising because there is no coordination.
+<!-- → [INFOGRAPHIC: Burns and Stalker's environment-structure fit — two-by-two matrix with environment (stable/turbulent) on one axis and structure (mechanistic/organic) on the other; effective quadrants highlighted at stable+mechanistic and turbulent+organic; failure modes shown in the other two quadrants] -->
 
-At this phase, structure becomes necessary. Specialization begins. You hire your first accountant. She starts to standardize expense procedures, invoicing, financial reporting. You hire your first HR person. She creates hiring processes, onboarding, payroll systems. You hire your first operations manager to standardize manufacturing or service delivery. The organization becomes more mechanistic. Procedures emerge. Hierarchy appears (team leads, managers, directors).
+The implication was radical: there is no one best way to organize. A manufacturing plant producing the same product year after year can be highly mechanistic. A software startup in a new market must be more organic. A hospital balances both — the procedures in the OR are mechanistic (must be consistent, no discretion), the research lab is organic (experimental, minimally rule-bound). The structure must be contingent on the environment.
 
-This is the phase where many founders hit a wall. They have built the organization in an organic way. They like it. The new structure feels bureaucratic. They fight it. But it is necessary. You cannot scale beyond a few hundred people without specialization and coordination mechanisms. The organizations that make the transition succeed. The ones that resist stay small.
-
-**Phase 3: Sustained success and maturity.** The organization has stabilized at several hundred or several thousand people. The structure has matured. Hierarchy is deeper. Divisions or departments are clear. Roles are specialized. Procedures are documented. This is the structure that Alfred Sloan invented for General Motors. It is efficient. It is consistent. It scales.
-
-The risk in this phase is that the organization becomes too mechanistic. The procedures that enabled scaling now prevent adaptation. Decisions that used to take hours now take weeks because they need approval from multiple layers. A front-line employee with an idea for improving something has to navigate a chain of command. The organization is optimized for executing a known business, not for adapting to a changing market.
-
-**Phase 4: Renewal or decline.** This is where many mature organizations end up. The environment has shifted. The strategy that worked in the 1980s does not work in the 2020s. Competitors are more agile. Customers are demanding new things. The mechanistic structure that enabled success now prevents adaptation.
-
-The organization has two choices. It can try to become more organic — to flatten hierarchy, to empower people, to reduce formalization. This is a renewal. Or it can keep doing what it has always done, assuming the market will return. That is decline.
-
-Renewal is difficult because the organization has to unlearn the habits that made it successful. People who thrived in a stable, hierarchical environment have to learn to operate in an uncertain, decentralized one. The procedures that prevented mistakes now prevent innovation. The organization has to tolerate some inefficiency and inconsistency in exchange for adaptability.
-
-### Why scale matters — the contingency of size
-
-As organizations grow, the structure that works changes.
-
-At 10 people, you need almost no formal structure. Everyone can track everything that is happening. Communication is direct. Authority is informal — the founder decides, and everyone knows it.
-
-At 100 people, you need departments, managers, and procedures. You cannot hold everything in your head. You need systems to ensure that work does not fall through cracks, that financial controls prevent fraud, that hiring is consistent.
-
-At 1,000 people, you need divisions and more layers of hierarchy. No one person can oversee everyone. You need to delegate decision-making authority. You need to create subunits that can operate semi-independently while still being coordinated.
-
-At 10,000 people, you need the multidivisional structure (or something like it). You cannot manage this as one unified organization. You have to break it into businesses, regions, or product lines. Each sub-organization can be run nearly independently, but they are bound by headquarters strategy and shared capabilities.
-
-This is not destiny. It is contingency. The structure should fit the size. But many organizations cling to structures that no longer fit.
-
-A startup that has grown to 300 people might still have the structure of a 30-person startup — flat, no managers, everyone reporting to the founder. At 300, this does not work. Decisions are slow because too many people are involved. Work falls through cracks because no one owns coordination. The organization is frustratingly inefficient. The fix is to layer in structure — to name managers, to create departments, to formalize coordination. This feels wrong to the founder, but it is necessary.
-
-An established corporation that is shrinking might cling to its structure. A company that was 10,000 people five years ago and is now 3,000 might keep its divisions, its layers, its procedures. It has more overhead per employee. Its cost structure is wrong for its size. The fix is to flatten — to eliminate layers, to merge divisions, to simplify procedures. But this requires admitting that the structure that built the organization no longer fits. Many established companies struggle with this admission.
-
-### Common misconceptions
-
-**Larger is always more mechanistic, smaller is always more organic.** The relationship is real but not absolute. A startup that has grown to 1,000 people might be more organic than a family business that has stayed at 50. An organization's structure depends on its environment (stable or turbulent) and its strategy (efficiency or innovation), not just its size. Size is a constraint, but not a destiny.
-
-**Once a structure is set, it should stay set.** Structures need to evolve as the organization grows or as the environment changes. The structure that was perfect at 100 people will be wrong at 500. The structure that worked for a stable market will fail in a turbulent one. Managers should revisit structure periodically, asking: does this still fit?
-
-**The informal organization is something that happens to you.** It emerges, but it is not entirely outside your control. A manager can influence the informal organization by building relationships, by knowing who talks to whom, by creating forums where people meet. A manager can also create conditions (clear roles, information access, decision-making authority) that either suppress or encourage particular informal relationships.
+This stops arguments that have no answer. "We need to be flat." "We need more hierarchy." Neither is right as an absolute. The right question is: what environment do we face, and what structure enables the work?
 
 ---
 
-## Section 4: The fundamental dimensions of change — knowing what kind of change you are attempting
+## What changes as organizations grow
 
-Organizations do not stay the same. People leave and join. Technologies change. Markets shift. Competitors emerge. The question is not whether change will happen, but whether it will be managed intentionally or will happen as a result of crisis.
+Scale is its own contingency. The structure that works brilliantly at twenty people creates problems at two hundred. Understanding this trajectory saves managers a lot of confusion.
 
-There are three useful ways to think about change: by scope (how disruptive it is), by level (who it affects), and by intentionality (planned or emergent).
+At ten to fifty people, almost no formal structure is needed. Everyone knows everyone. Communication happens in hallways and on Slack. The founder might be doing sales, product, strategy, sometimes operations. Everyone contributes everywhere. This is organic by necessity — you cannot afford managers, so roles are generalist. Decision-making is fast because there are no approval layers. The downsides are real but tolerable: inconsistency, disorganized accounting, uneven customer experiences.
 
-**Scope of change.** Incremental change is small refinement. You optimize a process. You improve a tool. You adjust a procedure. Six Sigma and LEAN are methodologies for incremental change — they find small improvements in existing processes and add them up. Incremental change does not challenge people's fundamental understanding of what the organization does or how it works. It builds on the existing foundation.
+At fifty to two hundred people, structure becomes necessary. You hire your first specialist — an accountant who standardizes expense procedures. An operations manager who standardizes service delivery. Hierarchy appears: team leads, managers, directors. Procedures emerge. This is the phase where founders often resist. They built something organic. The new structure feels bureaucratic. But it is necessary. You cannot scale beyond a few hundred people without specialization and coordination mechanisms. The organizations that make the transition survive. The ones that resist stay small.
 
-Transformational change is significant disruption. You change the fundamental way the organization works. You might restructure entirely. You might pivot to a new business model. You might change the core identity of the organization. Transformational change asks people to unlearn what they have been doing and learn something new. It is disorienting. It can be exhilarating or traumatic, depending on how it is managed.
+At several hundred to several thousand, the structure matures. Hierarchy is deeper. Divisions or departments are clear. Roles are specialized. Procedures documented. This is efficient and consistent. It scales. The risk: the organization becomes too mechanistic. The procedures that enabled scaling now prevent adaptation. Decisions take weeks. A frontline employee with an improvement idea has to navigate a chain of command. The organization is optimized for executing a known business, not for adapting to a changing one.
 
-**Level of change.** Individual-level change focuses on the person. You provide training. You give feedback about performance. You help someone develop a skill or adjust their behavior. This is change that affects the individual's capability or mindset.
+Alfred Sloan's invention of the multidivisional structure at General Motors in 1923 is the canonical example of getting scale right. General Motors was chaos — a collection of acquired car companies operating independently, each with its own suppliers, engineers, designs. Sloan created semi-autonomous divisions (Chevrolet, Pontiac, Oldsmobile, Buick, Cadillac) with headquarters setting overall strategy and coordinating the portfolio. Each division competed in its own market but stayed within guidelines. It was neither fully centralized nor fully decentralized. It was contingent on the moment: a competitive, growing market that needed both divisional autonomy and some coordination.
 
-Group-level change focuses on relationships. You form a team. You help a team learn to work together better. You resolve conflict between groups. This is change that affects how people interact with each other.
+<!-- → [TABLE: organizational life cycle and structure — rows: startup (≤50 people), growth (50–500), maturity (500+), renewal; columns: typical structure, what works, what breaks, structural transition required] -->
 
-Organization-level change affects the whole system. You reorganize. You change the culture. You shift strategy. This level of change has cascading effects. It affects individuals through how their roles change. It affects groups through how relationships are restructured. It affects the whole organization through how its identity and strategy shift.
+The pattern has a failure mode. Mature organizations cling to structures that no longer fit. A company that was ten thousand people five years ago and is now three thousand might keep its divisions, its layers, its procedures. It has more overhead per employee than it can support. The fix is to flatten, merge divisions, simplify procedures. But this requires admitting that the structure that built the organization no longer fits — an admission many established organizations avoid until crisis forces it.
 
-These levels interact. An organization-level change (like a reorg) requires group-level change (teams learning new relationships) and individual-level change (people learning new skills). A manager who attempts organization-level change without attending to the individual and group levels will see the change fail, even if the new structure is right.
+Spotify's squad model in the 2010s is a useful example of designing to stay organic at scale. Instead of traditional functional departments, Spotify organized by business capability: small cross-functional squads owning product areas end-to-end, grouped into tribes for coordination, with chapters maintaining professional development across squads. This kept decision-making local and fast even as the company grew to thousands of engineers. By the 2020s, the model was straining — different squads building incompatible systems, unclear authority when squads needed to coordinate. Spotify iterated, adding coordination mechanisms and rebuilding some centralization. This is what adaptive organizations do: they do not cling to a structure because it worked once.
 
-**Intentionality of change.** Planned change is designed intentionally. A leadership team decides that something needs to change. They design a process. They communicate it. They implement it step by step. Planned change is visible. People can prepare for it. But it is also slower. It requires time to design, communicate, get buy-in.
-
-Unplanned change is emergent. It happens as a byproduct of other decisions, or as people at the grassroots level respond to circumstances. A team might informally develop a new way of coordinating. An employee might invent a process improvement and share it with others. Some of the most innovative changes in organizations are unplanned. They emerge from people solving real problems. But unplanned change is also chaotic. It might not align with organizational goals. It might create inconsistency.
-
-The best organizations are intentional about some changes (strategy, major structure) and open to unplanned change (process improvements, innovations). They create conditions for emergence while maintaining direction.
-
-### Worked example: Spotify's structure as it scaled
-
-Spotify started as a Swedish music-streaming company and needed to scale globally. In the 2010s, it faced a choice: how to organize a large, geographically distributed engineering organization while maintaining the startup culture?
-
-Spotify created what it called the "squad" model. Instead of traditional departments organized by function (engineering, product, design, operations), Spotify organized by business capability. Each squad was a small, cross-functional team (typically 6-12 people) that owned one product capability end-to-end. One squad might own "search," another "recommendation," another "payment and billing." Each squad included engineers, product managers, designers. Each squad had autonomy to make decisions about its capability.
-
-Above squads, squads were grouped into "tribes" (departments). Tribes were grouped into "chapters" by function (so all the engineers across squads were still connected to other engineers, even though they reported to squad leads).
-
-This was designed to scale while maintaining organic culture. The squad structure kept decision-making local and fast. The tribe structure maintained some coordination. The chapter structure kept expertise and professional development alive across the company.
-
-This worked well for a time. Spotify maintained high velocity even as it grew to thousands of engineers. But by the 2020s, as the organization grew and the market shifted, the model started to show strain. Different squads were building incompatible systems. There was no clear authority when squads needed to coordinate. The structure that had been brilliantly adaptive in the 2010s was starting to feel chaotic in the 2020s.
-
-Spotify has been iterating on the structure — adding coordination mechanisms, clarifying authority, rebuilding some centralization around infrastructure. This is what mature, adaptive organizations do. They do not cling to a structure because it was successful once. They adjust it as the environment and scale change.
-
-### Common misconceptions
-
-**All organizations go through the same life cycle in the same order.** The pattern is common, but not universal. Some organizations never leave phase 1 (small startups that stay small). Some skip phases. Some cycle back — a large organization might shed size and become more startup-like.
-
-**Incremental change is always better than transformational change.** Incremental change is good when the current direction is right and you need to improve execution. But if the current direction is wrong, incremental change is just making the wrong thing slightly better. Sometimes an organization needs to transform. The question is not whether to do incremental or transformational change, but whether the current strategy and structure are still right.
-
-**Unplanned change is chaos; planned change is always better.** Planned change gives direction but can miss important emergent adaptations. The best organizations plan the direction and create space for emergence within that direction.
+<!-- → [INFOGRAPHIC: Spotify's squad-tribe-chapter model — three-level diagram showing squads (small cross-functional teams owning a capability), tribes (groupings of squads), and chapters (functional communities cutting across squads); arrows showing both vertical (tribe) and horizontal (chapter) relationships; caption: "an attempt to stay organic while scaling — note where authority was unclear"] -->
 
 ---
 
-## Section 5: Four models of managing change — Lewin, Kotter, Appreciative Inquiry, and Complex Adaptive Systems
+## Four models for managing change, and when each applies
 
-When an organization decides to change, it needs a model. A model gives structure to what is otherwise a messy, uncertain process. Different models suit different situations.
+When an organization decides to change its structure, it needs a model for how to do that. Different models suit different situations. Using the wrong one is one of the most reliable ways to fail.
 
-**Lewin's three-stage model.** Kurt Lewin, a social psychologist, proposed that change happens in three stages: unfreeze, change, refreeze.
+**Lewin's three-stage model** proposes that change happens in three stages: unfreeze, change, refreeze. Organizations are held in place by habits, norms, routines. Unfreezing breaks those habits — usually through a crisis or a clear demonstration that the current state is not working. Change introduces new processes and structures. Refreezing stabilizes the new way until it becomes the new normal.
 
-In the unfreeze stage, the organization acknowledges that the current state is not working. This is not pleasant. It requires naming the problem. It might require crisis — a missed quarter, a major customer loss, a competitive threat. Unfreezing happens when people accept that things cannot stay the same.
+Lewin captures something real. If you try to introduce a new structure without unfreezing — without people accepting that the old way is no longer sufficient — the change will not stick. The new structure will be grafted onto old habits. But Lewin's model assumes organizations are stable unless acted upon, moving from one stable state to another. In turbulent environments, organizations are constantly changing. The unfreeze-refreeze cycle does not fit continuous change.
 
-In the change stage, the organization introduces new processes, new structures, new ways of working. This is the period of confusion and learning. Old habits are not yet gone. New habits are not yet stable. People are learning new skills. The organization is messy and inefficient for a time.
+**Kotter's eight-step model** is designed for large, planned changes in organizations with clear hierarchies. Establish urgency. Form a guiding coalition. Create a vision. Communicate it repeatedly. Remove obstacles. Create short-term wins. Build on momentum. Anchor the change in systems and culture. This is a top-down model. Leadership designs the change and drives it through the organization. It works for major, planned transformations — a merger, a major restructuring. It assumes people will accept change if they understand the logic, which is only partly true.
 
-In the refreeze stage, the organization stabilizes the new way. The new processes become routine. The new structure becomes familiar. The organization feels stable again, but it is a different stability. It is stabilized around the new state.
+**Appreciative Inquiry** takes the opposite approach. Instead of identifying a problem and fixing it, it identifies what is already working and builds on it. Instead of top-down design, it is participatory — the people affected by the change shape it. Instead of a deficit frame (fix what is broken), it uses an abundance frame (amplify what works). An AI process moves through: define the question, discover examples where the desired future already exists, dream what could be possible, design the concrete changes, implement.
 
-Lewin's model captures something real about change. Organizations are held in place by habits, norms, routines. When you want to change, you have to break those habits (unfreeze), introduce new ones (change), and then establish them as the new normal (refreeze). If you try to change without unfreezing — if people still believe the old way was fine — the change will not stick.
+AI works well when the organization has genuine strengths to build on, when people need to own the change for it to take root, when the environment is uncertain and the organization needs to learn as it goes. AI surfaces innovations that top-down processes miss because the insights come from throughout the organization. It is slower — it requires extensive dialogue — and does not fit crises where fast decisions are needed.
 
-But Lewin's model assumes that organizations are stable unless acted upon. In stable environments (manufacturing, utilities), this is mostly true. In turbulent environments (tech, media), organizations are constantly changing. The unfreeze-change-refreeze cycle does not fit. These organizations do not have time to stabilize before the next change is required. For them, change is continuous, and Lewin's model is less useful.
+**Complex Adaptive Systems thinking** treats organizations as living systems constantly adapting to their environments. Leadership's job is not to design all change from the top but to create conditions for emergence. Three conditions matter: agency (do people feel empowered to act?), connection (are people connected to each other?), and information flow (do people have access to what they need?). When these are strong, the organization adapts. When any is weak, the organization becomes rigid.
 
-**Kotter's eight-step model.** John Kotter, a Harvard Business School professor, proposed an eight-step model for managing large-scale organizational change.
+<!-- → [TABLE: four change models compared — rows: Lewin, Kotter, Appreciative Inquiry, CAS; columns: core assumption, best-fit situation, what it gets right, what it misses, typical failure mode] -->
 
-1. Establish a sense of urgency. Help the organization understand why change is necessary. Create data. Tell stories. Make the case that the current state is unsustainable.
+The models are not mutually exclusive. An organization might use Kotter's urgency-and-vision framework to align leadership, then Appreciative Inquiry to engage people in designing implementation, then CAS thinking to create conditions for emergent adaptation. The right choice depends on the nature of the change, the time available, and the degree to which people need to be engaged in shaping it.
 
-2. Form a guiding coalition. Assemble influential people from across the organization who will champion the change. These are people who have credibility and can model the new behaviors.
-
-3. Create a vision of change. What will the organization look like after the change? How is it different? Better? More efficient? More innovative?
-
-4. Communicate the vision. Tell the story repeatedly. In town halls, in one-on-ones, in written communications. People need to hear the message many times before it lands.
-
-5. Remove obstacles. Identify what is blocking change and address it. Are there people who are actively resisting? Are there systems that make the new way impossible? Clear the path.
-
-6. Create short-term wins. Do not wait for the entire change to succeed. Find small things that can be accomplished quickly, that show the new way is working. Celebrate them.
-
-7. Consolidate improvements. Use the momentum from short-term wins to tackle bigger changes. Build on success.
-
-8. Anchor the change. Make the new way the default. Update policies, systems, hiring criteria to reflect the new state. Make it hard to backslide.
-
-Kotter's model is designed for large, planned changes in organizations with clear hierarchies. It assumes that leadership can design a change process and drive it through the organization. It has proven effective for organizations making major, planned transformations — a merger, a major restructuring, a significant strategic pivot.
-
-But it assumes that people will accept change if they understand the logic. Research suggests this is only partly true. People also need to feel that the change is fair, that they have had a voice, that their concerns have been heard. Kotter's model is top-down. It does not leave room for people to participate in shaping the change.
-
-**Appreciative Inquiry (AI).** This model takes the opposite approach. Instead of identifying a problem and fixing it, AI identifies what is already working and builds on it. Instead of top-down, it is participatory. Instead of deficit-based (fix the problem), it is abundance-based (amplify what works).
-
-An AI process typically follows five stages: define, discover, dream, design, destiny.
-
-In the define stage, the organization identifies what question it wants to explore. Instead of "How do we fix our customer service?" it might ask "How do we make customer service experiences even more exceptional?" The framing matters. A deficit frame (fix the problem) brings different energy than an abundance frame (amplify what works).
-
-In the discover stage, the organization looks for examples where the desired future already exists. If the question is "How do we make customer service experiences even more exceptional?" the organization asks: where is customer service already exceptional? Who is doing it? What are they doing? This is not a broad survey. It is an intentional search for evidence that the desired future is possible, that people already know how to do it.
-
-In the dream stage, the organization imagines the ideal future. Building on the examples found in discover, what could be possible? What could we create? This stage is expansive and creative.
-
-In the design stage, the organization takes the dreams and translates them into concrete action. What specific changes would make the dream real? Who would do them? How would we know they are working?
-
-In the destiny stage, the organization implements. People commit to actions. They work. They report back. They celebrate progress.
-
-AI works well when the organization has some strengths to build on, when people need to be engaged in shaping change, when the environment is uncertain so the organization needs to learn and adapt as it goes. AI often surfaces innovations that top-down processes miss because the insights come from people throughout the organization, not just from leadership.
-
-But AI can also be slow. It requires extensive dialogue. It requires people to be willing to engage. In crisis situations where decisions need to be made fast, AI is not the right model. And some people find the abundant framing ("what is working?") dismissive of real problems. If the organization is genuinely in trouble, asking "what is working?" can feel like denial.
-
-**Complex Adaptive Systems (CAS) and emergence.** This model assumes that organizations are living systems that are constantly adapting to their environment. Formal structure matters, but the informal organization is where most important adaptation happens. People self-organize in response to local challenges and opportunities. The role of leadership is not to design all change from the top, but to create conditions for emergence.
-
-In the CAS model, leadership attends to three things: agency (do people feel empowered to act?), connection (are people connected to each other?), and information flow (do people have access to the information they need?).
-
-When any of these three is weak, the organization becomes rigid. If people do not feel empowered, they wait for direction and do not adapt. If people are not connected, they cannot coordinate. If information does not flow, people do not know what others are doing and make conflicting decisions.
-
-When all three are strong, the organization becomes adaptive. People see a problem, feel empowered to address it, connect with others to work on it, and exchange information about what is working. Emergence happens.
-
-The CAS model is useful for understanding why some organizations are adaptable and others are not. But it is abstract. It does not give a step-by-step process. How, exactly, do you increase agency? How do you improve information flow? The model explains the conditions for adaptation but not the mechanism.
-
-### Trade-offs across models
-
-Lewin's model works when: the organization is in a stable state and needs to shift to a new stable state. It is less useful for continuous change.
-
-Kotter's model works when: leadership has clarity about the desired change and enough authority to drive it. It is less useful when the change needs to be emergent and participatory.
-
-Appreciative Inquiry works when: the organization has strengths to build on and people need to be engaged in shaping change. It is less useful in crisis or when the problem is genuinely severe.
-
-CAS thinking works when: the organization needs to continuously adapt to an uncertain environment. It is less useful when clear decisions need to be made fast.
-
-Most organizations use elements of all four. A leadership team might use Kotter's urgency-and-vision framework to align the organization. Then use Appreciative Inquiry to engage people in designing how change unfolds. Then create conditions (in the CAS sense) for emergence and self-organization. The models are not mutually exclusive. They work at different levels.
-
-### Common misconceptions
-
-**The "70% of change initiatives fail" statistic.** This figure is widely cited but its empirical basis is weak. Different studies find different failure rates. The figure itself is often attributed to a Towers Perrin study, but that study did not actually measure the failure rate of change initiatives. The number has become folklore. What is true: large organizational changes are difficult and many do not achieve their stated goals. The exact percentage is unknown and depends on how you define "failure."
-
-**One model fits all situations.** Different situations call for different approaches. A crisis calls for fast, top-down decisions (Kotter). A long-term cultural transformation calls for participatory process and emergence. A modest process improvement calls for incremental Lean/Six Sigma. A manager who uses the same model regardless of context will fail as often as the manager who picks the wrong tool for the job.
-
-**Resistance to change is irrational and must be overcome.** Resistance is often rational. If you are the person who will lose status in a reorg, it makes sense to resist. If the change was poorly communicated and you do not understand what is happening, it makes sense to be wary. If you have seen change initiatives fail before and this one has the same warning signs, it makes sense to be skeptical. Good change management does not try to overcome resistance. It tries to understand it. Often, resistance signals something important that the change process has missed.
+One number that appears in every change management discussion: 70 percent of large change initiatives are reported to fail. This figure is widely cited and weakly evidenced. It is often attributed to a Towers Perrin study that did not actually measure failure rates. It has become folklore. What is true: large organizational changes are difficult and many do not achieve their stated goals. The precise percentage is unknown and depends entirely on how you define failure. Partial benefit, course correction, second-order learning — these often get counted as failure in the way the statistic is used. A manager who goes in expecting 70% failure is asking a different question than a manager who asks: what does success look like here, and what conditions produce it?
 
 ---
 
-## Section 6: Resistance, implementation, and why knowing the difference between structure and culture prevents failure
+## Why structure change fails: culture is the other lever
 
-The most common failure mode in organizational change is the assumption that changing the structure will change behavior. You redraw the org chart. You expect people to collaborate differently, to make faster decisions, to be more innovative. But behavior does not change. People still collaborate with the same people. Decisions still go through the same informal networks. The new structure is grafted onto the old patterns.
+The most reliable failure mode in organizational change is this: the structure changes, and behavior does not.
 
-The reason: structure is only one lever. Culture is another. Systems are another. Metrics are another. If you change structure without changing culture, the old culture reasserts itself within the new structure.
+You redraw the org chart. You create cross-functional teams. You expect people to collaborate differently. But behavior does not change. People still talk to the same people. Decisions still flow through the same informal networks. The new structure is a layer on top of the old patterns.
 
-Consider a reorg designed to increase cross-functional collaboration. The old structure had departments: engineering, product, design, operations. Each reported to the CEO. The new structure has cross-functional teams. Each team has engineers, product people, designers, operations people. All reporting to a team lead.
+The reason: structure is only one lever. Culture is another. Systems are another. Metrics are another. If you change structure without changing what leaders reward, what stories the organization tells about success, how decisions are made, who gets promoted — the old culture reasserts itself inside the new structure.
 
-The structure is designed for collaboration. But if the old culture was siloed — if engineers did not trust product people, if design always got overruled — then putting them in the same team does not fix the problem. The engineers will still huddle with engineers. The product people will still make decisions independently. The old patterns will redo themselves in the new structure.
+Consider a reorg designed to increase cross-functional collaboration. Old structure: separate engineering, product, design, operations departments. New structure: cross-functional teams with all four disciplines. But if the old culture was siloed — engineers did not trust product people, design always got overruled — putting them in the same team does not fix the culture. The engineers will still huddle with engineers. The product people will still make decisions independently. The old patterns will re-form in the new structure.
 
-Change the structure and you have to change the culture. Which means: change what leaders reward. Change how decisions are made. Change the stories you tell about success. Change how people are hired and promoted. All of this takes time.
+Resistance to change is usually treated as an obstacle. It is actually information. A team that says "this will not work" might have insight leadership does not. A group asking "what happens if this fails?" might be flagging real risks. One organization tried to implement hot-desking and employees resisted. Leadership assumed this was simple discomfort with change. When they listened, they learned: people with different abilities needed stable accommodations, people with anxiety found hot-desking genuinely disorienting, caregivers needed to be near their phones. The organization adjusted — anyone could reserve a desk. Resistance had identified a real problem. Organizations that dismiss resistance miss the signal.
 
-Many change initiatives fail not because the structure is wrong but because the change process attended only to structure, not to culture. People stayed in the same mindset. The structure was a solution to a different problem than the one that existed.
+Implementation — what actually changes behavior — is more than an announcement. It requires clarifying who has authority for what. Creating information systems that let people see what others are doing. Building the relationships that need to exist for the new structure to work. Establishing new routines and procedures. Training people in new skills. Measuring whether it is working and celebrating progress.
 
-### Resistance as information
+A manufacturing company reorganized from three regional P&Ls to functional P&Ls — supply chain, manufacturing, sales, finance — to enable coordination and reduce costs. It attended to every lever: changed the structure, told a new story about why coordination mattered, created supply chain planning systems that made coordination visible, changed metrics from regional margin to functional efficiency, trained managers in the new roles, and created monthly forums where regional and functional leaders could build the relationships the new structure required. The change took two years. The structure changed on day one. Everything else took longer. But it worked because every lever moved together.
 
-Resistance to change is often a signal. A team that says "this will not work" might have insight you do not have. A group of employees asking "what happens if this fails?" might be flagging real risks. A manager who is anxious about losing authority in a flattened structure might be reacting to genuine loss.
-
-This does not mean the resistance is always right. It means resistance deserves listening. Some of the most successful large changes are the ones where leadership listened to resistance, understood it, and adjusted.
-
-In one case, an organization tried to implement hot-desking (no assigned desks, people find a desk each day). Employees resisted. The organization assumed they were just uncomfortable with change. But when they listened, they learned: people with different abilities needed stable accommodations. Some people had anxiety or ADHD that made hot-desking stressful. Carers needed to be near their phone. The organization adjusted — everyone could reserve a desk if they needed to. Resistance had identified a real problem.
-
-### Implementation and the informal organization
-
-If structure is the formal lever and culture is the mindset, implementation is how you translate both into actual changed behavior. Implementation means:
-
-- Clarifying roles. Who has authority for what? What counts as my job and what counts as someone else's job?
-- Creating information systems. How will people know what others are doing? How will coordination happen?
-- Building relationships. Who needs to talk to whom? How do we create forums for connection?
-- Establishing routines. What new processes or meetings or reviews will embed the change?
-- Providing training. Do people have the skills to work in the new structure?
-- Measuring and celebrating. How do we know the change is working? How do we celebrate progress?
-
-Many organizations skip implementation. They do the change announcement. They do the communication. But they do not attend to the concrete, daily mechanisms that allow people to actually operate in the new structure. The result: people go back to the old way because the old way is familiar and the new way is vague.
-
-### Worked example: A reorg that worked because it attended to all the levers
-
-A manufacturing company had three regions: North, South, West. Each region had its own P&L, its own supply chain, its own operations. The regions competed against each other for corporate resources. Margins were eroding because there was no coordination. Two regions might place similar orders for the same component, getting worse pricing than if they coordinated.
-
-Leadership decided to change structure. Instead of regional P&Ls, they would create functional P&Ls: supply chain, manufacturing, sales, finance. Each function would be centralized. This would allow coordination and reduce costs.
-
-But the old culture was regional. Managers had spent years in their regions. They had built relationships with regional sales teams. Their identity was regional. Putting them in a function without attending to this would fail.
-
-The organization did several things:
-
-1. Structure: created functional units with clear authority (VP of supply chain, VP of manufacturing, VP of sales, VP of finance).
-
-2. Culture: the CEO told a new story. The old story was "regions compete; may the best region win." The new story was "functions enable regions; let's coordinate so all regions win." Leaders modeled this by stopping regional P&L competition and celebrating functional coordination.
-
-3. Systems: they created a supply chain planning system that made coordination visible. They created meetings where regions shared demand forecasts. They made it easy to see what was in common so coordination could happen.
-
-4. Metrics: they stopped measuring regional margin and started measuring functional efficiency (supply chain cost, manufacturing yield, sales throughput). They tied bonuses to functional metrics.
-
-5. Training: they trained managers in the new roles. What does a functional leader do? How do you manage people you do not see every day (because they are in different regions)?
-
-6. Relationships: they created monthly forums where regional leaders and functional leaders could talk. This was formal space for the informal relationship-building that had to happen.
-
-The change took two years. The structure changed on day one. The culture, systems, metrics, training, and relationships took longer. But two years in, the organization was coordinating. Costs went down. Service improved. The structure was finally aligned with behavior.
-
-### Common misconceptions
-
-**Resistance means the change is wrong.** It might, or it might mean the change is right but poorly communicated, poorly implemented, or threatening to people who have built their identity around the old way. Listen to the resistance first.
-
-**You can change structure without changing culture.** You can, and often do. But the new structure will not work the way you intended. The old culture will find ways to work around the new structure. If you want the structure to actually change behavior, you have to change culture too.
-
-**Change happens when the announcement is made.** The announcement is the beginning, not the completion. Change happens in implementation — in the daily decisions, the new routines, the relationships that have to be rebuilt, the systems that have to support the new way. Most change effort should be focused on implementation, not on announcement.
+<!-- → [TABLE: the six levers of organizational change — rows: structure, culture/narrative, systems and information, metrics and incentives, training and skills, relationships and forums; columns: what it involves, what happens if you change structure without changing this lever, what the manufacturing case did for each; student should see that structure is necessary but far from sufficient] -->
 
 ---
 
-## Section 7: Synthesis — From structure to behavior, from announcement to implementation
+## What the chart cannot tell you
 
-Organizational structure is a tool. Like any tool, it has proper uses and misuses. It can enable an organization to scale and coordinate work. It can prevent talented people from contributing because the structure does not allow them to. It can create efficiency or can create bureaucratic burden.
+Return to Wednesday morning.
 
-The manager who understands structure knows several things:
+Thirteen messages. "Is this permanent?" The person who used to be your peer will still call you first, because that is the relationship. The new manager two levels above them will not know the history of the project you have been running together for a year. The informal organization has not redrawn itself.
 
-First, structure is a contingency. It should fit the size, the environment, the work. A flat startup structure is brilliant at fifty people and chaotic at five hundred. A hierarchical, functional structure is efficient for routine work and slow for innovation. There is no best structure, only better and worse fits.
+The best organizations have formal structures that are mostly invisible because they enable the work. The worst ones dominate your attention — the turf battles, the slow decisions, the bureaucratic hurdles. The manager's job is to design structure so transparent that people notice the work, not the structure itself.
 
-Second, structure is only one lever. Culture, systems, metrics, and relationships matter as much. A well-designed structure without aligned culture will fail. A culture that values collaboration but a structure that prevents collaboration will fail. Change all the levers together or the organization will find ways to work around the structure you are trying to create.
+This requires holding three things simultaneously. First: the structure must fit the environment. Organic for turbulence, mechanistic for stability, contingent on scale. There is no best structure in the abstract, only better and worse fits for the specific situation. Second: structure is one lever among several. Culture, systems, metrics, and relationships matter as much. Changing the chart without changing these is changing only the label on the box. Third: implementation is where change actually happens — in daily decisions, new routines, rebuilt relationships, and aligned systems. Most change effort goes into announcement. Most change benefit comes from implementation.
 
-Third, the informal organization is as real as the formal one. The org chart shows the structure. The relationships show the actual decision-making. Effective managers understand both and design to shape the informal organization toward the goals the formal structure is meant to achieve.
+The question is never "what is the best structure?" It is: what environment do we face, what structure enables the work, what levers beyond structure need to move together, and what does implementation actually look like for this specific organization with these specific people and these specific relationships?
 
-Fourth, structure is not permanent. It should evolve as the organization grows, as the environment changes, as people change. Managers should revisit structure periodically, asking: does this still fit? What is not working? What structure would better enable the strategy?
-
-Fifth, change is difficult and necessary. Organizations that do not change fail. Organizations that change badly cause a lot of pain. The difference is attention to culture, clear communication, good implementation, listening to resistance, and the patience to realize that changing how people actually work together takes more than an announcement.
-
-The closing insight: the best organizational structures are the ones you mostly do not notice. They are transparent because they enable the work. They get out of the way. The worst ones are the ones that dominate your attention — the turf battles, the slow decisions, the bureaucratic hurdles. As a manager, your job is to design structure so transparent that people notice the work, not the structure itself.
-
----
-
-## Graduated exercises
-
-### Warm-up
-
-**Exercise 16.1** *(LO: formal and informal organization).* Draw the org chart for an organization you know (your company, your school, a club). Then describe the informal relationships you know about — who actually talks to whom, who makes decisions happen, who has influence beyond their title. What surprised you about the difference between the two?
-
-**Exercise 16.2** *(LO: contingency).* A startup is growing from 20 people to 100. The founder wants to stay flat ("we are not a bureaucracy"). What structure would you recommend? Justify your choice using contingency theory — what contingencies (size, environment, work) make your recommendation fit?
-
-**Exercise 16.3** *(LO: identify trade-offs).* A software company is considering moving from a functional structure (engineering, product, design, operations reporting to the CEO) to a matrix structure (each product team has its own engineering, product, design lead, but also reports to a functional VP). What are the pros and cons of each? What kind of work or environment would make you choose one over the other?
-
-### Application
-
-**Exercise 16.4** *(LO: apply contingency).* General Motors under Alfred Sloan created the multidivisional structure in 1923. Describe the contingencies (market conditions, scale, the problem Sloan was solving) that made this structure appropriate. Then describe how those contingencies have changed since 1923, and whether the multidivisional structure would still be the right choice for a car company now.
-
-**Exercise 16.5** *(LO: implement change).* A hospital is implementing a new electronic health record (EHR) system. Doctors, nurses, and administrative staff are resistant. Using the section on implementation, design a change process that attends to structure, culture, systems, metrics, training, and relationships. What would you do in the first 30 days? The first 90 days? The first year?
-
-**Exercise 16.6** *(LO: choose a change model).* For each of these change scenarios, which change model (Lewin, Kotter, Appreciative Inquiry, CAS) would you choose? Justify.
-
-(a) A manufacturing plant has been losing market share to competitors with newer equipment and better processes. Leadership wants to modernize the plant significantly.
-
-(b) A nonprofit has been serving the same population for 30 years. The population and its needs have shifted. The organization wants to evolve its mission to stay relevant.
-
-(c) A team is frustrated about how decisions are made and is losing talented people. Leadership wants to improve the team's culture and processes.
-
-### Synthesis
-
-**Exercise 16.7** *(LO: integrate structure and culture).* A law firm is reorganizing from a partnership model (equal votes on all decisions, no hierarchy) to a managing partner model (managing partner makes strategic decisions; other partners focus on clients; nonpartner lawyers are promoted or not by the managing partner). What cultural shifts will need to happen for this structure to work? What resistance should you expect? How would you handle it?
-
-**Exercise 16.8** *(LO: critique real change).* Find a case of an organizational change you know about (a company reorg, a school restructuring, a nonprofit pivot). Analyze it using the frameworks in this chapter. What structure changed? Did culture change with it? Did implementation attend to the concrete mechanisms (roles, systems, relationships, training)? Did it work? What would you have done differently?
-
-**Exercise 16.9** *(LO: open-ended synthesis).* Describe an organization that failed or succeeded at a major change. Using everything from this chapter — contingency, the formal and informal organization, the choice of change model, the implementation, the alignment of structure and culture — explain why it succeeded or failed. What would you have done in that leadership position?
-
----
-
-## Chapter summary
-
-You can now do four things you could not do at the start of this chapter.
-
-You understand that organizational structure is a contingency — it should fit the size, environment, and work the organization does. There is no single best way to organize. The structure that enables a startup to move fast creates chaos in a larger organization. The structure that makes a stable manufacturing plant efficient makes an innovation organization slow. A good manager asks: what contingencies do we face? What structure enables the work?
-
-You understand that every organization has two structures: the formal organization (the chart, the titles, the official roles) and the informal organization (the relationships, the actual decision-making, the influence networks). Both matter. A reorg that changes only the formal structure while the informal organization remains unchanged will not change behavior. Implementation means changing both.
-
-You understand the organizational life cycle. Organizations evolve from entrepreneurial (small, organic, generalist) to mechanistic (larger, specialized, hierarchical) as they scale. This is not a destiny, but it is a pattern. A manager who recognizes the phase the organization is in stops expecting a startup structure to work at scale and stops being surprised when scale requires structure.
-
-You understand that change is difficult and necessary. Most large organizational changes do not achieve their stated goals, not because the vision is wrong but because implementation is weak — because culture did not shift to align with structure, because the informal organization was not attended to, because resistance was dismissed instead of listened to. You also understand that different change models (Lewin, Kotter, Appreciative Inquiry, CAS) suit different situations. A manager who matches the model to the situation, attends to culture and systems alongside structure, and listens to resistance, gets better outcomes.
-
-The thing to watch for, going forward, is **the gap between structure and behavior**. The org chart says one thing. What actually happens says another. The best organizations reduce that gap by designing structure that enables the informal organization, by aligning culture with structure, and by attending to implementation — the daily mechanisms that allow people to actually work in the new structure. Structure without implementation is just a drawing. Implementation without structure is chaos. You need both.
-
----
-
-## Connections forward
-
-Chapter 17 covers human resource management — hiring, training, performance management, compensation. You will see that these systems are levers that reinforce (or undermine) the structure you are trying to create. If your structure says "collaborate across functions" but your compensation says "you are rewarded for individual performance," the compensation will dominate. If your structure says "take initiative" but your performance management system punishes mistakes, people will not take initiative. HRM is the mechanism that implements the culture and structure you are designing.
-
-Chapter 18 covers stress and well-being. You will see that certain organizational structures and cultures create stress, and others reduce it. A structure that is unclear (no one knows who is responsible for what) creates stress. A culture that is punitive (mistakes end careers) creates stress. A change process that is poorly implemented (people do not know what is happening, what they should do, why) creates stress. Understanding structure and change helps you design organizations that are not only effective but also psychologically healthy for the people in them.
-
----
-
-## Tags
-
-organizational structure, formal and informal organization, mechanistic and organic structures, contingency theory, Burns and Stalker, multidivisional structure, organizational life cycle, incremental change, transformational change, planned change, unplanned change, Lewin's three-stage model, Kotter's eight-step model, Appreciative Inquiry, Complex Adaptive Systems, resistance to change, implementation, organizational change management
+The answers are not in the org chart. They were never going to be.
 
 ---
 
@@ -442,19 +140,45 @@ organizational structure, formal and informal organization, mechanistic and orga
 
 Evidence that the formal organization actually does determine behavior when the informal organization is not attended to would require substantial revision of the chapter's core claim about two-layer structures. Evidence that the "70% of change initiatives fail" statistic is well-founded and robust across different studies would change how I treat that claim. Evidence that one change model is more empirically supported than others across different contexts would change the balanced treatment here.
 
+---
+
 ## Still puzzling
 
-I do not yet fully understand the mechanisms by which culture shifts when structure changes — the direction of causality is unclear (does culture change cause behavior change, or does structure forcing different interactions cause culture to gradually shift?), and the timeline for cultural change is uncertain and context-dependent.
+The causal direction between structure and culture is genuinely unclear to me. When structure changes and forces different interactions — people who never worked together are now in the same team — does culture gradually shift to align? Or must culture change first for structure to have lasting effect? The timeline and sequence vary so much across organizations that I remain uncertain about the mechanism.
 
 ---
 
-## What would change my mind
+## Exercises
 
-Evidence that the Hawthorne effect's fundamental premise—that observation changes behavior—does not replicate as strongly as believed, or evidence that organizational structure directly determines behavior without significant mediation by informal organization and culture, would require substantial rethinking of core claims in this chapter.
+### Warm-up: Two layers, everywhere
 
-## Still puzzling
+1. **Formal vs. informal.** Draw the org chart for an organization you know — your company, your school, a club. Then describe the informal relationships you know about: who people actually call before they call their official manager, whose opinion moves decisions, who has influence beyond their title. What is the gap between the two? Name one coordination task that flows through the informal layer because the formal layer cannot carry it.
 
-The causal direction of structure and culture is unclear to me. When structure changes behavior through forced interaction, does culture gradually shift to align, or must culture change first for structure to have lasting effect? The timeline and sequence vary so much across organizations that I remain uncertain about the mechanism.
+2. **Contingency diagnosis.** For each of the following organizations, identify whether the environment is stable or turbulent, then name the structural direction — toward mechanistic or organic — that Burns and Stalker's framework would predict: a commercial airline's maintenance operations; a biotech startup working on a novel cancer therapy; a large regional bank's mortgage-processing division; a four-person design agency competing for brand campaigns.
+
+3. **Trade-off in plain terms.** A startup is growing from twenty to eighty people. The founder wants to keep everyone reporting directly to her ("I want to stay connected to the work"). Explain the span-of-control trade-off in concrete terms: what does she gain by staying flat, and what does she lose? At what point does the math break?
+
+### Application: Choosing and implementing structure
+
+4. **Lifecycle diagnosis.** General Motors in 1923 and General Motors in 2009 (the bankruptcy year) faced very different problems. Using the organizational lifecycle framework, describe the structural phase each company was in, the contingencies each faced, and why the same multidivisional structure that was brilliant in 1923 had become a liability by 2009.
+
+5. **Change model selection.** For each scenario below, identify which change model — Lewin, Kotter, Appreciative Inquiry, or CAS — is most appropriate and explain precisely why the others would fail in that situation.
+   - A 3,000-person logistics company is losing market share because its mechanistic structure cannot respond to customer requests fast enough. The CEO wants to flatten hierarchy and push decision-making to frontline teams.
+   - A nonprofit serving homeless youth wants to expand its programs into two new cities. Staff feel strongly connected to the current model. Leadership wants to ensure the expansion doesn't dilute what makes the current program work.
+   - A hospital system is experiencing high variation in patient outcomes across units. Some units have excellent processes; others do not. Leadership wants to spread what works.
+
+6. **Resistance as information.** An organization announces a move to open-plan offices to encourage collaboration. Engineers resist loudly. Management tells them this is just resistance to change and proceeds. Six months later, productivity in the engineering teams has dropped noticeably. Using the chapter's framework, reconstruct what the resistance was probably signaling that management missed, and design a process that would have heard that signal before implementation.
+
+### Synthesis: All the levers together
+
+7. **The reorg that worked.** The manufacturing company case moved six levers simultaneously — structure, culture/narrative, systems, metrics, training, and relationships — and took two years. Most reorgs move one lever (structure) and call it done. Design a reorg for a company you know or can research that moves all six levers. For each lever, name the specific change and explain what failure mode it prevents.
+
+8. **Spotify's strain.** Spotify's squad model worked well in the 2010s and started failing in the 2020s. Using contingency theory and the organizational lifecycle, explain why a structure that was adaptive and organic at one size and stage became a source of coordination failure at a larger size. What specific structural change would you recommend, and what informal-organization work would need to accompany it?
+
+### Challenge: Where the framework runs out
+
+9. **The 70% problem — reframed.** The chapter argues that the "70% of change initiatives fail" statistic is weakly evidenced and that "failure" is poorly defined. A critic responds: "Even if the number is wrong, large organizational changes clearly fail more often than they succeed. The right lesson isn't to question the statistic — it's to ask why organizations keep attempting changes they are structurally unprepared to execute." Engage seriously with this critique. Is the critic right about the pattern even if the number is wrong? What would an organization need to have in place — structurally and culturally — before attempting a large change, if the goal is to be among the cases that work?
+
 ---
 
 ## LLM Exercise — Chapter 16: Organizational Structure and Change
@@ -564,12 +288,11 @@ handbook.
 
 **Preview of next chapter:** Chapter 17 designs the HR system — hiring playbook (structured interviews, work-sample tests), performance management, total rewards, talent development. The chapter's strongest finding: HR practices interact, and most companies have practices that undermine each other.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Henry Mintzberg** was McGill scholar whose work on organizational structure (1979) and managerial roles redefined how the field thinks about both.
+**Henry Mintzberg** was the McGill scholar whose work on organizational structure (1979) and managerial roles redefined how the field thinks about both.
 
 **Run this:**
 
