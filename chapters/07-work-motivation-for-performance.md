@@ -1,282 +1,187 @@
 # Chapter 7 — Work Motivation for Performance
-
-## Three title options
-
-Translating what moves us: why work motivation matters more in the moment than in theory.
-
-What actually drives people to perform: three frameworks, three different blind spots.
-
-The machinery of effort: why the same reward motivates one person into excellence and leaves another untouched.
-
-## TL;DR
-
-Motivation is what someone chooses to accomplish (direction) and how hard they try to accomplish it (intensity). No single theory predicts it perfectly, because people are not equations. Content theories name the needs that drive behavior — what it is people are reaching for. Process theories show how people calculate whether effort will pay off — the mechanism of choice. Modern research suggests that intrinsic motivation — the satisfaction of doing work that matters, on your own terms, at something you're getting better at — often outlasts extrinsic rewards, but both operate simultaneously in actual workplaces.
+*Why the same dollar produces different behavior depending on what you believe will happen next.*
 
 ---
 
-## Cold open: The startup equity conversation
+Here is a puzzle from a conference room in Palo Alto.
 
-You are in a windowless conference room in Palo Alto on a Thursday morning in 2019. The company is eight weeks old. Your founder is trying to convince you to join as employee number seven. The conversation is exactly at this inflection point.
+A founder is trying to hire her seventh employee. She puts two compensation packages on the table. Option A: $95,000 base salary, standard startup options, modest upside. Option B: $75,000 base, ten times as much equity, vested over four years with a one-year cliff. She has done the math carefully. At a $20 million Series A valuation — the realistic target — both packages have the same expected value: roughly $135,000 annually when you account for the equity. Same expected value. Same ceiling. Same floor.
 
-She puts two offers on the table. Call them Option A and Option B.
+She is not indifferent between them.
 
-Option A: $95,000 per year, fully vested health insurance, standard startup stock options that are underwater if the company doesn't hit a Series A valuation of $20 million.
+She watches the candidate lean into Option B. Something shifts in the conversation. The questions change from "what are the benefits" to "what does the product roadmap look like." The person sitting across from her is now thinking about whether the company will succeed, not about whether the job is safe.
 
-Option B: $75,000 per year, the same insurance, ten times as much stock, but vested over four years with a one-year cliff. The math works out: at $20 million valuation, both packages have the same expected value, roughly $135,000 annually when you factor in the stock.
-
-Same expected value. Same total compensation in the best case, the same in the worst. And yet — the founder is not indifferent between them. She's watching you to see which path makes you lean in.
-
-What's the difference? It's not money. It's the signal the compensation structure sends about what the company thinks you are.
-
-Option A says: "We're buying your time. You're worth $95k a year. We'll give you some skin in the game, but not much. We're hedging our bets."
-
-Option B says: "We're making a bet on you. We're saying that if you own a piece of what happens, you'll work differently. Harder. Smarter. With the long view, not the quarterly view. We believe you understand that we succeed together or we both fail."
+Option A says: we are buying your time. Option B says: we are making a bet on you together.
 
 Same expected value. Opposite motivational architectures.
 
-The question that burns is: why does the second one *feel* different? Why does a person who studies for a test they genuinely care about learn something different than a person cramming for a test they hate? Why does a sales representative who believes in the product they're selling outsell one who doesn't, even if they're paid identically? Why does a programmer who gets to shape the technical decisions perform differently from one who's told what to do?
-
-This is the problem of motivation. And it is harder than it first appears.
-
-### Learning objectives
-
-By the end of this chapter you will be able to:
-
-- Distinguish direction and intensity of motivation, and explain why both matter for performance.
-- Describe what content theories of motivation claim and why their predictions often fail on the ground.
-- Explain how Herzberg's distinction between motivators and hygiene factors challenges the assumption that money is the primary driver.
-- Articulate Vroom's expectancy theory — the idea that people calculate the likelihood of effort leading to payoff — and apply it to specific workplace choices.
-- Understand equity theory and why people's sense of fairness (often wrong) shapes their willingness to perform.
-- Show how goal-setting works when done right, and name the specific ways it fails when done wrong.
-- Integrate these theories and explain why self-determination theory suggests that intrinsic motivation often produces better long-term performance than extrinsic reward alone.
-
-### Prerequisites
-
-Basic familiarity with human needs — the idea that people want things and that satisfaction of those wants shapes behavior. Reading comprehension sufficient to work through a reasoned argument about people making choices. No prior business or management experience required; much of what business folklore claims about motivation will be challenged here.
-
-### Why this chapter matters
-
-Every organization is made of people choosing how hard to try. Some days you try. Some days you don't. What's the difference? Managers live inside that question — how do we design work so that people want to do it well? The theories in this chapter are not abstract. They're the machinery behind every bonus structure, every promotion ladder, every team-building retreat, every "engagement survey" that shows up in your inbox with the subject line "Your voice matters." The machinery mostly works poorly. Understanding why teaches you to see through it.
+This chapter is about why that works — and more importantly, about when it does not, and why. Because the founder's intuition is partially right and partially treacherous. You can build a compensation structure that signals commitment and still fail to motivate, if the mechanism by which effort leads to reward is broken. You can offer the most meaningful work in the world and still watch people disengage, if the basic material conditions of their lives are not met. Motivation is not one thing. It is several things operating simultaneously, and the skill is knowing which one is failing.
 
 ---
 
-## Concept 1 — Direction and intensity: the two components of motivation
+## What Motivation Actually Is
 
-Sit in a sales office at 8:45 AM on a Monday morning. Watch two salespeople arrive and log in.
+Before the theories, a clarification of what we are trying to explain.
 
-Alex got written up on Friday for missing quota. Now Alex is selling. Alex is taking calls, texting prospects, working through the pipeline. Every action is aimed at one target: the commission check. Alex knows what success looks like. A proposal closed by Wednesday. Intensity: high. Direction: crystalline.
+Motivation is not the same as effort. A person can expend enormous effort in the wrong direction. A person can know exactly what they should be doing and put in almost no effort toward it. The concept that captures both dimensions is this: motivation is **direction** (what you are aiming at) and **intensity** (how hard you are trying to get there).
 
-Jordan just closed a $200k deal and is riding that high. Jordan logs in and is answering emails. Some of them are about this deal, some are gossip in the team chat, some are just scrolling between windows. Jordan is doing *something* at work. Intensity: low. Direction: scattered.
+Watch two salespeople arrive at the office on a Monday morning. Alex got written up on Friday for missing quota. Alex is on the phone by 9 a.m., working the pipeline, clear about the target. Direction: crystalline. Intensity: high.
 
-Alex and Jordan have opposite profiles on something scientists call **motivation** — specifically, on the two dimensions that researchers have found structure how hard people try and at what.
+Jordan closed a large deal last week. Jordan logs in and is cycling between email, team chat, and staring at the pipeline without actually touching it. Direction: scattered. Intensity: low.
 
-**Direction** is what a person intends to accomplish. The target. What you're aiming at. Do you want to close a sale, or do you want to appear busy, or do you want to leave work at 5 PM and think about something else? Direction is *which goal*. It's the choice of target before effort is expended.
+Alex and Jordan have opposite profiles on the two dimensions. High intensity with clear direction produces performance. High intensity with muddled direction produces wasted effort. Low intensity with clear direction produces frustration — you know what you should be doing, and you are not doing it. The worst combination is low intensity and muddled direction. That is when you lose people either to turnover or to what has been called quiet quitting — physical presence without any real engagement.
 
-**Intensity** is how hard you exert effort toward that target. It's the energy, the persistence, the willingness to stay late and solve the thing that's broken. A person can have clear direction and low intensity — *I know what I should be doing, I'm just not that motivated right now* — or high intensity with muddled direction — *I'm working really hard but I'm not sure what I'm working toward*. The most dangerous combination is low intensity plus muddled direction. That's when organizations lose people, either to turnover or to what people call *quiet quitting*.
-
-Most models of motivation assume people are rational. Rational here means: we compare alternatives, we reason about consequences, we choose the option that seems likely to give us what we want. A person with clear direction has already chosen the target — it's no longer an alternative, it's the goal. The intensity you bring depends on your estimate of whether the effort you expend will actually result in the payoff you expect.
-
-This is where the theories come in. Some theories (the ones we'll call *content theories*) focus on what people want. They ask: what needs are unfulfilled? What's the person reaching for? Others (the *process theories*) focus on the mechanism of choice. They ask: how does a person decide *whether* to exert effort, and how much? Both matter. Neither is complete.
-
-### Trade-off: intuitive appeal versus predictive accuracy
-
-Content theories — Maslow, Herzberg, McClelland — are immensely popular with managers. They're intuitive. They match our experience. *Of course* people want to feel like they're contributing something meaningful. *Of course* people want to grow. These frameworks feel true because they describe needs that many of us recognize in ourselves. A manager who reads Maslow at a Friday workshop thinks: "I see it now. Half my team is chasing paychecks because I haven't helped them feel safe. The other half is bored because I haven't given them challenges." The framework fits the world.
-
-But here's the hard part: intuitive does not mean predictive. Maslow's hierarchy, for instance, predicts that people satisfy lower-order needs before higher-order ones — that you feed before you philosophize. And that's *sometimes* true. But researchers who've tested it carefully find that the strict ordering doesn't hold. A person will sometimes sacrifice safety to pursue meaning. A starving artist is a cliche for a reason. Maslow's theory is a useful lens, but it doesn't work like a law of physics.
-
-Process theories — expectancy, equity, goal-setting — are harder to follow initially. They're more technical. They require you to think about *how* someone calculates whether effort will pay off, not just *what* they want. But they're better at predicting behavior, especially behavior you can measure — performance, tenure, turnover.
-
-The trade-off, then, is between frameworks that *feel* right (content) and frameworks that *predict* right (process). A good manager needs both. You use content theory to diagnose what's missing — *my team needs autonomy, not just money*. You use process theory to design the system that makes autonomy feel real — *if I let them set their own goals and give them real feedback, will they believe that effort leads to success?*
+The theories that follow are attempts to explain what determines each dimension, and what a manager can do about it.
 
 ---
 
-## Concept 2 — Content theories: what people are reaching for
+## What People Are Reaching For
 
-Imagine you are the manager of a nonprofit social services organization. You have fifty staff. The budget is tight. Raises are 2 percent across the board. One of your best program directors — someone who has been with you seven years — comes into your office and says, "I'm thinking about leaving. I got an offer from the school district. It's 30 percent more money."
+The first set of theories — **content theories** — asks a prior question: before we understand how people decide to exert effort, we need to understand what they are trying to get. What needs are unfulfilled? What is the person reaching for?
 
-You are stunned. You thought this person was motivated by mission. You thought the fact that the organization helps vulnerable people was enough. You sit across the desk and you ask: "What would make you stay?"
+Abraham Maslow proposed in the 1940s that human needs arrange themselves in a hierarchy: physiological needs at the base, then safety, then belonging and social connection, then esteem and status, then self-actualization at the top. His hypothesis was that people satisfy lower-order needs before pursuing higher-order ones. You cannot devote yourself fully to self-actualization when you are hungry or unsafe. The ordering made intuitive sense.
 
-And the answer you get is not about mission. It's about basic needs. Childcare costs just went up. The apartment rent is higher than it was three years ago. The person cannot live on $48,000 a year in this city anymore. The mission is real. The satisfaction of doing meaningful work is real. But it turns out that meaningful work does not pay for rent.
+Here is what the research found when people tested it carefully: the strict ordering does not hold. People sacrifice safety for meaning. Artists live in poverty to create. Parents go without food to feed their children. Revolutions happen when people risk their lives for dignity. The hierarchy is not a law of physics. It is a tendency.
 
-This is where content theories come in. They're attempts to catalog what people actually need — not what we imagine they need, but what drives them to action.
+What does survive Maslow, and what matters for management, is this: lower-order needs are not motivators — they are preconditions. If someone is genuinely unsafe, or cannot afford insulin, or is watching their basic material situation deteriorate, you cannot motivate them with a challenging project and a sense of purpose. You must address the floor before the floor becomes invisible. And conversely, once basic needs are addressed, adding more money at that level does not produce proportional increases in engagement. A $2,000 raise to someone earning $42,000 in an expensive city is not nothing — it may move the needle on a real survival concern. The same raise to someone earning $150,000 changes nothing that matters.
 
-### Maslow's hierarchy: widely taught, partially supported
+<!-- → [INFOGRAPHIC: Maslow's hierarchy annotated with the revision — show the original pyramid, then annotate that the strict ordering fails empirically, but that the lower tiers function as preconditions rather than motivators] -->
 
-Abraham Maslow, in the 1940s, proposed that human needs arrange themselves in a hierarchy. At the bottom, physiological needs — food, water, shelter, sleep. Then safety needs — protection from harm, stability, predictability. Then social needs — belonging, love, connection. Then esteem needs — recognition, respect, status. At the top, self-actualization — becoming everything you're capable of becoming.
+Frederick Herzberg found something more specific. In the late 1950s, he interviewed engineers and accountants about their best and worst moments at work. He looked for patterns. What he found violated the assumption that job satisfaction and dissatisfaction sit on a single scale.
 
-Maslow's hypothesis was that people satisfy lower-order needs before moving to higher-order ones. You cannot fully devote yourself to self-actualization when you're hungry. That makes intuitive sense. It matches how many of us *feel* about our own lives.
+The things that caused *dissatisfaction* when absent — pay, working conditions, supervision quality, job security — did not, when improved, cause *satisfaction*. They caused the absence of dissatisfaction. Herzberg called these **hygiene factors**: like public health, you must maintain them to prevent disease, but maintaining them does not make you healthy. They are maintenance variables.
 
-Here's what matters for your work as a manager: Maslow's strict ordering — the idea that you must fully satisfy safety before moving to social — does not hold up empirically. Researchers have tested it. People sacrifice lower-order needs for higher-order ones all the time. Revolutions happen when people risk safety for meaning. Artists live in poverty to create. Parents go without food to feed their children. The ordering is not a law. It's a tendency.
+The things that caused genuine satisfaction and engagement — achievement, recognition, responsibility, the opportunity to learn, the intrinsic interest of the work itself — were a different category entirely. Herzberg called these **motivators**. They produce engagement when present. They do not, when absent, produce dissatisfaction the way hygiene factors do.
 
-However — and this is important — *some* of Maslow's insight persists. There is evidence that lower-order needs are hygenic. They must be addressed. If someone is genuinely in danger, or sleeping in a car, or watching their health degrade because they can't afford insulin, you cannot motivate them with a challenging project and a sense of purpose. The bottom of the pyramid is not something you can skip. It's something you cannot *over-invest* in and expect additional motivation.
+The implication managers routinely get wrong: throwing money at a motivation problem does not solve it, because money is a hygiene factor. It must be at a reasonable floor. But above that floor, adding more money does not create the engagement that motivators produce. A person can be comfortable, secure, well-paid, and completely bored. Hygiene is addressed; motivators are absent. This is a different failure mode than inadequate pay, and it requires a different intervention.
 
-This has a practical implication: a $2,000 annual raise may feel stingy to a manager, but to a person whose rent went from $1,200 to $1,400 a month, it's not nothing. It moves the needle on a real need. Conversely, a $5,000 raise to someone already making $120,000 does not produce the same proportional increase in motivation. The extra money helps with comfort, not with survival.
+<!-- → [TABLE: Herzberg's two-factor model — columns: factor type, examples, what happens when present, what happens when absent — emphasize that the two factors are independent, not opposites on a scale] -->
 
-### Herzberg's motivators and hygiene factors
+David McClelland approached the problem from a different angle. Rather than a universal hierarchy, he asked: what specific drives do people have, and do those drives vary across individuals?
 
-In the late 1950s, Frederick Herzberg conducted a study of engineers and accountants. He asked them to describe moments when they felt very satisfied with work and moments when they felt very dissatisfied. Then he looked for patterns.
+He identified three. The **need for achievement** (nAch) is the drive to accomplish difficult tasks, to succeed on measurable challenges, to have clear feedback. High-nAch people volunteer for hard assignments, want to know whether they succeeded, and take responsibility when things fail. The **need for affiliation** (nAff) is the drive to belong, to maintain warm relationships, to work with people they like. High-nAff people perform better in collaborative contexts and are motivated by team cohesion. The **need for power** (nPow) is the drive to influence others — which can manifest as personal power (I want to win and have others defer to me) or social power (I want to help a group achieve collective goals). McClelland found that managers with high social power tend to be more effective than those with high personal power.
 
-What he found was striking: the things that caused satisfaction were not the opposites of the things that caused dissatisfaction. This violated the assumption that motivation sits on a single scale. Herzberg proposed instead that two different systems are at work.
+McClelland's research added something content theories often miss: **these needs are learned, not innate, and they are not evenly distributed**. A person high in nAch will be frustrated in a role requiring strict procedural compliance with no room to improve outcomes. A person high in nAff will wither in isolation. A person with high social power nPow is a fundamentally different management prospect than someone with high personal power nPow. If you understand what each person on your team actually drives toward — not what you think they should want, but what they actually reach for — you can design their role to satisfy it.
 
-**Hygiene factors** — he borrowed the term from public health — are features of the work environment that, when absent, produce dissatisfaction. Pay. Working conditions. Supervision quality. Job security. These are the context in which work happens. Hygiene factors don't motivate in the sense of producing engagement or effort above the baseline. They're maintenance factors. They keep you from being demotivated.
+<!-- → [TABLE: McClelland's three needs — columns: need, what it drives toward, what satisfies it, what frustrates it, role types where it thrives — include the personal vs. social power distinction under nPow] -->
 
-**Motivators** are features of the work itself that, when present, produce satisfaction and engagement. Achievement. Recognition. Responsibility. Opportunity to learn. The work's intrinsic nature — is it interesting? Does it matter?
-
-Herzberg's insight — which managers still get wrong, routinely — is that these operate independently. Fixing a hygiene factor does not produce motivation. A person in a clean, safe office with excellent medical benefits and a 401k is not motivated to work hard because those things are present. They're in a neutral state. They're not demotivated, but they're not engaged either.
-
-Motivation, in Herzberg's model, requires the motivators. A person must experience achievement, see that their contribution is recognized, own some responsibility for decisions, and feel like they're learning and growing.
-
-The trade-off Herzberg identified is between satisfaction and lack-of-satisfaction. They're not opposites. You can have low hygiene (bad working conditions, poor pay) producing dissatisfaction AND high motivators (meaningful work, growth opportunities) producing engagement. You're dissatisfied and engaged simultaneously. Or you can have high hygiene and low motivators — comfortable, secure, and bored.
-
-The management implication is crucial: throwing money at a motivation problem does not solve it. Money is a hygiene factor. It must be addressed. But addressing it alone creates the "I love my job but I hate the pay" situation Herzberg described. Once hygiene is handled, motivation requires something else entirely.
-
-### McClelland's learned needs: achievement, affiliation, power
-
-David McClelland approached the problem differently. Instead of proposing a universal hierarchy, he asked: what specific *drives* do people have? He identified three that recur in his research across cultures and contexts.
-
-**Need for achievement (nAch)** is the drive to accomplish difficult tasks, to succeed, to have measurable impact. High-nAch people are the ones who set their own stretch goals. They want feedback — not because it's positive, but because they *want to know* whether they succeeded. They volunteer for challenging assignments. They take responsibility when things go wrong.
-
-**Need for affiliation (nAff)** is the drive to belong, to have warm relationships, to work with people you like. High-nAff people perform better in collaborative contexts. They care about team morale. They worry about conflict. They're motivated when they feel that others depend on them and that they're valued by the group.
-
-**Need for power (nPow)** is the drive to influence others and have responsibility for outcomes. This need has "two faces," in McClelland's term. One is personal power — you want to win, to dominate, to have others defer to you. The other is social power — you want to influence a group toward collective goals. Managers with social power are often more effective than those with personal power because they're invested in the group's success, not just their own status.
-
-McClelland's research had a practical finding: these needs are *learned*, not innate. They can be taught. And, crucially, they're not evenly distributed across people. Some people are driven by achievement, others by affiliation. A high-nAch person will be frustrated by a job that requires strict adherence to procedures. A high-nAff person will wither in isolation. A person with high social power nPow is more likely to be an effective manager than a person with high personal power nPow.
-
-The implication: understand what each person on your team actually needs. Not what you think they should need. What they actually drive toward. Then, if possible, design their role to satisfy it.
-
-### The limitation of content theories
-
-Here's what content theories miss: they tell you *what* to aim at, but not whether people will believe that effort leads to achieving it. A manager can identify that their team needs more autonomy and then give them autonomy, and it can fall flat. Why? Because if the team doesn't believe that autonomous decisions will actually be respected — if they've seen autonomous choices overruled before — then autonomy becomes another source of frustration, not motivation.
-
-Content theories diagnose the need. They don't address the mechanism by which a person decides to exert effort.
-
-That's where process theories come in.
+The limit of all content theories is this: they tell you what to aim at but not whether people will believe that effort leads to achieving it. You can correctly diagnose that your team needs more autonomy and give them autonomy, and it can fall flat — because if they have watched autonomous decisions get overruled before, autonomy is not a motivator. It is another source of frustration. Content theories diagnose the need. They do not address the mechanism by which a person decides whether to try.
 
 ---
 
-## Concept 3 — Process theories: why people choose to exert effort
+## The Calculation of Effort
 
-Move to a different scenario. You manage a customer service team of twelve. The company just announced a bonus program: if your team achieves 95 percent customer satisfaction for three consecutive months, everyone gets a $500 bonus.
+In a customer service team of twelve, the company announces a bonus program: hit 95 percent customer satisfaction for three consecutive months, and everyone gets $500.
 
-You expect your team to be excited. Instead, the response is muted.
+The manager expects excitement. The response is muted.
 
-You find out why by talking to your senior rep, someone who's been with you two years. She says: "We hit 95 percent before. For three months. What happened? They said the threshold was too easy and moved it to 97 percent. They also changed how satisfaction is measured. So we did the work, we got the bonus, they moved the goalposts. I'm not doing that again. What's the point?"
+She asks her senior rep what is wrong. The rep says: "We hit 95 percent before. Three months in a row. Then they said the threshold was too easy and moved it to 97 percent. They also changed how satisfaction was measured. We did the work, we got the bonus, they moved the goalposts. I'm not doing that again."
 
-This is where process theories matter. This rep has learned something about the *process* by which effort translates into payoff. Her experience taught her: effort → benchmark → moving benchmark. So the expectation about whether effort will result in reward is damaged. No amount of increased motivation (content theory) fixes this. You can't give her a new need that makes her want the bonus. You have to fix the process.
+This is the problem that **process theories** address. The rep is not lacking a need. She wants the recognition, the fairness, the sense of achievement. The content is fine. What is broken is her belief about whether effort will lead to the promised payoff. No amount of identifying the right need will fix that. The mechanism is corrupted.
 
-### Vroom's expectancy theory: the calculation of effort
+Victor Vroom proposed in 1964 that people make a rational calculation before expending effort. The calculation has three parts.
 
-Victor Vroom proposed in 1964 that people make a rational calculation before expending effort. The calculation has three components.
+**Effort-to-performance expectancy** is your belief that if you put in the effort, you will actually achieve the performance level required. If I work hard and follow the process, will I hit 95 percent satisfaction? This is weak when you lack ability, when the goal seems arbitrary, or when you have watched other people work hard and fail. It is strong when effort feels genuinely causally connected to outcome.
 
-**Effort-to-performance expectancy (E1)** is your belief about whether the effort you put in will lead to the performance level required. If I study hard, will I do well on the exam? If I follow the process the company taught us, will I actually close the sale? E1 is weak if you don't believe effort is enough — if you've seen other people work hard and fail, or if you don't think you have the ability. E1 is strong if effort feels like it matters.
+**Performance-to-outcome expectancy** (what Vroom called instrumentality) is your belief that if you achieve the performance level, you will actually receive the promised reward. This is exactly what the senior rep's history destroyed. She hit the target. The target moved. Her instrumentality is now near zero.
 
-**Performance-to-outcome expectancy (E2)** is your belief about whether the performance level you achieve will actually lead to the reward the company promised. If I hit the 95 percent satisfaction target, will I actually get the $500? This is where your team's experience damaged trust. They performed; the target moved. E2 is weak.
+**Valence** is how much you actually want the outcome. $500 is meaningful to someone earning $40,000. It is cosmetic to someone earning $150,000. High valence, low valence — the same dollar, different motivational weight.
 
-**Valence** is the value you assign to the outcome. How much do you actually want that $500? To someone earning $55,000 a year with two kids, $500 is meaningful — high valence. To someone earning $150,000 a year, it's cosmetic — low valence.
+Vroom's equation is multiplication: Motivation Force = Expectancy × Instrumentality × Valence. The multiplicative structure is the insight. If any component is zero, the entire motivation force collapses. A person can desperately want the $500 and be fully capable of hitting the target, but if instrumentality is zero — if they do not believe performance will actually be rewarded — nothing else matters. The manager who raises the bonus amount is solving for valence when the broken variable is instrumentality.
 
-Vroom's equation (simplified) is: Motivation Force = E1 × E2 × Valence.
+<!-- → [CHART: Expectancy theory — a flow diagram showing Effort → Performance (mediated by Expectancy), Performance → Outcome (mediated by Instrumentality), Outcome → Motivation Force (mediated by Valence) — annotate where the senior rep's chain broke] -->
 
-The structure of the equation matters. It's multiplication, not addition. If any component is zero, the entire motivation force collapses. Your team members might value the $500 (high valence) and might believe they can hit 95 percent (strong E1), but if E2 is zero — if they don't believe the company will actually pay when benchmarks are hit — then motivation force is zero. No amount of money or challenge can fix it.
+Adams's equity theory adds another layer. People do not judge fairness in absolute terms. They judge it relationally. A $50,000 salary is "unfair" if you discover that a colleague doing identical work earns $65,000. It is "fair" if everyone at your level earns $50,000. The salary has not changed; the perception of fairness has, and that perception shapes behavior.
 
-This is the gap between what content theories illuminate and what process theories reveal. A manager using Herzberg's framework might correctly identify that the team needs recognition and might design a bonus system to provide it. But if the mechanism by which performance leads to recognition is broken — if the process is corrupted by moving goalposts or by favoritism or by bureaucratic delays — then the bonus system fails. Content identifies the need; process predicts whether effort will happen.
+When people perceive inequity, they act on it. They ask for a raise. They reduce effort to match what they believe they are being paid relative to their contribution. They leave. Or they distort their perception: *Actually, I don't work as hard as I thought, so the lower pay makes sense.* Equity theory predicts not just the dissatisfaction but the specific response to it, and the response is not always visible to the manager as an equity response.
 
-### Equity theory: the comparison standard
+The practical complication: people are systematically biased in their equity judgments. Research consistently finds that most employees rate their own performance above the median. This means most people perceive themselves as underrewarded even when they are not, because they overestimate their relative contribution. Managers cannot fix this by simply paying people more — the perception is not calibrated to the reality. What they can do is be transparent: about how compensation is set, how promotions are decided, what the criteria are and how consistently they are applied. People accept outcomes they perceive as unfair by the outcome standard if the process standard is fair — if the rules are clear, consistent, and known in advance.
 
-Back to your team. You manage sales. Your company announces that the top performer gets a $10,000 bonus. Your second-best rep — someone who's been with you four years, who mentors new people, who's reliable — asks for a private conversation.
-
-She says: "I saw the bonus announcement. I'm happy for the top rep. But I also know I'm carrying an underperformer on my team. I onboarded them. I've been coaching them. And I'm getting nothing. How is that fair?"
-
-This is equity theory at work. Developed by Adams in the 1960s, equity theory states that people compare their situation to others' situations and that this comparison shapes motivation.
-
-People don't judge fairness in absolute terms. They judge it relationally. A $50,000 salary is "unfair" if you find out a colleague doing the same work makes $65,000. It's "fair" if everyone at your level makes $50,000. The salary didn't change, but the perception of fairness changed.
-
-Equity theory predicts that when people perceive inequity, they do something about it. They might ask for a raise. They might reduce effort to match what they perceive as their reduced value. They might leave. They might distort their perception — *Actually, I don't work as hard as I thought, so the lower pay makes sense.* They might change the comparison — *I'm not comparing to Jordan, I'm comparing to people in similar roles at other companies.*
-
-Here's what makes equity theory tricky in practice: people are often *wrong* about equity. Studies show that the average employee rates their own performance in the 75th percentile. Most people think they work harder than most others. So most people perceive underreward inequity — *I'm doing better than my pay reflects* — even when they're actually average. This creates baseline dissatisfaction that's not based in reality.
-
-The mechanism matters. A person motivated to perform well is one who sees a clear link between effort, performance, and fair reward. Equity theory tells you that *fairness is in the eye of the beholder*, and beholders are often biased. The implication for management is that transparency matters. When people don't know what others are paid, they often imagine others are paid more than they actually are, reinforcing the illusion of inequity.
-
-### Goal-setting: the mechanism that works
-
-Of all the motivation theories, goal-setting has the strongest empirical support. And it has a simple mechanism: people perform better when they pursue difficult, specific goals that they accept.
-
-Not easy goals — difficult ones. Not vague ones — *do your best* — but specific ones. And, crucially, not goals imposed without consent. If a person doesn't accept the goal, doesn't believe it's achievable, they won't exert proportional effort.
-
-The mechanism is about what goals do to attention and persistence. A specific goal narrows attention. You know what success looks like. You can measure progress. You can adjust. *Increase customer satisfaction to 95 percent specifically by reducing response time to under two hours* is a goal you can work toward. *Be better at customer service* is a sentiment. The first focuses effort; the second diffuses it.
-
-Difficulty creates engagement. An easy goal, once achieved, stops driving behavior. You relax. A difficult goal keeps you trying, adjusting, learning. You persist.
-
-Acceptance creates ownership. When you help set a goal, you're more invested in achieving it. When it's imposed, you might comply, but you're less likely to go above and beyond.
-
-The trade-off in goal-setting is between motivation and unintended consequences. Difficult, specific goals work — they increase performance on *that specific goal*. But they can create tunnel vision. If your goal is to increase sales by 10 percent and nothing else is measured, you might cut corners on customer service or product quality. If the goal is ambiguous about *how* to achieve it, people might choose unethical shortcuts. Goal-setting works when the goals are well-designed. Poorly designed goals — specific and difficult but misaligned with broader organizational goals — can be destructive.
+<!-- → [INFOGRAPHIC: Equity theory — show the comparison ratio (my inputs/my outcomes vs. their inputs/their outcomes) with three states: equity, underreward inequity, overreward inequity — annotate the typical behavioral responses to each state and note the systematic self-serving bias in how people calibrate inputs] -->
 
 ---
 
-## Integration — synthesis: when do these theories actually predict?
+## Goals as the Mechanism
 
-You now have four frameworks. Each explains something. None explains everything. The question is: when do you use which?
+Of all the motivation theories, goal-setting has the strongest empirical support. Locke and Latham's research across decades is consistent: **people perform better when they pursue difficult, specific goals that they accept**. The structure of that sentence is precise and every word is load-bearing.
 
-Start with content theory when you're diagnosing. If your team is churning, if engagement is down, content theory asks: *What are people reaching for that they're not getting?* Are they reaching for safety? For growth? For affiliation? For meaning? Listen to the answer and it points toward intervention.
+*Difficult* because an easy goal, once achieved, stops driving behavior. You hit it, you relax. A difficult goal keeps you trying, adjusting, learning. The engagement continues because the goal has not been fully closed.
 
-Then use process theory to design the intervention. If people need growth, don't just say "we provide growth opportunities." Design the mechanism: specific, achievable stretch goals; feedback that shows progress; the opportunity to choose how to approach the challenge. Use expectancy theory to ask: *Do they believe effort will lead to performance? Do they believe performance will lead to reward?* If the answer is no, the mechanism is broken, and content theory won't fix it.
+*Specific* because a vague goal — "do your best," "be better at customer service" — cannot focus attention. You do not know when you have succeeded. You cannot measure progress. You cannot adjust. "Increase average response time to under two hours by the end of the quarter" is a goal you can work toward. Its specificity is what gives it motivational force.
 
-Use equity theory to check for fairness, but recognize that fairness is perceived. Transparency helps. So does clarity: *Here's how we decide who gets promoted. Here's how compensation increases work. Here's what we reward.* People accept unfavorable rules when the rules are clear and consistently applied. They rebel against vague rules applied inconsistently.
+*Accepted* because a goal imposed without buy-in may be complied with but not owned. A person who helps set the goal is invested in achieving it. A person who receives the goal is executing someone else's vision. The difference shows in behavior at the margins — in what they do when they hit an obstacle, in whether they go above and beyond, in how they respond when the goal turns out to be harder than expected.
 
-Use goal-setting to translate all of this into action. The goal is the commitment device. It tells people what success looks like. It creates the mechanism by which they know whether effort is working.
+The mechanism by which goals work is attention and persistence. A specific goal narrows attention onto what matters and away from what does not. It creates a natural feedback loop: you know what success looks like, so you can measure progress, adjust, and know when you have succeeded. This is why "do your best" consistently underperforms difficult specific goals in experiments — not because people try less hard, but because they cannot orient their effort precisely.
 
-### Modern integration: self-determination theory
+The trade-off is tunnel vision. Difficult specific goals increase performance on the targeted behavior — and they can decrease performance on behaviors that are not targeted. A salesperson whose goal is to increase deal volume by 10 percent may cut corners on relationship-building that does not show up in that metric. A call center measured on speed may sacrifice quality to hit time targets. Goal-setting works when the goals are well-designed; poorly designed goals — specific and difficult but misaligned with the broader purpose — can be destructive in proportion to how well they work.
 
-Psychologists Edward Deci and Richard Ryan have spent decades studying when people are truly motivated — not complying, but actually *wanting* to do the work — and when they're just going through the motions. Their framework is called self-determination theory, and it adds a crucial insight: the *type* of motivation matters as much as its intensity.
-
-They distinguish extrinsic motivation (you're doing this because an external reward is waiting) from intrinsic motivation (you're doing this because the work itself is satisfying). That distinction sounds simple, but the implications are profound.
-
-Here's what self-determination theory shows: when you add extrinsic rewards to a task that's already intrinsically motivating, the intrinsic motivation *decreases*. Not by a little. Sometimes substantially.
-
-This is called "motivation crowding out." A person who loves to write but who's never been paid for it keeps writing. The same person offered payment to write the same way? They write less, or they stop writing, or they write differently — now they're chasing the payment, not the craft.
-
-Why? Because extrinsic rewards change how people experience the task. Instead of *I write because writing is meaningful*, it becomes *I write to get paid*. The locus of control shifts from internal to external. And once the payment becomes the focus, the work itself becomes a means to an end rather than an end in itself.
-
-Self-determination theory proposes that true motivation — sustainable, energizing motivation — requires three conditions:
-
-**Autonomy**: you have some say in how you do the work. You're not simply executing orders. You're making choices.
-
-**Competence**: you're getting better at something. You have feedback. You see progress. You're not stuck.
-
-**Relatedness**: the work matters to someone. You're contributing to something larger than yourself. You're not working alone in a void.
-
-When these three are present, people work hard not because they have to, but because the work is satisfying. And when they're absent, even large extrinsic rewards often fail to compensate.
-
-This reframes much of what managers try. You can't *buy* motivation by increasing compensation alone. But you can *create conditions* for intrinsic motivation: clarity about impact, real autonomy in method, feedback on progress, and connection to purpose.
-
-The trade-off is between short-term compliance and long-term engagement. Extrinsic rewards work fast. They change behavior immediately. *Close this deal and you get $5,000.* But the research suggests that intrinsic motivation — doing work because it's meaningful and you're getting better at it — produces better long-term performance, lower turnover, and higher resilience when external rewards aren't available.
+<!-- → [TABLE: Goal-setting theory — rows: goal characteristic (specific, difficult, accepted, with feedback); for each row: what it does to behavior, what happens without it, a real example of failure when the characteristic is absent] -->
 
 ---
 
-## Chapter summary
+## The Inside Story: Self-Determination
 
-Motivation is not a puzzle with one solution. It's a system with multiple moving parts, and different theories illuminate different parts.
+The theories so far have treated motivation as something you design into a system — the right incentive structure, the right goal, the right equity signal. Edward Deci and Richard Ryan's work on self-determination theory offers a corrective. It asks not just whether people will exert effort but whether they will sustain it, and under what conditions.
 
-You now understand that motivation has two dimensions — direction (what are you aiming at?) and intensity (how hard are you trying?) — and that both must be present for performance.
+Their central finding: the type of motivation matters as much as its intensity.
 
-You can diagnose what people are reaching for using content theories: Maslow reminds you that basic needs matter; Herzberg separates the factors that remove dissatisfaction from those that create engagement; McClelland shows you that achievement, affiliation, and power motivate different people in different ways.
+**Extrinsic motivation** means you are doing the work because an external reward is waiting. Intrinsic motivation means you are doing the work because the work itself is satisfying. This distinction sounds simple. The research implications are not.
 
-You can design systems that actually work using process theories: Expectancy theory shows you that people make rational calculations about whether effort will pay off; equity theory reminds you that fairness is perceived and comparison-based; goal-setting theory shows you that difficult, specific, accepted goals create focused effort.
+When you add extrinsic rewards to a task that someone already finds intrinsically motivating, the intrinsic motivation decreases. This is the crowding-out effect. A person who loves to write and has never been paid for it keeps writing. Offer that person payment for writing, then remove the payment — and they write less than the unpaid group who were never offered anything. The payment changed the person's internal account of why they do the work. Before: *I write because writing is satisfying*. After payment, then its removal: *I was writing for money. The money is gone. Why am I doing this?*
 
-And you understand that self-determination theory reframes the whole enterprise: the most sustainable motivation comes from autonomy, competence, and relatedness — from intrinsic satisfaction of the work itself, not from payment alone.
+The mechanism is attribution. Intrinsic motivation depends on the person believing they are choosing the behavior. Salient extrinsic rewards shift the attribution from internal to external, and when the external cause disappears, the behavior loses its apparent purpose.
 
-The thing to watch for, going forward: motivation theories are descriptive, not prescriptive. They describe what moves people. They do not describe what *should* move people. A manager using this knowledge well does not impose a theory on people. A manager using it well listens to what people are reaching for, designs systems that connect effort to outcome transparently, and creates the conditions under which people *want* to perform well.
+This effect is real but conditional. It tends to occur when the task was already engaging before the reward was introduced; when the reward is clearly contingent on the behavior; and when alternatives exist. It does not occur for tasks that were boring or aversive to begin with — there is no intrinsic motivation to crowd out. And the effect is weaker when the reward is informational rather than controlling: *here is what you did well and why it mattered* is less crowding than *here is your $50*.
 
-The most motivated employees are not those with the highest compensation. They're those who see a clear connection between their effort and outcomes they care about, who are getting better at something they value, and who know that their contribution matters.
+Self-determination theory proposes that sustainable intrinsic motivation requires three conditions. **Autonomy**: you have genuine say in how you do the work. You are making choices, not executing orders. **Competence**: you are getting better at something. You have feedback that lets you see progress, not just judgment about outcomes. **Relatedness**: the work matters to someone beyond yourself. You are contributing to something larger than a personal metric.
+
+When all three are present, people work hard not because they have to but because the work is satisfying in a way that outlasts any particular reward. When they are absent, even large extrinsic rewards fail to compensate — or, worse, succeed in the short term and crowd out the intrinsic engagement that would have lasted longer.
+
+<!-- → [CHART: Self-determination theory spectrum — from pure external motivation on the left (compliance) to pure intrinsic on the right (inherent interest), with amotivation at the far left — annotate where each type produces which outcomes: extrinsic works short-term for simple tasks; intrinsic sustains long-term on complex work] -->
 
 ---
 
-## Connections forward
+## Why the Theories Conflict (and How to Use Them Anyway)
 
-Chapter 8 examines how organizations measure performance and how those measurement systems interact with motivation. You'll see that a poorly designed measurement system can destroy motivation even when the pay is generous. You'll see how goals translate into the appraisals that show up in the official record.
+Here is the honest state of the field. No single theory predicts motivation accurately enough to rely on alone.
 
-Chapter 12 on leadership shows how leaders shape the conditions that create intrinsic motivation — the clarity of purpose, the autonomy in method, the feedback on progress that self-determination theory names as central.
+Content theories — Maslow, Herzberg, McClelland — are intuitively appealing and descriptively useful. They match what managers recognize about their teams. Their limitation is predictive accuracy: the strict hierarchy does not hold, the motivator-hygiene distinction does not cleanly separate in all contexts, and knowing what someone needs does not tell you whether they will try to get it.
 
-And Chapter 17 on human resource management ties this all together: how hiring, training, and compensation systems are designed (or misdesigned) to align with the motivation theories we've discussed here.
+Process theories — expectancy, equity, goal-setting — are harder to follow initially but better at predicting behavior you can measure. They tell you *when* effort will or will not occur: when people believe effort leads to performance, when performance leads to reward, when the reward is worth having, when the comparison to others is experienced as fair, when the goal is specific and difficult enough to focus effort without being impossible.
+
+Self-determination theory sits between them. It describes the *quality* of motivation rather than its quantity — whether someone is working because they have to or because they want to — and predicts that intrinsic motivation produces better long-term outcomes on complex work, while extrinsic motivation is sufficient and appropriate for simple or aversive tasks.
+
+The way to use them together: start with content theory to diagnose. If engagement is failing, ask what people are reaching for that they are not getting. Are basic material needs actually met? Are the motivators — achievement, recognition, growth, meaningful work — present? What does each person specifically drive toward?
+
+Then use process theory to design. If the diagnosis says people need autonomy, design the mechanism by which autonomy is real: clear goals with freedom in method, feedback that reflects results, decision authority that is not overruled. Ask the expectancy questions explicitly: do people believe that effort leads to performance, and performance leads to reward, and the reward is worth having? Any "no" answer identifies the broken link.
+
+Use goal-setting to make all of it specific and actionable. The goal is the commitment device. It focuses attention, enables feedback, and converts abstract motivation into concrete behavior.
+
+Use self-determination theory to check whether you are building or eroding intrinsic motivation. For work that is already engaging — creative work, problem-solving, caregiving — be careful about piling extrinsic rewards on top. The short-term compliance boost may not be worth the long-term crowding.
+
+<!-- → [INFOGRAPHIC: The four-theory diagnostic sequence — Content (what are they reaching for?) → Process/Expectancy (will they believe effort pays off?) → Goal-setting (is the target specific and accepted?) → SDT check (am I building or crowding intrinsic motivation?) — show as a decision flow with the intervention at each stage] -->
+
+---
+
+## Back to Palo Alto
+
+Return to the conference room. The founder watching the candidate lean into Option B.
+
+What is actually happening in that moment?
+
+Expectancy theory is part of it. Option B creates a tighter coupling between the person's effort and a meaningful outcome — equity that is worth something at $20 million. The instrumentality is higher: this candidate's specific contribution to the company's success will show up in their personal outcome in a way that a $95,000 salary will not.
+
+Self-determination theory is also part of it. Option B is a bet on the person, which signals that their autonomy and contribution matter — that they are not just executing, they are building. This is the autonomy condition. The relatedness condition is embedded too: the success is shared.
+
+Equity theory is lurking. The candidate is comparing themselves to the founder, who presumably owns far more equity. The message of Option B is that the candidate is moving closer to the founder's side of that comparison, not staying fixed as labor-for-hire.
+
+But here is where the founder's intuition can become treacherous. Option B only works as designed if the expectancy chain holds: if the person believes their effort genuinely affects the company's trajectory, that the equity will actually vest and be worth something, and that the company is going in a direction they care about. Break any of those links, and Option B is just a lower salary with uncertain upside.
+
+The founder who understands motivation theory knows this. She knows that the compensation structure creates the architecture, but the mechanism that fills it is something else: the clarity of how decisions get made, the quality of feedback, the degree to which the person's judgment is actually respected. A beautiful motivational architecture filled with a broken process is a very expensive way to produce the same disengagement as Option A.
+
+This is what all the theories, together, are trying to say. Motivation is not a lever you pull. It is a system of beliefs — about what you need, about whether effort will pay off, about whether you are treated fairly, about whether the work is worth doing on its own terms. Managing motivation means managing those beliefs, which means being honest about the conditions that create them. The person who says "we believe in you" with an equity package has made a claim. Whether that claim is honored in the day-to-day experience of working there is what determines whether Option B actually produces different behavior.
+
+Same expected value. Opposite motivational architectures. Which one succeeds depends on whether the architecture matches the reality of how the organization actually operates.
 
 ---
 
@@ -284,49 +189,46 @@ And Chapter 17 on human resource management ties this all together: how hiring, 
 
 ### Warm-up
 
-**Exercise 7.1** *(LO: distinguish direction and intensity.)* Describe a time you were working hard on something you didn't care about (high intensity, muddled direction) and a time you cared deeply about something but weren't trying hard (clear direction, low intensity). What was the difference in how each felt?
+**1. Motivation is defined in this chapter as having two dimensions: direction and intensity. Describe a situation — from work, school, or any organized activity — where you had high intensity but muddled direction, and one where you had clear direction but low intensity. What was the observable difference in your behavior and output in each case? (Tests: understanding the two-dimensional structure of motivation and why both are necessary for performance.)**
 
-**Exercise 7.2** *(LO: content vs. process theory.)* You manage a software team. Two engineers are both performing well. One says they're motivated by learning and growth. The other says they're motivated by the stability of the paycheck. Using content theory, what does each person need? Using process theory, how would you design different systems for each?
+**2. Herzberg's two-factor model distinguishes hygiene factors from motivators. For each item below, classify it as a hygiene factor or a motivator and explain why. Then predict what would happen to an employee's engagement if that factor were removed.**
 
-**Exercise 7.3** *(LO: Herzberg's framework.)* A company offers excellent benefits (health insurance, 401k match, free lunch) but has a policy that all code reviews must be done on established tools with no customization. Engineers must follow the process exactly. Which of Herzberg's factors are present, and which are missing?
+- (a) A competitive base salary
+- (b) The opportunity to lead a high-visibility project
+- (c) A clean, safe workspace
+- (d) A manager who gives specific, timely feedback on results
+- (e) Health insurance with full family coverage
+
+**(Tests: mechanical application of Herzberg's classification and its predictive logic.)**
+
+**3. Vroom's expectancy theory says motivation force equals expectancy × instrumentality × valence, and the equation is multiplicative. A manager wants to increase a team's motivation to hit a quality target. She raises the bonus for hitting it from $200 to $800. Team motivation does not increase. Using the equation, identify the two components she has not addressed and describe one concrete action she could take to improve each. (Tests: understanding why raising valence alone cannot fix a broken expectancy chain.)**
+
+---
 
 ### Application
 
-**Exercise 7.4** *(LO: apply expectancy theory.)* An employee has been told that "good performance" will lead to promotion. But they've watched three colleagues be passed over despite good performance. What has happened to their E2? What would need to happen to restore it?
+**4. A nonprofit organization pays its social workers below-market salaries. The executive director argues that mission and meaning compensate for the lower pay — that the work itself is the reward. Staff turnover is 40% annually. Using Maslow's revised framework and Herzberg's two-factor model, diagnose what is most likely happening. Then propose a specific intervention — not "pay them more" in the abstract, but a concrete change the executive director could make with limited budget. (Tests: applying content theories to a realistic failure scenario and generating a specific diagnosis.)**
 
-**Exercise 7.5** *(LO: apply equity theory.)* Two salespeople in the same office, same territory, same experience, find out that one is making $5,000 more annually than the other. The lower-paid rep is more consistent in closing deals but the higher-paid rep closes higher-value deals. How might each person interpret equity? What are the possible outcomes?
+**5. A software team has been given a goal: "improve code quality." After three months, there is no measurable change. The team lead says people are trying but do not know what success looks like. Rewrite the goal using Locke and Latham's goal-setting criteria (specific, difficult, accepted). Then identify one risk that the new goal introduces — one way that optimizing for this goal could reduce performance on something the team also cares about. (Tests: applying goal-setting theory and understanding the tunnel-vision trade-off.)**
 
-**Exercise 7.6** *(LO: apply goal-setting theory.)* Your team's goal is "improve customer satisfaction." Rewrite this as a goal that incorporates specificity, difficulty, and buy-in. What resistance might you encounter, and how would you address it?
+**6. A senior engineer at a tech company was deeply engaged in her work — she described it as "the most intellectually satisfying job I've ever had." The company introduces a new program: engineers earn a $1,000 bonus for each patent filed. She files two patents in the first quarter, collects the bonuses, and then stops. In the next performance review, she says she has lost interest in exploratory research. Using self-determination theory and the crowding-out mechanism, explain what happened and propose a modification to the bonus program that might have preserved her intrinsic motivation. (Tests: applying SDT's crowding-out effect to a specific case and reasoning about how reward design interacts with task type.)**
+
+---
 
 ### Synthesis
 
-**Exercise 7.7** *(LO: integrate theories — diagnose the problem.)* A company's call center has a 35 percent annual turnover rate. Using content theory, process theory, and self-determination theory, list what you would investigate to understand why people leave.
+**7. McClelland argued that people differ in their needs for achievement, affiliation, and power, and that these differences are meaningful for role design. Think of a specific role you know well — a job you have held, observed closely, or studied. Describe what someone high in nAch, someone high in nAff, and someone high in social power nPow would each find motivating and frustrating in that role. Which profile do you think the role is actually designed for? What would you change to better accommodate one of the other profiles? (Tests: applying McClelland's typology to role analysis and thinking about fit between person and role design.)**
 
-**Exercise 7.8** *(LO: design a compensation structure.)* Design a compensation system for a mid-size manufacturing company with production workers, supervisors, and engineers. For each group, specify: (a) the hygiene factors (salary, benefits, working conditions); (b) the motivators (growth opportunity, responsibility, recognition); (c) the metric that triggers variable compensation; (d) why you believe this will work, based on the theories in this chapter.
+**8. The chapter argues that content theories diagnose what people need while process theories explain whether they will try to get it — and that you need both. Apply this two-step framework to the Palo Alto conference room scenario from the opening. First, use a content theory to identify what the candidate is reaching for in Option B. Then use expectancy theory to identify the conditions under which Option B actually produces the motivational effect the founder expects. Under what conditions would Option B produce worse outcomes than Option A? (Tests: integrating content and process theories on the same scenario and identifying the conditions under which an intuitive motivational design fails.)**
 
-**Exercise 7.9** *(LO: self-determination theory applied.)* A nonprofit finds that its fundraisers are burning out, despite being paid above market rate. Using self-determination theory, what might be missing? What would you change, and why?
+---
 
 ### Challenge
 
-**Exercise 7.10** *(LO: test a theory against your experience.)* Observe a situation in your own workplace or life where someone is highly motivated and doing excellent work. Identify which theory best explains it. Then identify which elements of self-determination theory (autonomy, competence, relatedness) are present. Does the theory predict?
+**9. Equity theory predicts that people who perceive underreward inequity will reduce their effort, demand more pay, leave, or distort their perception of their own contribution. A skeptic argues that this implies organizations should simply be transparent about all salaries — that full pay transparency eliminates the inequity problem. Construct the strongest version of the skeptic's argument. Then identify the two most significant problems with full transparency as a solution, using equity theory and any other framework from the chapter. (Tests: pushing equity theory to its policy implications and identifying where the theory's clean predictions collide with organizational reality.)**
 
-**Exercise 7.11** *(LO: critique and compare theories.)* The startup equity problem from the cold open: would you now predict the same effect? Which theory (content or process) best explains why Option B feels different from Option A? What does each theory *miss* in this scenario?
+**10. The chapter closes with a claim: "Motivation is not a lever you pull. It is a system of beliefs." Design a six-month onboarding experience for a new hire at a company of your choosing that deliberately addresses each of the following: the hygiene floor (Herzberg), the expectancy chain (Vroom), goal acceptance (Locke and Latham), and all three SDT conditions (autonomy, competence, relatedness). For each element, specify what the company does and what belief in the new hire it is intended to build or protect. Identify the single point in the six months where the design is most likely to fail, and why. (Tests: synthesizing the full chapter's framework into a coherent design and stress-testing it against the most common failure modes.)**
 
----
-
-## Tags
-
-motivation • expectancy-theory • goal-setting • equity • intrinsic-motivation • herzberg • maslow • self-determination • process-theory • content-theory
-
----
-
-## What would change my mind
-
-If empirical evidence emerged that people's stated reasons for motivation (what content theories capture) strongly predict sustained performance better than people's calculations about effort and payoff (what process theories capture), I would need to adjust the emphasis in this chapter. Currently, process theories have stronger predictive power in research, but that's not a permanent fact.
-
-## Still puzzling
-
-I don't fully understand why people so often persist in pursuing goals that don't pay off (in Vroom's terms, low E2 expectancy) — why people keep hoping that effort will lead to reward even after repeated evidence that it won't. Is it bounded rationality, or is there something about human psychology that makes us optimistic beyond what the evidence warrants? The question matters for understanding when motivation breaks down.
 ---
 
 ## LLM Exercise — Chapter 7: Work Motivation for Performance
@@ -427,17 +329,18 @@ handbook.
 
 **Preview of next chapter:** Chapter 8 designs the performance appraisal system — measurement methods, rater biases, total rewards. The chapter's strongest finding: most appraisal failures are from rater biases, not from the appraisal method.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Abraham Maslow** was developed the hierarchy of needs in 1943 — the most-cited motivation framework in management history.
+**Abraham Maslow** developed the hierarchy of needs in 1943 — the most-cited motivation framework in management history.
 
 **Run this:**
 
 ```
-Who is Abraham Maslow, and how does their work connect to work motivation we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Abraham Maslow, and how does their work connect to work motivation
+we covered in this chapter? Keep it to three paragraphs. End with the
+single most surprising thing about their career or ideas.
 ```
 
 → Search **"Abraham Maslow"** on Wikipedia.
