@@ -1,376 +1,210 @@
 # Chapter 14 — Conflict and Negotiation
 
-## Three title options
-
-- The machinery of disagreement: how conflict works and how to negotiate through it
-- When interests collide: the architecture of conflict and the grammar of negotiated agreement
-- Productive friction: conflict as information and negotiation as structured problem-solving
-
-## TL;DR
-
-Conflict is not inherently destructive—moderate task conflict surfaces problems and improves decisions. The payoff lies not in eliminating disagreement but in choosing the right response: are you competing, compromising, or collaborating? Negotiation works when both sides understand their alternatives and interests, not just their positions, and cultural differences in how people bargain are not style preferences but different languages for the same problem.
+*They were fighting over the wrong thing.*
 
 ---
 
-## Cold open
+It is 9:47 a.m. in a conference room in Denver. Maria, the union negotiator, sits across from James, the company's director of operations. They have been circling the same ground for two hours: healthcare costs, seniority schedules, shift premiums. Maria wants $18.50 an hour. James opened at $17.20. The math is familiar. The positions are stuck.
 
-It is 9:47 a.m. in a walnut-paneled conference room in a glass tower overlooking Denver. On one side of the table sits the union negotiator, Maria. Across from her is James, the company's director of operations. Between them, a contract. It is now in its fourth revision. Maria wants $18.50 an hour; James opened at $17.20. For two hours they have been circling the same ground: healthcare costs, seniority schedules, shift premiums. The math is familiar.
+At 10:15, something shifts. Maria says, not aggressively: "Look. You don't want strikes. We don't want to walk. My people actually care about job security more than the extra dollar-fifty. What if the raise is smaller, but we add a severance guarantee — you can't just lay us off without sixty days' notice and a package?"
 
-At 10:15, something shifts. Maria says, not aggressively: "Look. You don't want strikes. We don't want to walk. My people actually care about job security more than the extra dollar-fifty. What if the raise is smaller, but we add a severance guarantee—you can't just lay us off without sixty days' notice and a package?" 
+James is quiet. That is not what he expected. He thought this was a game of who can hold out longer on the same numbered positions. It turns out the thing Maria *actually* needed was not the biggest number but insurance against layoffs. The thing James *actually* needed was flexibility on the hourly rate, not a heroic stand at $17.20.
 
-James is quiet. That's not what he expected. He expected her to defend the hourly rate. He thought this was a game of who can hold out longer on the same numbered positions. It turns out the thing she *actually* needed was not the biggest number but insurance against layoffs. The thing he *actually* needed was flexibility on the hourly rate, not a heroic stand at $17.20.
+They settle at $17.75, with the severance clause. Both sides walk out saying they won. Not because they got everything they wanted — because they stopped fighting over the numbers and started solving the problem underneath them.
 
-They settle at $17.75, with the severance clause. Both sides walk out saying they won. Not because they got everything they wanted, but because they stopped fighting over the numbers and started solving the problem underneath them.
+This chapter is about what shifted at 10:15 and why it does not shift more often.
 
-### Learning objectives
-
-By the end of this chapter you will be able to:
-
-- **Distinguish** the sources of conflict in organizations and recognize when conflict is functional versus dysfunctional.
-- **Identify** the five conflict-handling modes (competing, collaborating, compromising, avoiding, accommodating) and choose the right one for the situation.
-- **Trace** how conflict escalates through Pondy's five stages and where interventions are most effective.
-- **Recognize** the difference between distributive and integrative negotiation, and when each applies.
-- **Prepare** for negotiation by identifying your BATNA, your walk-away threshold, and your counterpart's likely constraints.
-- **Navigate** cultural differences in bargaining without assuming your approach is universal.
-
-### Prerequisites
-
-Chapter 11 (Communication), Chapter 12 (Leadership), and Chapter 13 (Power and Politics) provide the foundation. You should understand interpersonal dynamics, power bases, and how communication gets garbled. The chapter assumes you have been in a disagreement and remember how it felt.
-
-### Why this chapter matters
-
-Most managers spend roughly 20% of their time managing some form of conflict. Not because conflict is rare—it is not—but because avoiding it is costlier than facing it. A manufacturing plant can close for three weeks when one person and one manager cannot communicate. A merger can fail when two divisions cannot agree on process. A team with good task conflict (people disagreeing on ideas) makes measurably better decisions than teams that smooth things over. The machinery of conflict and negotiation is not soft skill; it is operational machinery. This chapter shows you how it works.
+<!-- → [IMAGE: two-panel split of the Denver negotiation — left panel: 9:47 a.m., both sides with position cards face-up showing $18.50 and $17.20, identical body language of impasse; right panel: 10:15 a.m., Maria's card flipped to show "job security," new severance clause card on the table, both sides leaning in; caption: "same room, same people — different negotiation"] -->
 
 ---
 
-## Concept 1 — The sources and types of conflict
+## Where conflict comes from
 
-Conflict originates when one person or group feels blocked in pursuing a goal they care about. That frustration does not always become visible immediately. It lives first as an internal state, then as a perception, then as behavior. The stages tell you where to intervene. But first, where does conflict come from?
+Conflict originates when someone feels blocked in pursuing a goal they care about. That frustration does not always become visible immediately. It lives first as an internal state, then as a perception, then as behavior. But where does it begin?
 
-### The structural roots
+Take a manufacturing firm with a sales department and a production department. Sales people are paid bonuses for closing deals. They are motivated to promise customization and fast delivery. Production people are rewarded for efficiency. They are motivated to make long runs of standard products and meet deadlines set weeks in advance. Same firm. Opposing incentive structures. The conflict that erupts when sales promises a custom order on a short deadline is not personal — it is designed into the org chart.
 
-Take a manufacturing firm with a sales department and a production department. Sales people are paid bonuses for closing deals. They are motivated to promise customization and fast delivery. Production people are rewarded for efficiency. They are motivated to make long runs of standard products and meet deadlines set weeks in advance. Same firm, opposing incentive structures. Conflict is not personal—it is built into the org chart.
+This is task interdependence: the more departments rely on each other to do their work, the more likely that small disagreements blow up into large ones. Add jurisdictional ambiguity — it is not clear who owns a decision — and blame scatters. Add communication gaps and frustration metastasizes into resentment. Add scarcity: two groups competing for the same budget pool, where one winning means the other losing. The resources are zero-sum. The conflict is structural, not incidental.
 
-This is called **task interdependence**—the more departments rely on each other, the more likely small disagreements blow up into large ones. Add status inconsistencies—some employees can take personal time during the workday and others cannot—and people notice the unfairness. Add **jurisdictional ambiguity**—it is not clear who owns a decision—and blame can scatter. Add **communication gaps**—a project requirement gets misinterpreted—and frustration metastasizes.
-
-Conflict also lives in scarcity. When two groups compete for the same budget pool, and one wins, the other loses. The resources are zero-sum. This is **dependence on common resource pools**. Production wants the best people and tools for their line; engineering wants the same people and tools for their innovations. Both cannot have everything. Conflict becomes inevitable.
-
-Finally, add personality. Some people have higher tolerance for ambiguity, lower dominance drives, more patience in negotiation. **Individual differences** shape whether conflict erupts at the first provocation or takes sustained mishandling to ignite. The structural factors create the kindling. The personalities decide if a spark catches.
-
-### The types of conflict—what's actually being disputed
-
-When conflict surfaces, it wears different masks. Researchers—particularly Karen Jehn in her work on task versus process versus relationship conflict—have identified that not all disagreement is the same thing.
-
-**Task conflict** is disagreement about the work itself: Is the deadline realistic? Should we automate this process or keep it manual? Is this code efficient enough? This is the useful kind. In teams doing complex work, *moderate* amounts of task conflict correlate with better decisions. It surfaces problems. It forces people to justify their reasoning. The meta-analyses are clear: a little friction improves output. A lot of friction—or the wrong *kind* of friction—breaks it.
-
-**Process conflict** is disagreement about how to do the work. Who decides? What are the steps? Who reports to whom? It is adjacent to task conflict but more procedural. It can be useful—good processes prevent mistakes—but it can also become ritual. When people argue about process without connecting it back to task performance, it becomes bureaucratic and draining.
-
-**Relationship conflict** is personal. One person thinks another is aggressive, manipulative, or untrustworthy. At any level beyond minimal amounts, relationship conflict destroys teams. It makes people defensive, shuts down information sharing, and turns disagreements into feuds. Where task conflict can sharpen thinking, relationship conflict muddies it. The insult matters more than the idea.
-
-### The escalation stages—Pondy's map
-
-Louis Pondy, an organizational theorist, mapped how conflict moves from latent to manifest. Understanding the stages tells you where to intervene before a disagreement becomes a disaster.
-
-**Stage 1: Latent conflict.** The conditions exist. The incentives are misaligned. The resources are scarce. The communication is poor. Nothing visible has happened yet, but the structure is there. A manager who sees these conditions can prevent conflict by redesigning incentives, clarifying authority, or improving communication. This is the cheapest intervention—it prevents ignition altogether.
-
-**Stage 2: Perceived conflict.** Someone notices the misalignment. They become aware that a collision is possible. No action has been taken yet, only awareness. At this stage, perception can be wrong—someone might assume hostile intent when none exists, or misunderstand a policy change. Early clarification helps. A conversation that says "Let's make sure we understand what's happening here" can dissolve conflict before emotion attaches to it.
-
-**Stage 3: Felt conflict.** Now emotion arrives. Frustration, anger, anxiety—these are felt. The person is no longer coolly observing a problem. They are upset about it. This is where the situation becomes personal. Research on emotional contagion shows that one person's frustration spreads to others. At this stage, people stop thinking carefully. The tone shifts from "let's solve this" to "I need to protect myself."
-
-**Stage 4: Manifest conflict.** Now people act. They send sharp emails. They refuse to cooperate. They go around someone's authority. They lobby allies. The conflict is now visible behavior, not internal state. Once behavior appears, reversing it becomes harder. The other party responds defensively. Escalation feeds escalation.
-
-**Stage 5: Aftermath.** The conflict ends—either resolved or suppressed. But the relationship changed. If the resolution felt fair, people often come out stronger. If it felt imposed or unjust, resentment sets in. That resentment becomes the latent conflict for the next episode. One unresolved conflict births the next. A manager's work here is to ensure the resolution feels legitimate, not punitive.
-
-### Functional versus dysfunctional conflict—the distinction that matters
-
-Here is a myth that dies in this chapter: all conflict is bad and should be eliminated.
-
-The truth is narrower and more useful. Moderate task conflict improves decision quality. Zero conflict often means a team is either so homogeneous it never questions itself, or so terrified of disagreement that it stays silent. Those teams make predictable mistakes. They miss risks. They double down on bad strategies because no one spoke up.
-
-But too much conflict—or the wrong kind—is poison. Relationship conflict destroys trust. Unmanaged process conflict creates chaos. Manifest conflict that is never resolved drains energy from actual work.
-
-The research is consistent: there is an optimal level of conflict. Too little, and decisions are worse. Too much, and everything breaks. The manager's job is not to eliminate conflict but to keep it in the functional zone. Task conflict, yes. Relationship conflict, no. Ongoing process arguments without resolution, no. A clear dispute about ideas with genuine listening on both sides, yes.
-
-The old metaphor of conflict as disease—something to cure—misses the point. A better metaphor: conflict is diagnostic information. It shows you where the structure is broken, where people have incompatible incentives, where communication has failed. The conflict itself is not the problem. Ignoring the information the conflict carries—that is the problem.
-
-### Worked example — recognizing types of conflict in a product team
-
-A software team of six people is building a feature for an analytics platform. The senior engineer, David, insists that the architecture should be modular—each component can be tested independently. The product manager, Sarah, wants to move fast and get the feature shipped in six weeks. The timeline assumed that they would build it monolithically, finish faster, then refactor later.
-
-This is **task conflict**—disagreement about the right approach. Modular costs time upfront but saves time later and reduces bugs. Monolithic ships faster but creates technical debt. Both are reasonable positions. A good team actually *wants* this argument, because one of these tradeoffs is wrong for this product, and the argument surfaces which one.
-
-Two weeks into the project, David and Sarah start arguing about *who decides*. Sarah says the product timeline is set by customers and can't slip. David says engineers need a voice in architecture or he'll refuse to maintain the code. The argument has shifted to **process conflict**—it is no longer about the right approach but about authority and decision rights. If this stays unresolved, the team will fragment. One person resolves this by clarifying: "Sarah, you own the ship date. David, you own the architecture. Both constraints are real. Let's see if there is a design that honors both." This reframes the decision-making process and often unlocks solutions neither person saw alone.
-
-Somewhere in the third week, Sarah gets frustrated that David keeps saying the timeline is "unrealistic." She interprets this as David saying *she* is unrealistic, that she doesn't understand engineering. David, for his part, thinks Sarah is just pushing for speed without thinking about quality. Now there is **relationship conflict**—each thinks the other doesn't respect their expertise. If this escalates, the team breaks. The path forward: acknowledge that both experts are right in their domain. Sarah knows customer needs. David knows technical constraints. The conflict is not about respect but about constraints that both are trying to honor. Naming that can defuse the personal layer and let the team refocus on task and process.
-
-### Common misconceptions
-
-**Myth 1: Conflict is always destructive.** False. Moderate task conflict in teams doing complex work is correlated with better decisions. Zero conflict often means either false consensus or suppression.
-
-**Myth 2: The goal is to eliminate conflict.** False. The goal is to keep it in the functional zone—enough that people think carefully and surface problems, not so much that relationships break and productivity stops.
-
-**Myth 3: Conflict is caused by bad people or personality clashes.** Partly true, but structural factors matter more. Misaligned incentives, unclear decision rights, scarce resources, and poor communication cause most conflict. Personality shapes whether it ignites, but structure determines whether kindling exists.
+Personality matters, but less than structure. Some people have higher tolerance for ambiguity, more patience, lower dominance drives. Individual differences shape whether conflict erupts at the first provocation or takes sustained mishandling to ignite. The structural factors create the kindling. Personality decides whether a spark catches. Most managers focus on personality. Most conflict is kindling.
 
 ---
 
-## Concept 2 — Styles of handling conflict
+## The three types, and why only one of them is useful
 
-When conflict becomes manifest—people are acting, not just feeling—a person chooses how to respond. Thomas and Kilmann identified five modes. Not one is always right. Each fits different situations. The trap is picking the same mode every time, regardless of circumstance.
+Not all conflict is the same thing. Researchers — particularly Karen Jehn in her work on teams — have identified three types, and they behave very differently.
 
-### The five modes explained
+*Task conflict* is disagreement about the work itself: Is the deadline realistic? Should we automate this process? Is this architecture efficient enough? This is the useful kind. In teams doing complex work, moderate task conflict correlates with better decisions. It surfaces problems. It forces people to justify their reasoning. The meta-analyses are clear: a little friction improves output. Teams with zero conflict are not healthy — they are either so homogeneous that no one ever questions anything, or so afraid of disagreement that problems get silently buried.
 
-The modes live on two dimensions: **assertiveness** (how much you push for your own concerns) and **cooperativeness** (how much you care about the other side's concerns). Five combinations emerge.
+*Process conflict* is disagreement about how to do the work — who decides, what are the steps, who reports to whom. It is adjacent to task conflict but more procedural. It can be useful when it produces better processes. It becomes bureaucratic and draining when people argue about process as an end in itself, disconnected from actual task performance.
 
-**Competing** is high assertiveness, low cooperativeness. You go for the win. You are willing to push hard for your goals even if it damages the relationship or the other side loses out. This is appropriate when:
-- Speed matters and decisiveness is required (emergency response, safety crisis).
-- The stakes are existential (the firm's survival is at stake and one path is decisively more likely to preserve it).
-- You are dealing with someone who exploits accommodation or collaboration. If the other side always takes advantage of your goodwill, sometimes you have to enforce boundaries.
+*Relationship conflict* is personal. One person thinks another is aggressive, manipulative, or untrustworthy. At any level beyond minimal, relationship conflict destroys teams. It makes people defensive, shuts down information sharing, and turns disagreements into feuds. Where task conflict sharpens thinking, relationship conflict muddies it. The insult matters more than the idea.
 
-Competing is *not* appropriate when you care about ongoing relationship, when you need buy-in from the other party, or when the problem is actually shared (you both have a stake in the solution).
+The failure mode is that task conflict degrades into relationship conflict. David the engineer disagrees with Sarah the product manager about architecture — that is task conflict, useful. After three rounds without resolution, David starts saying Sarah "doesn't understand engineering" and Sarah starts saying David "always blocks progress." Now it is relationship conflict, and no one is thinking about architecture anymore. They are protecting their identities.
 
-**Collaborating** is high on both dimensions. You seek to understand the other side's concerns and they understand yours. Together you look for solutions that satisfy both sets of concerns. This is the most time-consuming mode, but it is appropriate when:
-- Both people's concerns are important—neither is trivial.
-- You need genuine commitment from the other side, not just compliance.
-- The relationship matters for the future.
-- The problem might have integrative solutions that neither party saw alone.
+<!-- → [CHART: conflict type vs. team performance — inverted-U curve for task conflict (moderate = peak performance), flat-negative line for relationship conflict (any level hurts); x-axis: level of conflict; y-axis: team decision quality; student should see that the goal is not zero conflict but the right kind at the right level] -->
 
-Collaborating is powerful but slow. It requires trust, time, and good-faith engagement from both sides.
-
-**Compromising** is moderate on both dimensions. Each side gives up something. You split the difference. This is appropriate when:
-- Time is pressing and you need a solution now.
-- The two sides have equal power and neither can force the issue.
-- The issue is not that important to either side—"good enough" is fine.
-- Collaboration has been tried and failed.
-
-Compromising is useful but it often leaves both sides partially dissatisfied. If the issue later becomes more important, resentment can surface.
-
-**Avoiding** is low on both dimensions. You do not push for your concerns and you do not try to help the other side. You withdraw, delay, or deny the conflict exists. This is appropriate when:
-- The issue is truly trivial—the energy cost of addressing it exceeds the cost of ignoring it.
-- You need time to cool down before a conversation will be productive.
-- Addressing the conflict would cost more than letting it lie.
-- Other people can resolve it more effectively.
-
-Avoiding is often used when none of these conditions hold. Managers avoiding conflict hoping it will go away usually find that it festers and resurfaces worse. Avoidance is a tool, not a personality type.
-
-**Accommodating** is low assertiveness, high cooperativeness. You give ground. You let the other side win. This is appropriate when:
-- You discover you are actually wrong and the other person is right. (This is underused. Most people do not change their minds in conflicts often enough.)
-- The issue matters much more to them than to you, and the cost to you of accommodation is low.
-- You are building a relationship and want to show goodwill.
-- You want to help the other side develop by learning from their own mistake (sometimes you let subordinates "win" a bad idea so they learn why it was bad).
-
-Accommodating backfires when people interpret it as weakness and exploit it, or when you accumulate resentment by giving ground too often.
-
-### The illusion of self-assessment
-
-Here is a consistent finding: when executives are asked how *they* handle conflict, they say collaboration or compromise. When asked how their *opponents* handle conflict, they say the opponents use competition. This is called the **fundamental attribution error** in negotiation. We see our own behavior as situational (we're collaborative but this person forced us to be tough). We see others' behavior as dispositional (they're just competitive). It is rarely true.
-
-This matters because it shapes strategy. If you wrongly assume the other side is purely competitive, you will compete in return and lock into an arms race. If you correctly see that both sides are responding to the situation, you can change the situation. You can offer collaboration. You can name the dynamic. You can reset expectations.
-
-### Worked example — choosing the right mode in a real situation
-
-A software architect is on a deadline to ship a product. A compliance officer on another team flags that the current design does not meet a new regulatory requirement. The architect's impulse: this is a crisis, ship now, fix later. Compete. Push through.
-
-But let's examine the situation. The compliance officer has legitimate authority. Shipping without compliance will cause larger problems down the road. The relationship matters—the architect will need compliance sign-off on future projects. The solution might not be binary (ship or don't ship) but instead creative (can we ship to non-regulated markets first, deploy the compliant version in six weeks?).
-
-**Collaborating is the right mode here.** The architect sits with the compliance officer and asks: What exactly is the gap? How much flexibility exists in the interpretation? What does "compliant" look like on our timeline? Are there partial solutions? By collaborating, they often find that the gap is narrower than the initial flag suggested, or that the timeline for compliance can be negotiated, or that a technical workaround exists. If the architect had competed—pushed for the ship—they would have burned a bridge and created a downstream crisis.
-
-A second scenario: two department heads are fighting over which department gets a newly approved headcount slot. There is no shared problem to solve. The headcount is fixed. One wins, one loses. There is no integrative solution.
-
-**Compromising is the right mode here.** You cannot split a headcount, but you can trade—maybe one department gets the headcount slot and the other gets a higher equipment budget. Or they agree that the new person will split time between both departments. Competing would leave the loser bitter. Collaborating is a waste of time when the resource is zero-sum. Compromising acknowledges reality: something is fixed, both sides have legitimate needs, and both sides can live with "half a win."
-
-### Common misconceptions
-
-**Myth 1: Good managers collaborate all the time.** False. Good managers read the situation and choose the mode that fits. Sometimes you have to compete. Sometimes you have to accommodate. Sometimes avoiding for 24 hours while people cool down is the right call.
-
-**Myth 2: Competing is always bad because it damages relationships.** False. Competing is appropriate when speed is critical, stakes are existential, or the other side is exploiting goodwill. It is bad when used in situations that call for collaboration or compromise.
-
-**Myth 3: Compromise is the safe middle ground.** Partly true, but compromise leaves both sides partially dissatisfied. It is not the goal; it is a tool for situations where the pie is fixed and both sides matter.
+<!-- → [TABLE: three conflict types — rows: task, process, relationship; columns: what is being disputed, effect on team performance, when it is functional, how it becomes dysfunctional, management response] -->
 
 ---
 
-## Concept 3 — Negotiation, BATNA, and interest-based bargaining
+## How conflict escalates, and where to stop it
 
-Conflict that reaches the point of negotiation is conflict that both sides recognize they cannot avoid. Negotiation is structured bargaining toward agreement. Not all negotiations are the same. The machinery differs depending on whether the pie is fixed or whether it can grow.
+Louis Pondy, an organizational theorist, mapped the stages through which conflict moves from invisible to destructive. Understanding the stages tells you where to intervene.
 
-### The two types: distributive and integrative
+*Latent conflict* is the starting condition. The incentives are misaligned. The resources are scarce. The communication is poor. Nothing visible has happened yet, but the structure is primed. A manager who sees these conditions can prevent conflict by redesigning incentives, clarifying authority, or improving communication. This is the cheapest intervention — it prevents ignition altogether.
 
-**Distributive bargaining** assumes a fixed pie. The buyer wants the house cheap; the seller wants it expensive. If the buyer wins (lower price), the seller loses (less money). One side's gain is the other side's loss. This is called zero-sum or fixed-sum negotiation.
+*Perceived conflict* is when someone notices the misalignment. They become aware that a collision is possible. No action has been taken, only awareness. At this stage, the perception can be wrong — someone might assume hostile intent when none exists, or misunderstand a policy change as an attack. Early clarification dissolves conflict before emotion attaches to it.
 
-In distributive bargaining, the strategy is to:
-1. Anchor with an opening offer that is outrageously favorable to you. Test the other side's walk-away threshold. A seller lists a house at $850,000 when she would accept $750,000. She is fishing for how high the buyer is willing to go.
-2. Refuse to move much. The less you move, the less the other side expects to move.
-3. Make the other side move toward you, not the reverse.
-4. Find the **resistance point**—the threshold beyond which the other side will not go. Once you find it, the negotiation becomes a game of getting as much of the pie as possible while staying above their walk-away point.
+*Felt conflict* is when emotion arrives. Frustration, anger, anxiety — the person is no longer coolly observing a problem. They are upset about it. Research on emotional contagion shows that one person's frustration spreads. People stop thinking carefully. The tone shifts from "let's solve this" to "I need to protect myself."
 
-Distributive bargaining works for one-off transactions where you will never see the other party again. It fails for ongoing relationships. It builds resentment.
+*Manifest conflict* is when people act. Sharp emails. Refusal to cooperate. Going around someone's authority. Lobbying allies. Once behavior appears, reversing it is harder. The other party responds defensively. Escalation feeds escalation.
 
-**Integrative bargaining** (also called win-win or interest-based) assumes the pie can grow. This happens when the two sides have *different* underlying interests, even if they seem to have opposite positions.
+*Aftermath* is when the conflict ends — resolved or suppressed. But the relationship changed. If the resolution felt fair, people often come out stronger. If it felt imposed, resentment sets in. That resentment becomes the latent conflict for the next episode. One unresolved conflict births the next.
 
-Maria the union negotiator and James the operations director seemed to be fighting over the hourly rate (distributive—one side wins on pay, the other wins on salary costs). But when Maria shifted to saying "we care more about job security than the extra dollar-fifty," the negotiation became integrative. She could give on the rate. He could give on the severance clause. The pie grew because they were trading different things—each side gave ground on something that mattered less to them and got something that mattered more.
+<!-- → [INFOGRAPHIC: Pondy's five stages as a cascade — latent → perceived → felt → manifest → aftermath; with intervention arrows showing where each type of action is most effective; cheapest interventions are at left, most expensive at right] -->
 
-Integrative bargaining requires:
-1. **Honesty about interests.** "I really need X" is more useful than "the market rate is X." Interests are what you actually care about. Positions are your stated demands. The position might be $18.50/hour. The interest might be security against layoffs, or respect for seniority, or predictable income. Once interests are on the table, creative trading becomes possible.
-2. **Curiosity about the other side.** What do they actually need? Why do they hold the position they hold? What would move them? This requires genuine listening, not just waiting for your turn to talk.
-3. **Time and trust.** Integrative bargaining is slower than distributive. It requires good-faith engagement. If one side fears the other will exploit openness, it collapses into distributive bargaining.
-
-### The BATNA—your real alternative
-
-Roger Fisher and William Ury, in their book *Getting to Yes*, introduced the concept of BATNA: your **Best Alternative To a Negotiated Agreement**. If negotiation fails, what do you do instead?
-
-Your BATNA shapes your power. If you have a strong alternative—another job offer, another supplier, another buyer—your walk-away threshold is high. The other side knows this. If you have no alternative—you need this deal or you have nowhere else to go—your threshold is low and the other side can push you hard.
-
-A negotiator's homework is to honestly assess: What is my BATNA? How attractive is it? What is *their* BATNA? How attractive is theirs? The party with the more attractive BATNA has the stronger hand. If both sides have attractive BATNAs, the best outcome might be *not* to reach an agreement. Sometimes walking away is the right answer.
-
-### The negotiation process in stages
-
-Negotiations usually move through four stages, though the time spent on each varies by culture.
-
-**Stage 1: Relationship building (non-task time).** In American business culture, this is brief—"let's get down to business." In many other cultures (Mexico, South Korea, Middle East), this stage is long and essential. The relationship must be established before the transaction is discussed. In these cultures, the *person* matters as much as the contract. Trust in the person determines whether they will honor the agreement. Skipping this stage signals disrespect.
-
-**Stage 2: Information exchange.** Each side presents its background, constraints, priorities. In Japanese negotiations, this stage is particularly important because specific proposals must be understood in context. Americans often rush through this. Japanese negotiators use it to build shared understanding of the landscape. The time invested here prevents misunderstandings later.
-
-**Stage 3: Influence and persuasion.** Now the sides make their case. They present their positions, make concessions, make counteroffers. The tactics used—promises, threats, appeals to fairness, appeals to precedent—vary by culture. American negotiators tend to lead with facts and logic. Arab negotiators often lead with emotion and relationship. Russian negotiators appeal to principle. None of these is better; they are different languages saying "take my offer seriously."
-
-**Stage 4: Closing.** The agreement is reached or the negotiation ends. What signals closure varies by culture. In the US, a signed contract means it is over—"a deal is a deal." In China, a signed contract often signals the *beginning* of the final negotiations. The document identifies the key issues that still need work. In China, the relationship is more binding than the paper.
-
-### Cultural differences in negotiation—the diversity of bargaining styles
-
-Here is a mistake many American negotiators make: assuming that the other side bargains like they do.
-
-Americans tend to:
-- Move quickly to business. Relationship building feels like wasting time.
-- Lead with facts and figures. "The market rate is..."
-- Make small concessions early to show goodwill.
-- See concessions as weakness and push harder when the other side gives ground.
-- Be very conscious of deadlines. The deal needs to be done by Friday.
-- Trust the written contract. Once signed, obligations are clear.
-
-Japanese negotiators tend to:
-- Spend significant time on relationship and context.
-- Appeal to ideals and norms. "This is how we do things..."
-- Make few concessions, especially early.
-- See the other side's concession as evidence of strength and good faith, not weakness.
-- Be unconcerned with deadlines. Relationship takes as long as it takes.
-- Trust the person, not the paper. The relationship ensures compliance.
-
-Brazilians tend to:
-- Say "no" frequently during negotiation (as a tactic, not a final answer).
-- Be highly expressive and interrupt often.
-- Make many gestures and use physical contact.
-- Relate personally and build connections quickly.
-- Move at a pace that feels natural to the conversation.
-
-If an American negotiator sits across from a Japanese negotiator and does not understand these differences, they will interpret the Japanese side's reluctance to make early concessions as stubbornness. The Japanese side will interpret the American's quick moves and deadline pressure as disrespect for the relationship. Both will walk out frustrated. The negotiation fails not because the parties could not have reached a deal but because they were negotiating in different languages.
-
-The solution is not to adopt the other culture's style. The solution is to understand it. Recognize that a long relationship-building phase is not wasted time—it is the foundation. Recognize that few concessions do not mean intransigence—they might mean the side is serious about their position. Recognize that lack of deadline consciousness is not disorganization—it is a signal that the person matters more than the date on the calendar.
-
-### Worked example — diagnosing what kind of negotiation you are in
-
-A manufacturing company is negotiating a long-term supply contract with a parts vendor. The vendor has other customers; the company has other suppliers. Both sides have BATNAs. The relationship will last years. This is **integrative** negotiation disguised as distributive.
-
-If both sides focus only on price—who can push the cost lower—they will negotiate the day away and end up with resentment. Instead, the integrative questions are: What does stable supply look like to us? What does predictable demand look like to the vendor? Can we offer volume guarantees in exchange for price breaks? Can we commit to longer contracts in exchange for better rates? Can we collaborate on inventory management to reduce both sides' costs? Can the vendor help us redesign our parts so they are cheaper to make?
-
-By reframing from "what is the lowest price" to "what value can we create together," both sides often find deals that beat pure price negotiation. The vendor earns better margins because demand is predictable. The company gets lower costs because waste is eliminated. The relationship becomes collaborative instead of adversarial.
-
-Contrast this with a one-time house purchase. The buyer and seller will never meet again. They have no ongoing relationship. This is **distributive** negotiation and should be straightforward. The buyer opens low. The seller opens high. They narrow the gap. The resistance point is discovered. A deal is struck. Both sides knew what the game was. No one expected collaborative problem-solving. Efficiency and speed are what matter.
-
-Confusion arises when one side treats a long-term relationship like a one-off transaction, or treats a one-off like a relationship. A supplier who uses hard distributive tactics on a long-term customer damages the relationship and loses the account. A real-estate buyer who spends weeks on relationship building when the seller wants efficiency frustrates both parties.
-
-### Common misconceptions
-
-**Myth 1: Win-win is always possible.** False. In true zero-sum situations (fixed resources, one-shot transaction), win-win is not possible. Trying to force it wastes time. Distributive bargaining is appropriate.
-
-**Myth 2: Negotiation is about the final number.** False. Negotiation is about discovering what both sides actually need and finding a trade that honors both. The final number is just one term. The duration of the contract, the payment schedule, the service guarantees, the exit clauses—these are all tradeable and can move if the price is the sticking point.
-
-**Myth 3: Concessions are weakness.** False. A concession is movement toward agreement. The other side's concession might signal they are serious about reaching a deal, not that they have surrendered their position. The difference is in whether you respond to a concession by reciprocating or by pushing harder. Reciprocation builds collaborative momentum. Pushing harder teaches the other side that concessions do not work.
+The key insight is that interventions at stage one cost almost nothing and prevent everything. Interventions at stage four are expensive and uncertain. Most managers wait until stage four. Most managers create more work for themselves than they need to.
 
 ---
 
-## Integration — the conflict-negotiation system
+## Five ways to handle conflict, and the illusion of knowing which you use
 
-Conflict and negotiation are not separate problems. They are stages of the same process. When conflict becomes manifest, the parties are no longer silent. When they are no longer silent, negotiation becomes possible.
+When conflict becomes manifest, a person chooses how to respond. Thomas and Kilmann identified five modes, mapped on two dimensions: assertiveness (how hard you push for your own concerns) and cooperativeness (how much you care about the other side's concerns).
 
-The best managers do not try to eliminate conflict. They:
+*Competing* is high assertiveness, low cooperativeness. You go for the win. This is appropriate when speed matters and decisiveness is required, when stakes are existential, or when the other side is exploiting goodwill. It is wrong when you care about the ongoing relationship, when you need genuine buy-in from the other party, or when the problem is actually shared. Most managers underestimate how often they compete and overestimate how often they collaborate.
 
-1. **Prevent unnecessary conflict** by designing clear incentives, transparent decision rights, and good communication. Many conflicts never need to happen because the structure was never ambiguous in the first place.
+*Collaborating* is high on both dimensions. You seek to understand the other side's concerns, they understand yours, and together you look for solutions that satisfy both. This is the most powerful mode for complex, ongoing relationships — and the most time-consuming. It requires trust and genuine good-faith engagement from both sides. It fails when the problem is truly zero-sum, or when one side uses the openness of collaboration to extract information and then compete.
 
-2. **Keep functional conflict functional** by maintaining psychological safety—people know they can disagree without retaliation—and by preventing task conflict from degrading into relationship conflict. This means explicitly separating the disagreement from the person. "I think your analysis is incomplete" is task conflict. "You are sloppy" is relationship conflict. One is useful; one is destructive.
+*Compromising* is moderate on both dimensions. Each side gives up something. This is appropriate when time is pressing, when the two sides have equal power and neither can force the issue, or when collaboration has been tried and failed. Compromising is useful but it leaves both sides partially dissatisfied. If the issue later becomes more important, the resentment surfaces.
 
-3. **Resolve dysfunctional conflict** by choosing the right handling mode. Sometimes competing is right. Sometimes accommodating teaches a lesson. Often, the key is recognizing what *type* of conflict has surfaced and treating it accordingly. Relationship conflict demands repair. Task conflict demands good arguments. Process conflict demands clarity about decision rights.
+*Avoiding* is low on both dimensions. You withdraw, delay, or deny the conflict exists. This is appropriate when the issue is truly trivial, when you need time to cool down before a conversation will be productive, or when addressing it would cost more than letting it lie. Avoiding is frequently misused — managers avoiding conflict hoping it disappears usually find it festers and resurfaces worse. Avoidance is a tool, not a personality trait.
 
-4. **Negotiate from interest, not position.** When both sides understand what the other actually needs—not what they are asking for, but what they need—creative solutions appear. Maria and James did not need to split the hourly-rate difference. They needed to trade different things.
+*Accommodating* is low assertiveness, high cooperativeness. You give ground. This is appropriate when you discover you are actually wrong — which is underused, because most people do not change their minds in conflicts often enough — or when the issue matters much more to the other person than to you. Accommodating backfires when others interpret it as weakness and exploit it, or when you accumulate resentment by giving ground too often.
 
-5. **Recognize that culture shapes style.** There is no universal way to negotiate. Americans are not better negotiators than Japanese negotiators; they are different. Each style works in its cultural context. The global manager reads the context and adapts.
+<!-- → [INFOGRAPHIC: Thomas-Kilmann grid — x-axis: cooperativeness (low to high), y-axis: assertiveness (low to high); five modes plotted in their quadrants with brief description; annotations showing appropriate use for each] -->
 
-The last point matters: managing conflict across cultures means learning what your style is, recognizing it as a style (not the Truth), and adapting when you negotiate with people from a different tradition. This is not losing your authenticity. It is respect.
+Here is a consistent finding that ought to trouble every manager: when executives are asked how *they* handle conflict, they say collaboration or compromise. When asked how their *opponents* handle conflict, they say competition. This is the fundamental attribution error in negotiation — we see our own behavior as situational ("I'm collaborative but this person forced me to be tough") and others' behavior as dispositional ("they're just competitive"). The pattern is well-documented. It is rarely accurate.
 
----
-
-## Graduated exercises
-
-### Warm-up: Identifying conflict types in a real scenario
-
-Read this scenario, then answer the questions below.
-
-A technology company has three teams: frontend engineering, backend engineering, and design. The frontend team is working on a new feature—a dashboard showing real-time analytics. The design team created mockups showing a certain layout. The frontend engineers looked at the mockups and said the layout requires backend API calls that are too slow; the dashboard will be sluggish. They want a simpler layout that reduces the API dependency.
-
-The design team says the layout is what users asked for, and if the engineers cannot deliver it, they should improve the backend performance instead. The backend team says they are at capacity, and this feature is not their priority right now.
-
-Now the argument escalates. The frontend lead sends an email saying, "Design doesn't understand engineering constraints. We can't promise something we can't deliver." The design lead responds, "Engineering is always the bottleneck. They don't want to work hard." By Friday, both teams are barely speaking.
-
-1. What types of conflict are present? (Identify task, process, and/or relationship conflict.)
-2. At what stage in Pondy's model is this conflict? (Latent, perceived, felt, manifest, or aftermath?)
-3. If you were the manager, which handling mode would you choose to resolve this, and why?
-
-### Application: Choosing a conflict style for different situations
-
-For each scenario below, identify which conflict-handling mode is most appropriate and explain why.
-
-**Scenario A:** Two coworkers have been collaborating on a project for months. They get along well and trust each other. Now they disagree on the technical approach for the final module. One wants to use a familiar framework that is solid but slower. The other wants to use a newer framework that is faster but less battle-tested. Both approaches could work. The project is not urgent, and they have time to discuss. What mode should they use?
-
-**Scenario B:** You are a plant manager. A safety issue has been flagged—equipment on the production line is not properly maintained. A line manager insists the maintenance schedule is fine and the flag is a false alarm. The union steward is threatening a work slowdown if safety is not addressed immediately. You need a decision now. What mode should you use?
-
-**Scenario C:** You manage two departments. Department A requested budget for a training program. Department B requested budget for new equipment. Both are good investments, but you have funding for only one. Both department heads are competent people with legitimate needs. What mode should you use?
-
-### Synthesis: Negotiating across cultural lines
-
-You are negotiating a contract with a manufacturing partner in Japan. You are American. Based on what you know about American and Japanese negotiating styles, identify:
-
-1. Which stage of negotiation will likely take the longest, and why?
-2. What behaviors from the Japanese side might you misinterpret as intransigence, and what might they actually signal?
-3. How would you adjust your approach to honor both the efficiency you need and the relationship-building the Japanese side values?
+This matters because it shapes strategy. If you wrongly assume the other side is purely competitive, you will compete in return and lock into an arms race. If you correctly see that both sides are responding to the situation, you can change the situation. You can offer collaboration. You can name the dynamic. The conflict might dissolve not because anyone changed their personality but because someone changed the conditions.
 
 ---
 
-## Chapter summary
+## The two types of negotiation, and the thing that shifts at 10:15
 
-Conflict is inevitable in organizations with task interdependence, scarce resources, unclear authority, and communication gaps. The conflict arises in stages: latent conditions, perception, emotional reaction, manifest behavior, and aftermath. Not all conflict is dysfunctional. Moderate task conflict in teams doing complex work correlates with better decisions. Relationship conflict, by contrast, is almost always destructive.
+When conflict reaches the point of structured bargaining, the machinery changes depending on whether the pie is fixed or whether it can grow.
 
-When conflict becomes manifest, a person has five choices: compete (high assertiveness, low cooperativeness), collaborate (high on both), compromise (moderate on both), avoid (low on both), or accommodate (low assertiveness, high cooperativeness). Each is appropriate in certain situations. The mistake is using the same mode regardless of circumstance or misreading the other party's style as personality when it is situational response.
+*Distributive bargaining* assumes a fixed pie. The buyer wants the house cheap; the seller wants it expensive. If the buyer wins, the seller loses. One side's gain is the other's loss. This is zero-sum negotiation. The strategy: anchor with an opening offer outrageously favorable to you, refuse to move much, and find the other side's resistance point — the threshold beyond which they will not go. Distributive bargaining works for one-off transactions where you will never see the other party again. It fails for ongoing relationships. It builds resentment that compounds.
 
-Negotiation begins when both sides recognize they cannot avoid settlement and must bargain toward agreement. Two kinds exist. Distributive bargaining assumes a fixed pie; one side's gain is the other's loss. Integrative bargaining assumes interests can be traded; one side gives on something that matters less to them and gets something that matters more. Most ongoing business relationships require integrative bargaining. The key is discovering underlying interests, not just positions, and trading different things rather than splitting the same thing.
+*Integrative bargaining* assumes the pie can grow. This happens when the two sides have *different* underlying interests, even if they seem to have opposite positions. Maria and James looked like they were in a distributive fight over the hourly rate. But when Maria said "my people care about job security more than the extra dollar-fifty," the negotiation became integrative. She could give on the rate. He could give on the severance clause. The pie grew because they were trading different things — each side gave ground on something that mattered less to them and received something that mattered more.
 
-Your power in negotiation rests on your BATNA—your best alternative if negotiation fails. A strong BATNA gives you a high walk-away threshold. Weak BATNA means you are more vulnerable. Understanding both your BATNA and the other side's shapes the negotiation.
+Integrative bargaining requires a distinction that most negotiations fail to make: the difference between *positions* and *interests*.
 
-Negotiation moves through stages: relationship building (which takes minutes in American culture and hours or days in others), information exchange, influence and persuasion, and closing. Cultural differences in each stage are not style preferences—they are different languages saying the same things. Americans move fast; Japanese negotiators slow down for relationship. Americans lead with facts; Arabs lead with emotion. None is better; they are different. The global manager reads the cultural context and adapts.
+A position is what you say you want. Maria's position: $18.50 an hour. James's position: $17.20. Positions are public and oppositional.
 
-The connection between conflict and negotiation is this: the structural factors that cause conflict—misaligned incentives, unclear authority, scarcity, communication gaps—also determine how difficult negotiation will be. A manager who prevents unnecessary conflict through good structural design also makes negotiation simpler when it becomes necessary. A manager who allows relationship conflict to build makes any later negotiation toxic. The work is preventive and relational, not just transactional.
+An interest is why you want it. Maria's interest: job security for her members. James's interest: labor cost flexibility. Interests are often compatible even when positions are not, because two parties rarely need exactly the same thing for exactly the same reason. The insight is that trades happen at the interest level, not the position level. Once Maria named her underlying interest, James could trade a severance clause — something that cost him relatively little — for concessions on the rate — something that cost her relatively little. Both sides got their interests satisfied. Neither got their position.
+
+The practical implication: "What do you actually need?" is more useful than "What's your final offer?" This requires the counterintuitive act of being honest about your own interests and curious about the other side's. Most negotiators spend the time between rounds thinking about their next argument, not about what the other side actually needs. The ones who win consistently are the ones who spend that time figuring out what trade is possible.
+
+<!-- → [INFOGRAPHIC: positions vs. interests — iceberg diagram; above waterline: Maria's position ($18.50) and James's position ($17.20), shown as opposing; below waterline: Maria's interest (job security) and James's interest (cost flexibility), shown as non-overlapping and therefore tradeable; caption: "the trade that ends the negotiation is always below the waterline"] -->
+
+---
+
+## BATNA: the number that tells you when to walk
+
+Roger Fisher and William Ury introduced the concept of BATNA — Best Alternative To a Negotiated Agreement. If this negotiation fails, what do you do instead?
+
+Your BATNA shapes your power. If you have another job offer, another supplier, another buyer — your walk-away threshold is high. The other side knows this. If you have no alternative — you need this deal or you have nowhere to go — your threshold is low. The party with the more attractive BATNA has the stronger hand.
+
+The mistake most negotiators make is not knowing their own BATNA before they sit down. They go in hoping to get a deal and discover their walk-away threshold only when the pressure is on — which is exactly when they are worst at assessing it. The homework before any significant negotiation is to honestly answer two questions: What is my BATNA? What is theirs?
+
+If both sides have attractive BATNAs, the best outcome might be not to reach an agreement. Sometimes walking away is the right answer. The negotiator who knows their BATNA can walk away without flinching. The negotiator who hasn't done the homework flinches — and the other side sees it.
+
+<!-- → [TABLE: BATNA analysis framework — rows: my BATNA, their likely BATNA, my walk-away threshold, their likely walk-away threshold, Zone of Possible Agreement (ZOPA); columns: what to consider, how to estimate, what it implies for strategy] -->
+
+---
+
+## Cultural differences are not style preferences
+
+Here is a mistake many American negotiators make: assuming the other side bargains the way they do.
+
+Americans tend to move quickly to business — relationship building feels like wasted time. They lead with facts and figures. They make small concessions early to signal goodwill. They treat a signed contract as closure: "a deal is a deal." They are very conscious of deadlines.
+
+Japanese negotiators tend to spend significant time on relationship and context before substantive proposals. They appeal to norms and precedent rather than facts. They make few early concessions. They see the person as more binding than the paper — the relationship ensures compliance more than the contract. They are unconcerned with deadlines in the way Americans mean them.
+
+Brazilians say "no" frequently during negotiation as a tactic, not a final answer. They are highly expressive, interrupt often, and move at a conversational pace that feels natural to the relationship.
+
+If an American negotiator sits across from a Japanese counterpart and does not understand these differences, they will interpret the Japanese side's reluctance to make early concessions as stubbornness. The Japanese side will interpret the American's deadline pressure and quick moves as disrespect for the relationship. Both walk out frustrated. The negotiation fails not because a deal was impossible but because both sides were bargaining in different languages without knowing it.
+
+The solution is not to adopt the other culture's style wholesale. The solution is to understand what the behavior signals. A long relationship-building phase is not wasted time — it is foundation. Few early concessions do not mean intransigence — they signal that the position is serious. Lack of deadline urgency is not disorganization — it is a statement that the relationship matters more than the calendar.
+
+<!-- → [TABLE: cross-cultural negotiation patterns — rows: American, Japanese, Brazilian; columns: pace of relationship-building, basis of persuasion (facts vs. emotion vs. principle), concession behavior, role of written contract, attitude toward deadlines; this is a contrast for diagnostic use, not stereotype] -->
+
+The global manager's job is to read the context and adapt without losing their own position. This is not inauthenticity — it is the same thing that makes a good communicator effective across contexts. You understand what the other person's signals mean and you respond to what they mean, not to what the signals would mean if you sent them.
+
+---
+
+## What the 10:15 shift requires
+
+Return to Maria and James.
+
+For two hours, they were fighting over positions. The thing that changed at 10:15 was that Maria named an interest. She stopped defending $18.50 and started explaining what $18.50 was actually for. The moment she did that, the negotiation changed shape. James could suddenly see a trade that hadn't existed before — because it hadn't been visible before, buried as it was under the positions.
+
+Most negotiations never reach 10:15. Most participants go in knowing what they want, spend the session arguing for it, and come out either satisfied or resentful. The deals that actually serve both sides require someone to break the positional standoff by naming what they actually need.
+
+This requires three things that conflict tends to suppress: honesty about your own interests, curiosity about the other side's, and enough psychological safety in the room that naming an interest doesn't feel like exposing a weakness. The third condition is the hardest. In an adversarial negotiation, admitting that you need something feels like giving the other side leverage. In reality, the trade that satisfies both sides can only be constructed if both sides know what they're trading for.
+
+The larger lesson connects back to where conflict comes from. The structural factors that produce conflict — misaligned incentives, unclear authority, scarce resources, communication gaps — are the same factors that make negotiation difficult. A manager who prevents unnecessary conflict through good structural design also makes negotiation simpler when it becomes necessary. The work is mostly upstream: designing systems where interests are aligned, where authority is clear, where people can disagree about tasks without damaging relationships.
+
+When that fails — and it will fail, because organizations are complex and humans are imperfect — the question is whether the people in the room know what they are actually fighting for, and whether they are willing to say it out loud.
+
+Maria and James got lucky. One of them was willing to say it. Most days, in most conference rooms, both sides leave without saying it, and the conflict continues in a different form.
 
 ---
 
 ## What would change my mind
 
-If research showed that moderate relationship conflict in teams produces better outcomes than I have stated, or that cultural differences in negotiation are primarily personality differences rather than cultural conditioning, I would revise this chapter's claims about which conflicts are functional.
-
-## Still puzzling
-
-I do not fully understand why American managers, when asked about their own conflict style, consistently overestimate their use of collaboration and underestimate their use of competition, while perceiving others as more competitive than themselves. The attribution error is well-documented, but the mechanisms driving it—whether it is motivated reasoning, faulty self-perception, or something about the negotiation context itself that brings out competition while we notice collaboration in ourselves—remain unclear to me.
+If research showed that moderate relationship conflict in teams produces better outcomes than I have stated, I would revise this chapter's claims about which conflicts are functional. If cultural differences in negotiation turned out to be primarily personality differences rather than cultural conditioning, the cross-cultural section would need rethinking. So far the research aligns with this account, but the mechanisms remain contested.
 
 ---
 
-## Tags
+## Still puzzling
 
-conflict, negotiation, organizational behavior, distributed interests, BATNA, integrative bargaining, cultural differences, dispute resolution, work teams, organizational structure
+I do not fully understand why American managers consistently overestimate their use of collaboration and underestimate their use of competition in conflict, while perceiving others as more competitive than themselves. The attribution error is well-documented. Whether it is motivated reasoning, faulty self-perception, or something about the negotiation context that brings out competition while we notice collaboration in ourselves — that mechanism is genuinely unclear to me.
+
+---
+
+## Exercises
+
+### Warm-up: Reading the situation
+
+1. **Structural diagnosis.** A product team and a security team are in recurring conflict about release timelines. The product team wants to ship fast; the security team keeps flagging vulnerabilities that delay launches. Everyone agrees both goals matter. Using the chapter's structural framework, identify the specific conditions producing this conflict — name the incentive misalignment, the jurisdictional ambiguity, or the resource constraint at work. Then propose one structural change (not a personality intervention) that would reduce the conflict before it erupts.
+
+2. **Pondy's stages.** The product-security conflict above has now reached this state: the product manager sent an all-hands email saying "security reviews are the biggest bottleneck in our company." The security lead responded by copying the CEO on a reply explaining all the incidents the security reviews have prevented. At what Pondy stage is this conflict? What does each side's behavior tell you about their emotional state? At what earlier stage could this have been interrupted, and how?
+
+3. **The attribution error in practice.** Think of a conflict you have been in — or one you observed — where you believed the other party was being unreasonably stubborn or competitive. Apply the fundamental attribution error: what situational explanation might account for their behavior? Does that change what the right response would have been?
+
+### Application: Choosing the mode and the method
+
+4. **Thomas-Kilmann mode selection.** For each scenario below, identify the most appropriate conflict-handling mode and explain exactly why the alternatives would fail in that situation.
+   - A safety officer has flagged that a production process violates a regulation. The plant manager believes the officer is misreading the regulation. A federal inspection is in two weeks.
+   - Two department heads have been in a six-month dispute about which department owns a shared data pipeline. Neither will use the other's solution. Both pipelines are running in parallel, costing twice the infrastructure budget.
+   - Your direct report is upset because you assigned a high-profile project to a colleague instead of them. The decision was sound. The relationship matters.
+
+5. **BATNA preparation.** You are negotiating a software contract renewal with a vendor. Your current contract expires in 60 days. The vendor knows this. Walk through the BATNA analysis: what is your BATNA, how do you estimate theirs, what is the Zone of Possible Agreement, and what does that imply about your negotiating posture? Now identify the one piece of information that, if you learned it, would most change your strategy.
+
+6. **Interests, not positions.** A hiring manager and a candidate are stuck. The candidate wants $140,000. The company has a band ceiling of $130,000 for the role. Both have stated their positions. The conversation has stalled. Apply the positions-vs.-interests distinction: what might each side's underlying interests actually be? Name at least two interests for each side that are not about the number itself. Then propose one trade — something other than the salary — that could satisfy both sides' interests.
+
+### Synthesis: From conflict to resolution
+
+7. **The David-and-Sarah escalation.** The chapter shows task conflict degrading into relationship conflict after three unresolved rounds. You are the manager who observes this happening. At what point — which Pondy stage — should you intervene? What would you say, and what mode would you use? Then: what structural change to the team's decision-making process would reduce the probability of this happening on the next project?
+
+8. **Cross-cultural negotiation failure.** An American technology company is negotiating a distribution partnership with a Japanese firm. The American lead is experienced, prepared, and data-driven. After two meetings, the Japanese side has shared almost nothing about their own constraints or priorities. The American lead reports back: "They're stonewalling. I don't think they're serious about this deal." Diagnose the situation using the chapter's cross-cultural framework. What is the American side likely misreading? What should they do differently in the next meeting, and why?
+
+### Challenge: When the framework runs out
+
+9. **Integrative bargaining requires honesty — but honesty is risky.** The chapter argues that naming your interests — saying what you actually need — is what makes integrative bargaining possible. A critic responds: "The moment you tell the other side what you really need, they use it against you. You've handed them your walk-away threshold." Engage seriously with this critique. When is it right? When does it fail? Under what conditions is the risk of interest disclosure worth taking, and what would you need to believe about the other party before you would take it?
+
 ---
 
 ## LLM Exercise — Chapter 14: Conflict and Negotiations
@@ -477,12 +311,11 @@ handbook.
 
 **Preview of next chapter:** Chapter 15 examines the company's environment (PESTEL) and the three layers of culture (Schein's artifacts, espoused values, underlying assumptions). The chapter's killer case is Blockbuster vs. Netflix, 1999–2007 — a culture that couldn't see its environment shifting.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Roger Fisher** was co-author of Getting to Yes (1981) — the modern foundation of principled negotiation.
+**Roger Fisher** was co-author of *Getting to Yes* (1981) — the modern foundation of principled negotiation.
 
 **Run this:**
 
