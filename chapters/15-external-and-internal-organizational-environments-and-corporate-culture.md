@@ -1,159 +1,149 @@
 # Chapter 15 — External and Internal Organizational Environments and Corporate Culture
-
-## Cold open
-
-Kodak invented the digital camera in 1975. A Kodak engineer named Steven Sasson built the first prototype — a chunky device that captured images on a magnetic cassette and displayed them on a television. Sasson showed the invention to his managers. The response he got was: "That's nice, but don't tell anyone about it." Kodak's entire business model depended on selling film. Digital photography was not a threat to be developed — it was a threat to be contained.
-
-By 2012, Kodak filed for bankruptcy. The company that had taught the world photography had failed to see that the world no longer wanted what Kodak was organized to make.
-
-The catastrophe was not technical. Kodak had the technology. It had the capital. It had the expertise and the manufacturing base. What it lacked was the ability to reconfigure itself as an organization — to shift its culture, its incentive structure, its identity — to compete in the market it had itself created. The external environment changed. Kodak's internal machinery did not move with it.
-
-This chapter is about that mismatch: how organizations sense their environments, how they structure themselves in response, and why culture — the unwritten rules about what we do and how we do it — becomes either the engine of adaptation or the anchor that holds a company in place.
-
-### Learning objectives
-
-By the end of this chapter you will understand:
-
-- **How external environments shape organizational survival.** The framework for reading what's pressing on an organization from outside — technology, regulation, competition, economic conditions, social expectation.
-- **Why organizational structure is not arbitrary.** The trade-off between tight control and nimble response, and when each is the right move.
-- **What culture actually is and why it's not what the posters on the wall say.** The layers of culture that actually shape behavior, and why culture change is so hard.
-- **When organizations adapt and when they don't.** The forces that let some companies see the future and move toward it, and the forces that let others — like Kodak — see it and turn away.
-
-### Prerequisites
-
-You've read Chapters 1–4 on individuals, learning, and decision-making. Understanding how humans work helps you see why organizations — collections of humans — work the way they do.
-
-### Why this chapter matters
-
-Every organization you work in or study is located in two environments at once: an outside environment (the market, the regulatory space, the technology landscape, the social expectations) and an inside environment (the culture, the structure, the formal and informal rules about how work gets done). The outside environment creates the selection pressure. The inside environment determines whether the organization survives the pressure or calcifies under it.
+*Why organizations that can see the future still fail to move toward it.*
 
 ---
 
-## Concept 1 — Reading the external environment
+Here is the detail that makes the Kodak story interesting.
 
-An organization's external environment is everything outside the organization that affects its ability to operate: competitors, suppliers, regulatory bodies, economic conditions, technological changes, social movements, natural events. The framework that researchers and strategists use to read this landscape has a name — PESTEL — and each letter names a dimension you should watch.
+In 1975, a Kodak engineer named Steven Sasson built the first digital camera — a chunky prototype that captured images on a magnetic cassette and displayed them on a television. He showed it to his managers. The response: "That's nice, but don't tell anyone about it."
 
-**Political** forces: regulatory shifts, trade policies, government stability. A healthcare company that depends on Medicare reimbursement rates is hostage to Congress. An oil company drilling in Nigeria watches whether the government stays stable. A tech platform in China watches whether the political winds blow toward or away from foreign operation.
+The company that invented digital photography filed for bankruptcy in 2012.
 
-**Economic** forces: interest rates, exchange rates, recession, growth. A real-estate developer watches mortgage rates. An exporter watches currency values. A retailer watches whether households have discretionary income to spend.
+The standard telling frames this as a failure of vision. Kodak's leaders couldn't see the future coming. But that's wrong. They saw it. Sasson showed it to them. The problem wasn't that Kodak lacked the technology — it had the technology. It wasn't that Kodak lacked the capital — it had enormous capital. The problem was that Kodak's organization was structured, incentivized, and culturally constituted around one answer to the question of what Kodak was: a company that sold film. Digital photography was not a product to develop. It was a threat to manage. And the organization's machinery — its culture, its structure, its basic assumptions about what mattered — processed that threat by suppressing it.
 
-**Sociocultural** forces: values, beliefs, generational preferences, educational levels. The rise of environmental concern changes what products people buy. The shift toward valuing mental health changes what companies need to offer. Immigration patterns change the talent market and customer demographics.
-
-**Technological** forces: new tools, new capabilities, new ways of doing work. The internet did not create new needs — it revealed old needs and made them easier to meet. Amazon did not invent the desire for fast delivery. It built a machine that satisfied it at a scale and speed nobody had achieved before.
-
-**Environmental** forces: climate, natural disasters, resource availability, pollution. Rising seas threaten coastal real estate. Drought threatens agriculture. Wildfires threaten insurance companies' calculations.
-
-**Legal** forces: laws, contracts, litigation risk. A financial-services company watches antitrust enforcement. A pharmaceutical company watches patent law. A social-media platform watches Section 230 and the conversation around it.
-
-The point of PESTEL is not to be exhaustive. The point is to train yourself to see that the pressure on an organization comes from multiple directions at once, and they interact. A recession (economic) might push regulators to loosen restrictions (political-legal). A technological shift (like remote work becoming viable) changes what employees value in a location (sociocultural-economic).
-
-There is an older framework you will hear cited — Porter's five forces — that maps the more immediate competitive landscape: the bargaining power of suppliers, the bargaining power of buyers, the threat of new entrants, the threat of substitutes, and the intensity of rivalry among existing competitors. These are narrower than PESTEL (five forces zooms in on the competitive arena) and they're useful for strategic planning. But they don't cover the full landscape. A company might have favorable competitive positioning and still collapse because of a technological shift it missed or a regulatory change it didn't see coming.
-
-What matters for this chapter is one insight: **the external environment does not stay still, and organizations that assume it will are often the ones that fail.** Blockbuster Video had a superior inventory system, friendly customer service, and better locations than Netflix. Netflix had a model that matched the environment that was arriving — streaming over the internet — rather than the environment that was leaving. When the environment shifted, Blockbuster's advantages became irrelevant.
+This is the pattern this chapter is about. Not the question of whether an organization can see environmental change coming. Most organizations can see it. The question is whether the organization is constituted in a way that can respond — whether its internal machinery will treat the new information as an opportunity or as a danger to be neutralized. Understanding the external environment tells you what pressures are arriving. Understanding culture tells you why organizations so often can't move in response to pressures they can plainly see.
 
 ---
 
-## Concept 2 — Internal structure: how organizations organize to respond
+## Reading the outside
 
-When an organization reads its external environment and sees what it needs to compete, the next question is structural: how should we arrange ourselves to respond?
+An organization exists inside an environment it didn't design and cannot fully control. That environment imposes selection pressure: organizations that fit the environment survive; organizations that don't, fail. The pressure comes from multiple directions simultaneously, and the directions interact in ways that aren't always obvious.
 
-There are two poles on this spectrum. **Mechanistic structures** are hierarchical, rule-bound, with clear chains of command and specialized roles. They excel when the environment is stable and predictable. Decisions move up the hierarchy; instructions move down. Information flows along predetermined paths. This is the structure that works for a postal service or a fast-food franchise — environments where the core task is repeatable, where consistency matters, where you want to minimize variation.
+The PESTEL framework is a checklist for scanning that pressure. Each letter names a dimension worth monitoring.
 
-**Organic structures** are flatter, with participatory decision-making and looser role boundaries. People move across functions. Information flows in multiple directions. Authority is distributed. This is the structure you need when the environment is turbulent and you need to respond fast. Technology companies, design firms, research labs — these tend toward organic structures because the work requires adaptation, creativity, and rapid response.
+*Political* forces: regulatory shifts, trade policies, government stability. A healthcare company depending on Medicare reimbursement rates is subject to Congressional budget cycles. A technology platform operating in China watches whether foreign-company rules tighten. These forces are often slow-moving but capable of sudden discontinuity — a change in administration, a new regulatory ruling — that restructures the competitive landscape overnight.
 
-The trade-off is real. Mechanistic structures give you consistency and control at the cost of flexibility. Organic structures give you responsiveness at the cost of coordination. A fast-food franchise benefits from standardization; a research lab would suffocate under it. The wrong structure for the environment is costly. Amazon operates in a turbulent environment (retail, logistics, technology, cloud services), so despite its size it maintains flatter structures in most divisions. The U.S. Postal Service operates in a more stable environment, so hierarchical structure is appropriate — mail routes don't change much; mail gets processed in predictable ways.
+*Economic* forces: interest rates, exchange rates, recession, consumer spending. A real-estate developer watches mortgage rates with a precision most people reserve for their own finances. An exporter watches currency values. These forces affect what customers can afford to buy, what capital costs to borrow, and what assets are worth.
 
-Within the broad categories, there are specific structures worth knowing. A **functional structure** groups people by their expertise — all the engineers together, all the salespeople together, all the accountants together. This maximizes specialization and creates deep expertise. The downside is "silos" — departments don't talk to each other well, and coordination across functions is slow.
+*Sociocultural* forces: values, beliefs, generational preferences, demographic shifts. The rise of environmental concern changes what products people will pay premiums for. The shift toward valuing mental health changes what employers need to offer to attract talent. These forces are sometimes slow enough to miss until they're already structuring market expectations.
 
-A **divisional structure** groups people around products, services, or markets. Each division has its own marketing, sales, engineering, accounting. This lets each division specialize to its market and move fast. The downside is duplication — you end up with multiple accounting departments doing similar work — and divisions can drift apart on culture and strategy.
+*Technological* forces: new capabilities, new ways of doing work, new cost structures. The internet didn't invent new desires. It revealed old desires — for fast delivery, for information at any moment, for convenient connection — and made them easier to meet at scale. Amazon didn't invent the desire for fast delivery. It built an infrastructure that satisfied it in a way no predecessor could match. The technology change was real, but the demand was ancient.
 
-A **matrix structure** puts people in two hierarchies at once. You report to a functional manager (your engineering manager) and a product manager. The theory is that you get the deep expertise of functions plus the responsiveness of divisions. The practice is that you have two bosses with competing priorities and you're caught in the middle. Matrix structures work when the people involved have strong communication and conflict-resolution skills. They're miserable when they don't.
+*Environmental* forces: climate, natural disasters, resource availability. Drought restructures what agriculture can produce. Rising seas restructure what coastal real estate is insurable. Wildfire changes the expected-value calculation for insurers in ways that are just beginning to propagate through balance sheets.
 
-Other structures exist — geographic structures for companies serving different regions, virtual structures for fully distributed teams, networked structures that emphasize fluid collaboration — but the core insight is the same. **Structure is a response to environment.** You choose it to match where you are and where you're going. Choose wrong, and you're trying to navigate with the wrong map.
+*Legal* forces: laws, contracts, liability, regulatory enforcement. A financial-services company watches antitrust enforcement because it shapes what acquisitions are possible. A pharmaceutical company watches patent expiration because it determines when generics enter the market. A social-media platform watches how regulators interpret its responsibilities for the content that moves through it.
 
----
+PESTEL is not exhaustive. Its value is disciplinary: it forces you to scan systematically rather than only watching the competitive arena you already know. The failure mode is treating only the dimensions that feel urgent as real. Kodak watched the competitive landscape in film — who was gaining market share, what the Japanese manufacturers were doing — and treated the technological dimension (digital imaging) as someone else's problem.
 
-## Concept 3 — Culture: the machinery beneath the surface
+Porter's five forces framework maps the more immediate competitive landscape: the bargaining power of suppliers, the bargaining power of buyers, the threat of new entrants, the threat of substitutes, and the intensity of rivalry among existing competitors. This is useful for understanding the competitive dynamics inside a defined industry. But it doesn't help with the threats that arrive from outside the industry's current boundaries. Blockbuster had reasonably favorable five-forces dynamics in 1999 — high barriers to entry for physical video rental, limited substitutes, reasonable customer loyalty. None of that protected them from a competitor who decided the relevant substitute wasn't another video-rental store but a postal-delivery subscription and, eventually, a streaming service.
 
-Culture is the second-most misunderstood word in organizational behavior (the most misunderstood is "leadership," which is a different chapter). When a company is described as having "a great culture," what people usually mean is that it's fun to work there, the leadership is nice, and people feel motivated. That's not culture. That's good morale. Those things can evaporate overnight if the business collapses.
-
-Organizational culture is the set of shared assumptions and norms that determine how people actually behave — not what they're supposed to do, but what they actually do when nobody is watching. It lives in the stories people tell about what happened when someone broke a rule. It lives in who gets promoted and why. It lives in which meetings start on time and which ones never do. It lives in what happens when someone voices a dissenting opinion.
-
-A researcher named Edgar Schein spent decades studying organizational culture and proposed a three-layer model that's still the most useful frame we have. The model says culture operates at three levels, and they don't align the way you'd hope.
-
-**Layer 1 — Artifacts.** These are the visible, tangible things: the layout of the office, the dress code (or lack of one), the rituals and ceremonies, the language and jargon people use, the official values on the website. These are the easiest to observe and the hardest to interpret. You can see that a company has casual Friday and open office seating. But those artifacts don't tell you what people actually value. Open office seating is often installed to signal that the company is modern and collaborative. It can also create a chaotic, surveillance-like environment where people can't concentrate. The artifact doesn't tell you the intent or the effect.
-
-**Layer 2 — Espoused values.** These are what the organization and its leaders say they believe. "We put the customer first." "We're a meritocracy." "We value diversity." "We empower our people." These are usually true in the sense that someone in the organization means them when they say them. But they're often honored in the breach. A company that says it's a meritocracy might promote based on political connections. A company that says it values work-life balance might expect people to answer emails at midnight. When espoused values diverge from behavior, it's usually a sign of a deeper problem.
-
-**Layer 3 — Basic assumptions.** These are the underlying beliefs about how the world works and what matters — the things people do not even articulate because they seem self-evident. In some cultures, the basic assumption is that people are inherently lazy and need to be controlled. In others, it's that people want to do good work and will do it if you get obstacles out of the way. In some cultures, the basic assumption is that conflict is destructive and should be suppressed. In others, it's that conflict surfaces important information and should be encouraged. These assumptions are almost never stated. They're absorbed by watching how people are treated, what gets rewarded, what gets punished.
-
-The three layers create a cascade. Basic assumptions shape what the organization believes it should value (espoused values), which shapes what symbols and rituals the organization creates (artifacts). When all three layers align — when the artifacts genuinely express the espoused values, and when the espoused values reflect the basic assumptions — the culture feels coherent and authentic. When they misalign — when people see "We value transparency" on the website while the leadership withholds information, or see "We empower our people" while micromanaging every decision — people sense the gap and trust erodes.
-
-A useful way to think about different cultures is the competing-values framework, which maps cultures on two dimensions: do we emphasize flexibility or control, and do we emphasize internal cohesion or external competitiveness? That creates four cultures:
-
-- **Clan cultures** emphasize flexibility and internal cohesion. Think of a family business or a nonprofit with a mission you believe in. The emphasis is on loyalty, mentoring, teamwork. People stay a long time. Decisions are consensus. The risk is that the organization becomes insular and slow to change.
-
-- **Adhocracy cultures** emphasize flexibility and external focus. Think of a startup or a research lab. The emphasis is on innovation, risk-taking, being first. People are expected to experiment and fail. The risk is burnout and instability.
-
-- **Market cultures** emphasize control and external focus. Think of a sales organization or a trading floor. The emphasis is on results, winning, beating competitors. People are driven by incentives and competition. The risk is short-termism and cutting corners.
-
-- **Hierarchy cultures** emphasize control and internal cohesion. Think of government agencies or military organizations. The emphasis is on rules, process, predictability, stability. People know what's expected. The risk is rigidity and inability to respond to change.
-
-No culture is good or bad in the abstract. What matters is fit: does the culture enable the organization to do what it needs to do in the environment it operates in? A startup in a fast-moving market needs adhocracy. A utility company operating under heavy regulation needs hierarchy. A family business serving its neighborhood might thrive as a clan. A company fighting for market share needs market culture. Culture-environment mismatch is often the beginning of failure.
+The organizing insight: the external environment does not stay still, and organizations that plan as though it will are usually the ones that get surprised. The surprise is rarely total — the signals are usually visible. What's missing is the internal machinery to process those signals as threats requiring response rather than anomalies to be dismissed.
 
 ---
 
-## Integration — culture and environment in motion
+## The machinery of structure
 
-Here's the hard truth that you'll see in case study after case study: **organizations are often exquisitely well-designed for the environment they used to operate in, not the environment they're now in.** This is not stupidity. It's path dependence. An organization that thrived in a stable, simple environment for decades has built culture, structure, and incentives optimized for that world. When the world changes, the organization carries its past forward.
+When an organization reads its environment and decides what it needs to do, the next question is structural: how do we arrange ourselves to do it?
 
-General Motors in the 1970s was the gold standard of manufacturing — efficient, standardized, producing reliable cars at scale. That structure worked perfectly in the post-war era when the main constraint was supply. By the 1970s, the constraint had shifted to quality, customization, and efficiency of new manufacturing methods (lean production). GM's culture and structure were optimized for the old problem. Japanese automakers, building new plants without the legacy constraints, could optimize for the new problem. The result was decades of GM losing market share.
+At one pole is the *mechanistic structure* — hierarchical, rule-bound, with clear chains of command and specialized roles. Decisions move up the hierarchy; instructions move down. Information flows along predetermined paths. This works when the environment is stable and the core task is repeatable. A postal service benefits from standardization: the same procedure executed consistently at scale. A fast-food franchise benefits from tight control: variance in the product is a bug, not a feature. Mechanistic structures give you consistency and efficiency at the cost of flexibility.
 
-Kodak and film: the company was optimized for a world where the bottleneck was chemistry and manufacturing. Digital photography moved the bottleneck to software and data. Kodak had the technology to see this. It had the capital to invest in it. What it didn't have was a culture that valued digital photography the way it valued film. Film was what made Kodak Kodak. Asking the organization to compete in digital was asking it to compete against itself. The culture would not allow it.
+At the other pole is the *organic structure* — flatter, with participatory decision-making and looser role definitions. People move across functions. Authority is distributed closer to where information exists. Information flows in multiple directions. This works when the environment is turbulent and the task requires adaptation. A research lab, a technology startup, a design firm — these need people to experiment, synthesize across disciplines, and respond to what they discover rather than what was planned. Organic structures give you responsiveness at the cost of coordination.
 
-Now here's what's worth understanding: culture can change. It's not immutable. But the change is slow and fragile, and it requires pressure from the environment plus sustained leadership effort. When a new CEO arrives and says "we're changing our culture," what they usually mean is "we're installing new artifacts and espoused values." The basic assumptions — the things people actually believe — shift much more slowly, and usually only under duress.
+The mistake is treating these as a preference rather than a fit. The question isn't which structure is better in general. The question is which structure fits the environmental demand you're actually facing. An organization running a stable, well-understood process with organic structure will generate chaos. An organization in a turbulent, rapidly-shifting environment with mechanistic structure will generate rigidity — the inability to respond fast enough when the environment moves.
 
-Lou Gerstner took over IBM in 1993 when the company was in crisis. He didn't try to change IBM's culture first. He changed the strategy: IBM would become a services company, not a hardware company. He changed the structure: he broke up the fiefdoms and forced integration. He changed the incentives: he tied compensation to outcomes the company now needed. Over years, the culture shifted. People started believing that serving customers mattered more than protecting turf. Not because Gerstner made them believe it, but because the strategy, structure, and incentives now rewarded that belief.
+Within these broad poles, specific structural forms embody different trade-offs. A *functional structure* groups people by expertise — all engineers together, all salespeople together, all accountants together. This maximizes depth: the engineering team develops real expertise in engineering. The cost is coordination: the engineering team and the sales team develop separate vocabularies, separate priorities, and separate assumptions about what matters. Integration between them requires explicit mechanisms — meetings, project managers, escalation paths — that add cost and latency.
 
-The quote often attributed to Drucker is "culture eats strategy for breakfast." It's wrong in its original form. The bidirectional truth is: culture and strategy are locked in a feedback loop. A bad strategy will eventually break even a good culture (because bad strategies fail). A bad culture will eventually neutralize even a good strategy (because people won't execute it). What works is strategy and structure and culture all aligned, all pulling in the same direction.
+A *divisional structure* groups people around products, markets, or geographies. Each division owns its own marketing, sales, engineering, and finance. This lets each division specialize and move fast within its domain. The cost is duplication — multiple accounting departments doing similar work — and the risk that divisions develop separate cultures that make integration difficult when the organization needs it.
 
-The Kodak story illustrates why this matters. Kodak had strategy (pursue digital in the context of our film business). It had structure (create a digital division separate from film). What it didn't have was the cultural permission to let digital succeed if it meant film's decline. So the digital division stayed marginal. The investment stayed small. The urgency never arrived. The strategy failed not because it was bad but because the culture wouldn't let it work.
+A *matrix structure* puts people in two hierarchies simultaneously: a functional hierarchy (your engineering manager) and a product or project hierarchy (your product manager). The theory is elegant: you get depth from functions and integration from product ownership. The practice is often painful: you have two managers with competing priorities and the person in the middle bearing the coordination cost that the structure creates but doesn't resolve. Matrix structures work well when the people involved have strong communication and conflict skills. They produce chronic dysfunction when those conditions aren't met.
 
----
+<!-- → [TABLE: Structural forms comparison — rows: Functional / Divisional / Matrix / Geographic / Networked. Columns: How organized / Environmental fit / Primary advantage / Primary cost / When to use. Goal is to make structural choice a deliberate decision rather than a default.] -->
 
-## Concept 4 — Culture change is possible but not easy
-
-Organizations sometimes do manage to shift their cultures substantially. The shifts are rare and they require specific conditions.
-
-One condition is existential threat. When the survival of the organization is visibly at stake, the basic assumptions that protected people in the old world lose their grip. IBM was in crisis; Gerstner's changes stuck because the alternative was extinction. General Motors lost so much market share and money that the culture began to shift (though unevenly and slowly even now).
-
-A second condition is new leadership from outside with authority and credibility. When a new CEO arrives from outside the industry, untainted by the old culture, with a mandate to change, that person has a window — maybe two or three years — to shift basic assumptions before the organization's immune system neutralizes them. That window is limited. If the new leader hasn't shifted the incentives and the stories within that period, the organization reverts.
-
-A third condition is winning through the new model. If the organization tries a new strategy and it fails, the culture reverts to "we were right the first time." If it tries a new strategy and it succeeds, even partially, the success is visible proof that the new assumptions work. At that point, the culture begins to lock in. Gerstner's strategy worked — IBM's services business succeeded — so the culture shift had evidence to anchor on.
-
-A fourth condition is sustained attention to the artifacts and rituals that encode the culture. If leadership changes the strategy but keeps all the old symbols and stories and decision-making rituals, the culture message is confused. You have to change the things that are visible — who gets hired, who gets promoted, what decisions get reversed, what the leadership actually spends time on — so that people see that the organization has actually changed, not just said it has.
-
-Culture change is possible. But watch for the common failure modes: the company that proclaims a new culture but doesn't back it with structure or incentives (people recognize this as empty); the company that changes leadership but doesn't give the new leader enough authority to shift things (the organization's immune system wins); the company that tries to change culture without changing strategy (culture without strategy to anchor it is just slogans).
-
-The research on culture-performance links is complicated and contradictory, which is honest of it to be. Strong culture — where people actually understand and believe in the shared assumptions — is associated with higher performance when the culture fits the environment. Strong culture mismatched with the environment is associated with worse performance than weaker culture, because the organization becomes more entrenched in a failing approach. Southwest Airlines' culture was a competitive advantage because it fit the cost-focused, speed-focused environment of short-haul airline travel. That same culture is a disadvantage in a market where luxury and personalization matter.
-
-The lesson: culture matters. But it matters in relation to context. A company's culture is only as good as its fit with what the company actually needs to do right now.
+Structure is not destiny, but it's close. An organization with the wrong structure for its environment is trying to navigate with the wrong map. It can succeed for a while on talent and effort. Eventually the mismatch costs more than talent and effort can absorb.
 
 ---
 
-## Worked example — Blockbuster Video vs. Netflix, 1999–2007
+## What culture actually is
 
-Blockbuster in 1999 was the dominant video rental company in North America. It had thousands of stores, a sophisticated inventory management system, a recognizable brand, customer loyalty, and a profitable business model. The basic assumption embedded in Blockbuster's culture was simple: people want to rent movies immediately, in person, from a convenient location. That assumption was reasonable. It had been true for two decades.
+Culture is the most misused word in organizational management. When companies say they have a "great culture" they usually mean morale is high and people seem happy. That's not culture. It's the current emotional weather. It can change in weeks.
 
-Netflix's founding insight was different: people want a movie when they have time to watch it, they're willing to wait a few days, they'd rather avoid the friction of driving to a store and dealing with late fees. The company's culture, from the start, encoded a different basic assumption: the bottleneck is delivery and convenience, not inventory.
+Organizational culture is the set of shared assumptions that determine how people actually behave when stakes are real and no one is watching. It lives in the stories that circulate about what happened when someone broke a rule — not the official policy but the actual response. It lives in who gets promoted and why. It lives in which decisions get escalated and which ones get made locally. It lives in what happens when someone says the project is behind schedule: does the organization want to know early, or does the messenger get blamed?
 
-Blockbuster's leadership saw Netflix coming. They launched Blockbuster Online in 2004 — a subscription service that would mail DVDs. But the service remained a sideline. The organization's incentive structure still rewarded store traffic and rental fees. The stories that circulated through Blockbuster still celebrated the store experience. The metrics that mattered still centered on in-store metrics. Blockbuster Online competed with Blockbuster's own stores, so the organization starved it of resources and urgency.
+Edgar Schein spent decades studying organizational culture and proposed a model with three layers. The layers are not equally visible, and they're not equally stable. Understanding the difference between them is what distinguishes a real diagnosis from a cosmetic one.
 
-Netflix, meanwhile, started streaming in 2007 — unreliable technology, limited library, but it was their new basic assumption. The organization poured resources into it despite the losses. When the technology and the library became good enough, Netflix was already the incumbent in streaming. Blockbuster tried to launch streaming later, but it was too late. The culture at Blockbuster still ran on stores. The culture at Netflix had already shifted to streaming.
+*Layer one: artifacts.* These are the visible, tangible manifestations — the layout of the office, the dress code, the rituals and ceremonies, the language and jargon people use, the official values on the website. Artifacts are easy to observe and genuinely difficult to interpret. An open-plan office signals something — but you can't determine from the artifact alone whether it signals genuine commitment to collaboration, a desire to appear modern, or management's desire to monitor what people are doing. The artifact doesn't reveal its own meaning.
 
-The companies saw the same market shift. Blockbuster had the capital to invest. Blockbuster had the management talent. Blockbuster had the customer relationships. What it didn't have was a culture that believed in the future more than it believed in the past. Netflix, smaller and less profitable at the time, had a culture that could make decisions that hurt the current business because the leadership had convinced people that the future was more important than the past.
+*Layer two: espoused values.* These are what the organization says it believes. "We put the customer first." "We're a meritocracy." "We empower our people." These statements are usually sincere — someone in the organization means them when they say them. But espoused values are frequently honored in the breach. A company that says it's a meritocracy may actually promote based on tenure and political relationships. A company that says it values work-life balance may signal through leadership behavior that availability at any hour is expected. When espoused values diverge from behavior, the divergence is usually visible to everyone in the organization except the people announcing the values.
 
-This is the Kodak pattern again. Culture eats strategy when the culture doesn't believe in the strategy.
+*Layer three: basic assumptions.* These are the underlying beliefs about how the world works that are so taken for granted they're rarely stated. In some organizations, the basic assumption is that people are inherently lazy and need to be monitored — you'll see this in approval chains that require sign-offs for minor decisions, surveillance of time and presence, and rhetoric about accountability. In others, the basic assumption is that people want to do excellent work and will do it if obstacles are removed — you'll see this in autonomy, in access to information, in the assumption that asking for forgiveness is a reasonable alternative to asking permission.
+
+These assumptions are almost never articulated. They're transmitted through observation: watch what gets rewarded, what gets punished, what the most respected people in the organization do when they think no one is evaluating them. A new employee doesn't learn the basic assumptions from the onboarding deck. They learn them in the first three months, by watching what actually happens.
+
+<!-- → [DIAGRAM: Schein's three-layer model — iceberg diagram with artifacts at the waterline (visible), espoused values just below (partially visible), and basic assumptions deep below (invisible). Include annotations: artifacts are observable but hard to interpret; espoused values are stated but often not enacted; basic assumptions drive actual behavior and resist change. The iceberg shape makes the proportional depth of the invisible layers vivid.] -->
+
+The cascade matters. Basic assumptions shape what the organization believes it should value, which shapes what symbols and rituals it creates. When all three layers align — when artifacts genuinely express espoused values, and espoused values reflect basic assumptions — the culture feels coherent and authentic. People inside it can predict how decisions will be made because the layers are consistent. When they misalign, people sense the gap without always being able to name it. The official culture says one thing. The actual culture does another. The people who've been around long enough know which one is real.
+
+Kodak's basic assumption was: we are a film company. Not a photography company, not an imaging company, not a memory-capturing company. A film company. Sasson's digital camera was not a new direction for a photography company. It was a threat to the film business. The basic assumption processed it as a threat — and the organization's response to threats was to suppress them, not develop them.
+
+---
+
+## The competing cultures
+
+A useful frame for understanding different cultural types maps cultures on two dimensions: how much they emphasize flexibility versus control, and how much they emphasize internal cohesion versus external competitiveness. This creates four archetypes.
+
+*Clan cultures* emphasize flexibility and internal cohesion. The feel is family: loyalty, mentoring, consensus, long tenure. A family business, a mission-driven nonprofit, a professional partnership where people have worked together for decades. The strength is commitment and stability. The risk is insularity — the organization becomes so internally focused that it stops responding to external signals.
+
+*Adhocracy cultures* emphasize flexibility and external focus. The feel is startup: experimentation, risk-taking, moving fast, being first. The strength is innovation. The risk is burnout and instability — the organization consumes people and struggles to maintain coherent direction.
+
+*Market cultures* emphasize control and external competitiveness. The feel is sales floor: results, winning, beating targets, incentive-driven performance. The strength is execution and drive. The risk is short-termism and the erosion of the internal relationships that enable complex coordination.
+
+*Hierarchy cultures* emphasize control and internal cohesion. The feel is military or government: clear rules, predictable processes, stability, accountability. The strength is consistency and reliability. The risk is rigidity — the culture is excellent at executing a known process and poor at questioning whether the process should change.
+
+None of these is universally good or bad. The question is always fit. A utility company providing consistent electrical power in a regulated market benefits from hierarchy culture — the work is predictable and the consequences of variance are severe. A startup competing for market position in a fast-moving technology sector would suffocate under hierarchy. The same is true in reverse: an adhocracy culture in a nuclear power plant is a safety catastrophe waiting to happen.
+
+Culture-environment mismatch is often the beginning of visible failure. When an organization's culture is suited to the environment it used to operate in, and the environment shifts, the culture becomes an anchor rather than an asset. This is the Kodak pattern, the Blockbuster pattern, the General Motors pattern. Decades of adaptation to one environment produce a culture that's exquisitely suited to that world — and deeply resistant to the next one.
+
+---
+
+## Why culture doesn't change when it should
+
+Organizations often fail to respond to visible environmental pressure not because their leaders are unintelligent or uninformed, but because the culture processes new information through old assumptions and reaches old conclusions.
+
+Blockbuster's leadership in 2000 was not blind to Netflix. When Netflix approached Blockbuster about a possible acquisition — reportedly asking $50 million — Blockbuster's leadership passed. The decision was entirely rational from within Blockbuster's basic assumptions: our business is stores, stores require physical presence, physical-presence delivery of DVDs by mail doesn't threaten stores, and streaming was too early and technically unreliable to take seriously. Every step of that logic followed from Blockbuster's cultural assumptions about what the video-rental business was. The assumptions were wrong. But the assumptions weren't recognized as assumptions — they were recognized as reality.
+
+This is why culture change is slow and fragile, and why it requires more than a new CEO announcing new values. The basic assumptions that produce misaligned behavior are not held as conscious opinions. They're held as perceptions of how things are. Telling someone that their perception of reality is wrong and providing them with evidence doesn't reliably change the perception. It usually produces rationalization of the existing perception.
+
+What does change basic assumptions? Sustained experience of failure under the old assumptions, combined with success under new ones. Lou Gerstner took over IBM in 1993 when the company was in financial crisis. He didn't announce that IBM now had a new culture. He changed the strategy — IBM would become a services company — and changed the incentives and the structure to reward the new strategy. When the services business succeeded, people had evidence that the new assumptions worked. Over years, the basic assumptions shifted. Not because Gerstner convinced anyone through rhetoric, but because the organization accumulated experience that made the new assumptions feel like reality.
+
+The conditions for culture change: existential pressure that makes the old assumptions visibly costly; leadership with authority to change structure and incentives, not just to make speeches; early successes that demonstrate the new model works; and sustained attention to the symbols and rituals that encode assumptions in daily behavior. Without all of these, culture change is mostly theater — new posters on the wall expressing espoused values while the basic assumptions continue to run the organization.
+
+<!-- → [TABLE: Conditions for successful culture change — rows: each of the four conditions. Columns: What it requires / What failure looks like / Example of the condition being present / Example of it being absent. Goal: make culture change diagnosis practical rather than inspirational.] -->
+
+The most common failure mode is the easiest to describe: the organization changes the artifacts and espoused values while the basic assumptions stay intact. New mission statement. New values poster. New all-hands presentation about where the organization is going. The people who have been there for ten years watch the presentation, nod politely, and go back to doing what they've always done — because nothing in their actual daily experience has changed. The metrics that matter are still the same metrics. The decisions that get rewarded are still the same decisions. The stories that circulate about what success looks like are still the same stories.
+
+Real culture change is expensive, slow, and uncertain. Organizations that claim to have transformed their cultures in six months have changed their vocabulary, not their assumptions.
+
+---
+
+## The loop
+
+The argument connects like this.
+
+The external environment creates selection pressure — the conditions the organization must respond to in order to survive. PESTEL gives you a frame for scanning that pressure across multiple dimensions rather than just watching the competitive arena you already know. Structure is how you arrange the organization to respond to what you've read in the environment. Match the structure to the environment's demands, and the organization has the right machinery. Mismatch the structure, and you're fighting the environment with the wrong tools.
+
+Culture is the layer underneath structure — the basic assumptions that determine what information the organization takes seriously, what threats it processes as opportunities, what new strategies it can actually execute. A good strategy implemented in a culture that doesn't believe in it will fail. Not because people are resistant or poorly motivated, but because the basic assumptions that process daily decisions will consistently route toward the old model.
+
+Kodak could see digital photography coming. It had the technology. It had the capital. What it didn't have was a culture that could process "digital photography" as anything other than a threat to film. The selection pressure from the environment arrived. The structure could have responded. The culture routed the response toward suppression instead of development. By the time the environment made the old assumptions untenable, the organization no longer had the resources or the time to build a new one.
+
+The organizations that survive environmental discontinuities are rarely the ones that see the change most clearly. They're the ones whose internal machinery — culture, structure, basic assumptions — can process new information as an opportunity rather than as a danger, and can reorganize around it before the old model runs out of time.
+
+---
+
+## What remains genuinely uncertain
+
+The research on culture-performance links is genuinely mixed. Strong culture — where people understand and share basic assumptions — is associated with higher performance when the culture fits the environment. Strong culture mismatched with the environment is associated with worse performance than weak culture, because the strong culture is more effective at routing toward the failing model. But the causal story is complicated: high-performing organizations may develop strong cultures because they're high-performing, not the other way around.
+
+I'm also uncertain about why organizations don't learn from visible failures like Kodak and Blockbuster. The cases are well-documented, widely taught, and clearly legible. Yet the pattern recurs. The explanation is probably some combination of psychological attachment to the status quo, incentive structures that reward short-term metrics over long-term adaptation, and the nature of basic assumptions — they're held as perceptions of reality, not as opinions that evidence might revise. But the relative weight of these factors isn't settled.
 
 ---
 
@@ -161,61 +151,46 @@ This is the Kodak pattern again. Culture eats strategy when the culture doesn't 
 
 ### Warm-up
 
-**Exercise 15.1** *(LO: read the external environment).* Take a company you know — your employer, a company you use as a customer, a startup you follow. Use PESTEL to map the external pressures. Write down at least one force in each dimension that affects the company. Which dimension do you think is creating the most urgent pressure right now?
+1. **PESTEL scan, one company.** Pick an organization you know — your employer, a company you use regularly, or a startup you follow. Scan it against all six PESTEL dimensions. Write at least one specific force per dimension. Then identify which two dimensions currently create the most urgent pressure for that company. What makes those two the most urgent rather than the others? *(Tests: PESTEL framework, prioritization among environmental forces)*
 
-**Exercise 15.2** *(LO: match structure to environment).* For each of the following environments, which organizational structure would be most appropriate, and why? (a) A nonprofit providing food to homeless people in a single city. (b) A multinational pharmaceutical company developing new drugs. (c) A data-analytics firm whose customers span multiple industries and geographies. (d) A manufacturing plant producing ball bearings to specification.
+2. **Structure-environment fit.** For each of the following organizations, identify whether a mechanistic or organic structure is the better fit, and explain why: (a) a nuclear power plant; (b) a software startup building a new consumer product; (c) a hospital emergency department; (d) a university research lab studying a new disease. Where does the simple mechanistic/organic distinction break down — are there parts of any of these organizations that require a different structure than the whole? *(Tests: mechanistic vs. organic, fit logic, within-organization variation)*
 
-**Exercise 15.3** *(LO: identify culture layers).* Observe an organization you participate in (your company, a club, a sports team, a class). Identify at least one artifact, one espoused value, and one basic assumption. Do they align? What would change if they didn't have to?
+3. **Identify the three layers.** Think of an organization you've belonged to or observed. Identify one specific artifact, one espoused value, and one basic assumption. Do they align? If the espoused value and the basic assumption conflict, what does that conflict look like in practice — what behavior does it produce? *(Tests: Schein's three-layer model, artifact interpretation, espoused vs. enacted distinction)*
 
 ### Application
 
-**Exercise 15.4** *(LO: culture-environment fit).* A consumer-goods company that has operated as a hierarchy culture (lots of process, centralized decision-making, emphasis on stability and predictability) is entering fast-moving markets where agility matters. The CEO wants to shift to adhocracy. What would have to change in (a) structure, (b) incentives, (c) hiring and promotion, (d) the stories people tell about the company?
+4. **The suppressed signal.** You're a mid-level manager at a company whose leadership has just dismissed a technology threat that you believe is real. The dismissal was entirely logical from within the company's current basic assumptions about its business. Using Schein's model, explain: (a) what basic assumption is producing the dismissal, (b) what artifact or espoused value would have to change before the threat could be taken seriously, and (c) what would have to happen in the external environment to make the basic assumption visibly costly. *(Tests: Schein's three layers applied to strategic failure, culture as filter on environmental signals)*
 
-**Exercise 15.5** *(LO: diagnose a strategy-culture mismatch).* A company has a strategy to move upmarket and sell premium products to discerning customers. Its culture, built over decades of competing on price, emphasizes rapid production and cost control. Using Schein's three layers, explain where this culture-strategy mismatch would show up. How might it sabotage the strategy?
+5. **Competing values, competing fits.** A consumer goods company that has operated as a hierarchy culture (process, stability, centralized authority) is entering a fast-moving market segment that rewards fast iteration and experimentation. Using the competing values framework, diagnose the mismatch. What would have to change in structure, incentives, hiring, and the stories the company tells about success for the culture to shift? What's the most likely point of failure in that change effort? *(Tests: competing values framework, culture-environment fit, culture change conditions)*
 
-**Exercise 15.6** *(LO: structure-environment trade-off).* You're launching a new division in a company that uses a divisional structure. The parent company is mechanistic (clear rules, centralized authority). Your division operates in a rapidly changing market. What structure would you propose for the division, and what pressure would you expect from the parent organization?
+6. **Porter vs. PESTEL.** A traditional taxi company in a major city had favorable five-forces dynamics in 2010: high barriers to entry (medallion system), limited substitutes, reasonable customer loyalty, moderate supplier power. By 2016, it was in financial crisis. Use PESTEL to explain what Porter's five forces missed. Which PESTEL dimension produced the disruption? What was the signal, and when was it first visible? *(Tests: PESTEL vs. five forces, technological forces, boundary of industry definitions)*
 
 ### Synthesis
 
-**Exercise 15.7** *(LO: culture change).* You're the new CEO of a company that has failed to innovate for a decade. The culture still revolves around the business model that used to work but is now threatened. You have three years before the board expects results. Using the conditions for successful culture change, design a plan. What would you change first, and why?
+7. **The Gerstner test.** IBM in 1993 and Kodak in 2000 both faced existential environmental pressure. IBM adapted; Kodak didn't. Using the four conditions for culture change from the chapter — existential pressure, leadership authority over structure and incentives, early success through the new model, and sustained attention to symbols — compare the two cases. Which conditions were present at IBM and absent at Kodak? What does the comparison suggest about why one culture changed and the other didn't? *(Tests: culture change conditions, comparative case analysis, causal identification)*
 
-**Exercise 15.8** *(LO: competing values framework).* Map the culture of an organization you know using the competing values framework (clan, adhocracy, market, hierarchy). Then map the culture of a competitor or peer organization. Do the different cultures explain differences in their strategic choices or competitive positioning?
+8. **Design the culture audit.** You've just joined an organization as a new leader. You have ninety days before you take any significant action. Design a culture audit — a systematic process for diagnosing the organization's basic assumptions — that you would run in those ninety days. What would you observe? Who would you talk to, and what would you ask? What behaviors and outcomes would you treat as evidence? How would you distinguish espoused values from basic assumptions in what you hear? *(Tests: Schein's three layers applied diagnostically, artifact interpretation, distinguishing rhetoric from reality)*
 
----
+9. **The path dependence trap.** An organization has been highly successful in a stable environment for twenty years. Its culture is strong — basic assumptions are widely shared, artifacts are coherent, espoused values are enacted. The environment is now shifting significantly. Using the chapter's argument, explain why the organization's cultural strength is now a liability rather than an asset. What specific mechanism converts cultural coherence into resistance to change? What intervention would have the highest probability of breaking the pattern? *(Tests: culture-environment fit, strong culture as liability in shift, path dependence, culture change intervention)*
 
-## Chapter summary
+### Challenge
 
-Organizations operate in two environments at once. The external environment — the market, the technology, the regulations, the social forces, the economy — creates the selection pressure. The organization that reads the environment well and matches its structure and culture to what the environment demands is the one that survives.
-
-The external environment can be read using frameworks like PESTEL and Porter's five forces. The reading is never complete — some shifts are visible, others arrive as surprises — but training yourself to scan the landscape is the basic skill of organizational leadership.
-
-Structure is how an organization arranges itself in response to the environment it reads. Mechanistic structures suit stable environments; organic structures suit turbulent ones. The choice of structure is not arbitrary — it's a bet about what the organization needs to do. Choosing the wrong structure constrains what the organization can do even if the strategy is right.
-
-Culture is the set of shared assumptions that determines what people actually do. It operates at three levels: artifacts (visible symbols), espoused values (what the organization says it believes), and basic assumptions (what people actually believe). These levels often misalign. When they do, the basic assumptions usually win out.
-
-Culture can change, but the change is slow and fragile. It requires existential pressure, new leadership, success through the new model, and sustained attention to symbols and incentives. Without all these conditions, culture reverts.
-
-The organizations that fail are often the ones that were exquisitely well-designed for the environment they used to operate in. They see the new environment coming. They have the resources to respond. What they lack is the cultural permission to let go of the past. That's the real cost of culture-environment mismatch — not that the organization can't compete, but that it chooses not to.
+10. **The Blockbuster brief.** You are advising the leadership of a company that, like Blockbuster in 2000, faces a clear environmental threat that its current culture is processing as manageable rather than existential. The threat is visible in the PESTEL scan. The basic assumptions are running the company toward the old model. Write a two-page brief to the CEO making the case for treating the threat as existential. Your brief should: identify the specific environmental force (using PESTEL), name the basic assumption that is producing the dismissal, explain why changing espoused values alone won't be sufficient, propose one structural change and one incentive change that would begin to shift the basic assumption, and specify what early evidence would tell you the change is working. Do not write a generic culture-change prescription — make it specific to the company and the threat you've identified. *(Tests: PESTEL applied to strategic urgency, Schein's three layers in action, culture change conditions, integration of structure and culture)*
 
 ---
 
-## Connections forward
+## Summary
 
-Chapter 16 covers organizational structure in more depth and introduces models for how organizations change. You'll see that structure and culture are levers — tools for leadership to pull when the environment shifts and the organization needs to move. The frameworks in this chapter (PESTEL, the competing values framework, Schein's three layers) are the diagnostic tools you use to understand what the levers should move toward.
+Organizations exist inside two environments: the external environment, which creates selection pressure through political, economic, sociocultural, technological, environmental, and legal forces; and the internal environment of structure and culture, which determines whether the organization responds to that pressure or is paralyzed by it.
 
-Chapter 17 covers human resource management. The choices organizations make in hiring, training, and compensation are among the most visible ways that culture gets encoded and transmitted. When a new CEO wants to shift culture, one of the first places to look is the hiring profile and the promotion criteria — these are the mechanisms by which basic assumptions get baked into who joins the organization.
+External environments change in ways that can be partially anticipated through systematic scanning — PESTEL for the broad landscape, Porter's five forces for the competitive arena. The failure isn't usually in the scanning. It's in what the organization does with what it sees.
 
----
+Structure is a response to environmental demand. Mechanistic structures — hierarchical, rule-bound, specialized — fit stable environments where consistency and efficiency are the competitive advantage. Organic structures — flat, participatory, role-flexible — fit turbulent environments where adaptation speed is the competitive advantage. The wrong structure for the environment constrains what the organization can do regardless of how good the strategy is.
 
-## Tags
+Culture operates in three layers: artifacts (visible and observable but hard to interpret), espoused values (what the organization says it believes), and basic assumptions (what people actually act on). The layers frequently misalign. When they do, basic assumptions win. Culture changes slowly, requires genuine pressure, and requires success through the new model — not just rhetoric about the new model.
 
-organizational culture; external environment; PESTEL; mechanistic and organic structures; Schein's culture model; strategy-culture fit; Kodak; Blockbuster; case study; organizational design; competing values framework.
+The organizations that fail are often the ones with the most coherent, well-adapted cultures — cultures built through decades of success in the world that used to exist. That success is what makes them resistant to the world that's arriving. They can see it coming. They can't make themselves move toward it. That gap — between perceiving the future and being constituted to respond to it — is what this chapter is about.
 
----
-
-**What would change my mind:** Evidence that culture is less consequential for organizational survival than structural fit. The research literature is mixed on this; some findings suggest structure matters more than culture for performance. If that evidence is stronger than I think, the weighting in this chapter should shift.
-
-**Still puzzling:** Why organizations don't learn from visible case studies like Kodak and Blockbuster. The patterns are clear. The outcomes are well-documented. Yet companies continue to make the same mistakes. The gap between knowing and doing might be psychological (people's attachment to the status quo), structural (incentives that reward short-term results over long-term adaptation), or cultural (basic assumptions about change that the organization can't override). Probably all three. I'd like to understand the balance better.
 ---
 
 ## LLM Exercise — Chapter 15: External and Internal Organizational Environments and Corporate Culture
@@ -327,7 +302,6 @@ handbook.
 
 **Preview of next chapter:** Chapter 16 designs the organizational structure and the change-management plan — Lewin's three stages, Kotter's eight steps, and the disputed "70% of change fails" statistic. The structure you choose at month 12 will need to change by month 36; the change-management plan is how you survive that.
 
-
 ---
 
 ## AI Wayback Machine
@@ -337,7 +311,10 @@ handbook.
 **Run this:**
 
 ```
-Who is Edgar Schein, and how does their work connect to organizational culture we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Edgar Schein, and how does their work connect to
+organizational culture we covered in this chapter? Keep it to
+three paragraphs. End with the single most surprising thing about
+their career or ideas.
 ```
 
 → Search **"Edgar Schein"** on Wikipedia.
