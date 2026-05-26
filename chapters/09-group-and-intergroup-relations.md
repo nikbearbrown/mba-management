@@ -1,288 +1,185 @@
 # Chapter 9 — Group and Intergroup Relations
-
-## Cold Open
-
-Robbers Cave State Park, Oklahoma. August 1954. Twenty-two eleven-year-old boys arrived at summer camp with no idea they'd been selected for an experiment. Muzafer Sherif, a social psychologist who had fled persecution in Istanbul and was now watching group conflict with the precision of a naturalist watching predator and prey, had split them into two groups before they even unpacked. The boys were identical in background — all from stable white working-class Protestant families, all equally adjusted by the measures available in 1954, all matched on intelligence and athletic ability. The only thing Sherif changed was the group they landed in.
-
-Within three days, the Eagles had separated from the Rattlers. Not through force. Through spontaneous clustering — boys sitting with boys, conversations hardening into inside jokes, a shared experience becoming a shared *identity*. By day four, when Sherif engineered a tournament, something darker emerged. The Eagles taunted the Rattlers. The Rattlers called the Eagles thieves. Sherif watched the contempt calcify. These boys had done nothing to each other. They had never met before arriving. Yet by the second week, each group was convinced the other group was inferior — crude, stupid, dishonest. The social science literature later called this the "bogus pipeline effect": once you think your group is better than theirs, you interpret everything they do as proof. The Rattlers won a competition? They got lucky. The Eagles won? They were superior. Hostility that should have been random became patterned and bitter. Sherif was documenting the creation of an outgroup, and he was doing it on a schedule.
-
-Then, on the tenth day, Sherif did something unexpected. He broke the water line that fed both cabins. The camp's water supply failed. Sherif let both groups discover the failure at roughly the same time, and he did nothing to repair it. The Eagles were thirsty. The Rattlers were thirsty. Sherif announced that if they could fix the main valve together, water would flow to both camps. For forty minutes, boys from both groups worked on the valve — Eagles holding, Rattlers pulling, a shared emergency making the distinction between us and them temporarily invisible. When the water came, both groups cheered.
-
-That moment — the broken water line — is one of the most important experiments in organizational psychology. Sherif had proven something that managers would spend fifty years rediscovering: groups don't form and persist because they're made of the people they're made of. They persist because people derive meaning, security, and identity from the group boundary itself. And the boundary — the line between us and them — can be bridged, but not by appeal to reason, and not by forced friendliness. It requires something structural: a goal that can only be achieved by working across the boundary. Sherif called this a *superordinate goal*. Any modern manager, watching a product team resent a marketing team, watching engineering refuse to coordinate with operations, is watching the Robbers Cave experiment play out on a quarterly timeline, with lower stakes and a salary. The mechanics are the same. The cure, as Sherif showed, is also the same.
-
-This chapter walks you through how groups form, how they govern themselves, why they persist in believing their group is better than any other, and what actually works when that belief threatens organizational performance. We begin with the machinery of a single group — its size, its norms, the rules that make it cohere. Then we move to the intergroup boundary and the social identity mechanisms that keep it in place. Finally, we examine the coordination problems that emerge when independent groups must act as one, and which management levers actually move the needle.
-
-### Learning objectives
-
-By the end of this chapter you will be able to:
-
-- **Name** the structural properties of a group — size, norms, roles, status — and explain how each affects behavior and performance.
-- **Distinguish** between formal and informal groups and recognize which forces govern each.
-- **Explain** social identity theory and the minimal-group paradigm, and use them to predict when intergroup conflict will emerge.
-- **Design** a superordinate goal that bridges an intergroup boundary, and recognize what obstacles that goal must overcome.
-- **Apply** mechanisms for managing interdependence — pooled, sequential, and reciprocal — and choose the coordination tool suited to each.
-
-### Prerequisites
-
-Chapter 3 (Perception and Job Attitudes) and Chapter 4 (Learning and Reinforcement). You've met conformity pressure and reward systems; you'll see how they operate at the group level.
-
-### Why this chapter matters
-
-Most of what happens in organizations happens *between* individuals inside groups, or *between* groups themselves. A manager who cannot see group dynamics is managing in the dark. You will work inside groups, lead groups, and coordinate across groups. The moment you do, the forces in this chapter activate. They activate whether you're aware of them or not.
+*How a boundary between people becomes a boundary between worlds.*
 
 ---
 
-## Concept 1 — Group Formation and Structure
+Here is the smallest possible cause of group conflict.
 
-You are a student in a senior seminar. On the first day, the professor says you'll work in groups to analyze case studies. She assigns you to a group based on the alphabet. You've never met these three other people before. By mid-semester, you're texting them before class. You split the work efficiently. Someone brings coffee. You're comfortable. You've been together eight weeks.
+Henri Tajfel, a Polish-Jewish psychologist who had survived the Holocaust and spent his career studying how human beings categorize each other, showed boys some abstract paintings and asked which they preferred — Klee or Kandinsky. Then, without telling them, he assigned them to groups based on their supposed aesthetic preference. Some boys were in the "Klee group." Some were in the "Kandinsky group." The assignment was random. The boys had never met before and would never see each other during the experiment.
 
-Three weeks into the semester, the professor reforms the groups. New people, different case, same classroom. The first meeting is awkward. You don't know anyone. You don't know the norms yet. By the end of the first session, you've noticed that one person dominates the conversation, one person sits quiet in the corner, one person keeps checking their phone, and you're the one trying to make sure everyone gets to talk. That's not a personality difference. That's role emergence. In the absence of assigned roles, groups create them.
+Then Tajfel asked each boy to distribute points — exchangeable for real money — between members of his own group and members of the other group. The mathematically optimal strategy was equal distribution; both groups would end up with the most money overall. That is not what happened. The boys systematically gave more points to members of their own group, even when it meant less money for everyone — including themselves. They were not trying to be rich. They were trying to be *richer than the other group*.
 
-A group is not a person. It's not five individuals sitting in the same room. A group is a collection of people bound by regular interaction toward a shared purpose, governed by norms that members enforce and depend on. The boundary matters. You know who is and is not in the group. Membership carries meaning.
+Tajfel had not given these boys anything real to fight over. No history. No shared experience. No competition for resources. Just a label. And the label was enough.
 
-### Formal versus informal groups
-
-The organization creates some groups explicitly. A department is a formal group. Its structure is designed, its purpose is stated, and membership is assigned. An engineering team reports to a manager. Everyone understands the scope: this group owns this product. The formal group has an org chart position.
-
-But the moment people arrive, they create informal groups that the organization never designed. The engineers who go to lunch together. The people on the third floor who all arrived the same month and became close. The network of women in mid-level management who meet monthly to talk about advancement. These groups are not in the org chart. They form because people have social needs the formal group doesn't meet. Informal groups often do real organizational work — they're how information actually flows, how people find out about job openings, how they know who can be trusted — and yet they're officially invisible.
-
-The tension between formal and informal creates much of what happens in organizations. A formal group (the sales department) has goals that conflict with an informal group's (the people who all play soccer together, and poker after work, and have decided the company's growth targets are insane and they're taking it slower). Both sets of norms are real. Both have enforcement mechanisms. A manager who ignores the informal group is managing only half of what's actually happening.
-
-### Group size and the threshold effects
-
-Early management theorists looked at group size the way biologists look at temperature: searching for an optimal value. The question was simple. What's the best size for a work group? The answer was frustrating. There is no one best size. But there are clear effects.
-
-A group of three is unstable in a particular way: if two align against one, the third is isolated. A group of four is stable; you can form pairs. A group of five is often optimal for complex problem-solving — enough diversity to avoid groupthink, small enough that everyone stays engaged. A group of twelve is manageable if the task is simple and routine. A group of thirty is basically a small organization itself — not really a group anymore in the sense of a cohesive unit.
-
-The Ringelmann effect, observed by a French engineer in the 1880s, shows why. Ringelmann had people pull a rope, first alone, then in groups. He measured the total force. A person pulling alone exerts 100 units of effort. Two people together should produce 200 units. Instead they produced 186. Three people together produced 255 units when the math predicted 300. The larger the group, the bigger the gap between predicted effort and actual effort. We call this *social loafing* — the tendency for people to work less hard in a group than they would alone, especially when individual contribution is hard to measure.
-
-Why does it happen? Several mechanisms overlap. First, when your contribution is anonymous — when no one can tell whether you pulled hard or coasted — there's less incentive to pull hard. Second, when you see other people in the group, you implicitly revise your own effort downward. "Someone else will cover it." Third, when the task is large and feels impersonal, it's easier to rationalize slacking. These effects are stronger in larger groups, where individual accountability is lowest.
-
-The practical implication is sharp: if you need full effort from every member, keep groups small and make individual contribution visible and consequential. If you have a routine task that doesn't require maximum effort, social loafing isn't a catastrophe — the group still gets the work done, just not at peak intensity. The problem emerges when you need maximum effort but have organized a large group where individual effort is invisible. That's a design mistake.
-
-Group size also affects cohesion — the extent to which members are motivated to stay in the group. Smaller groups become more cohesive. Larger groups fragment. The person in a five-person team sees themselves as essential. The person in a fifty-person department is one of many. Absenteeism goes up, turnover goes up, job satisfaction goes down. Again, no magic number. But the trend is clear and holds across industries.
-
-### Group norms and conformity
-
-Norms are the unwritten rules. They're the code of conduct that a group develops and enforces. In a high-performing engineering team, the norms might be: we ship on Friday, we document as we go, we help each other debug, and we don't blame people in the all-hands meeting. In a department where people are disengaged, the norms might be: show up at 9:05, leave at 5:10, tell your manager what they want to hear, and talk to your friend about the real stuff over lunch.
-
-Norms emerge slowly, usually. A group develops them as situations arise that need rules. The first person who came in late was probably ignored. The third person who did it? Someone said something. Now there's a norm. But norms can also be established quickly if the group faces external threat. A team under deadline develops norms fast. A team facing a competitive threat from another department gets clear about "who we are" and "how we do things here" within days.
-
-Norms apply only to *behavior*, not to beliefs. A group can demand that you show up on time (behavior). It cannot demand that you believe the work is important (belief). You can comply externally and disagree internally, and you often do. This distinction matters because it means norms succeed by making certain behaviors costly (social disapproval) and others rewarding (inclusion). The mechanism is social, not logical.
-
-Solomon Asch, in a famous 1950s experiment, showed how powerful the conformity pressure can be. He put a naive subject in a room with seven confederates — people acting a role, pretending to be naive subjects too. The group was asked a simple perceptual task: match the length of a given line to one of three comparison lines. The answer was always obvious. But the confederates all gave the same wrong answer, agreed in advance. When it came time for the naive subject to answer, they faced a choice: trust their own senses or defer to the group.
-
-One-third of the time, the naive subject sided with the group, even when they knew the group was wrong. They actually told the experimenter afterward that they doubted their own eyes. That's not stupidity. That's the power of a group to redefine reality for people who are embedded in it.
-
-Conformity isn't universal, though. It depends on three things. First, personality — people with high intelligence and high ego strength conform less. Second, the clarity of the stimulus — the more ambiguous the situation, the more people conform. ("I'm not sure what the new strategy really means, so I'll go with the team.") Third, group characteristics — how much pressure the group applies, whether the person identifies with the group, whether the group has been successful. A person in a successful, cohesive group where they want to belong, facing an ambiguous decision, will conform strongly.
-
-When someone breaks a norm — when they deviate — what happens? Research shows that groups typically respond by increasing communication with the deviant, trying to bring them back into line. The communication is usually subtle: exclusion from the group chat, a change in tone, an unexpected need for that person to prove themselves. If the deviant resists and keeps breaking the norm, the group escalates to explicit rejection. In extreme cases, the group ejects the person. A team that can't get rid of an actual violator will eventually reconstruct itself without them.
-
-### Roles and role episodes
-
-When a new person joins a group, the group gradually assigns them a role. The role is the set of expectations about what that person should do, the behaviors the group needs from them. In a project team, one person becomes the task leader — driving progress, keeping focus. Another becomes the relationship manager — noticing when someone's upset, smoothing interpersonal friction. A third becomes the skeptic — the person who asks the hard questions. The roles emerge through a process Kahn called the "role episode."
-
-The role episode has four stages. First, the group members form expectations about what the person should do (you're good with data; you should do the analysis). Second, they communicate those expectations to the person (someone asks you to do the analysis). Third, the person perceives what was communicated (you understand that you're being asked to specialize in data). Fourth, the person acts based on their perception (you start volunteering for analytical work). If all four stages align, the role is clear and the person can perform it. If they misalign — if the group expects you to be a leader but communicates as if they want you to follow, and you perceive yourself as a peer contributor, and you act accordingly — then you have role conflict.
-
-Role conflict is common when a person belongs to multiple groups with conflicting expectations. You're a manager and a parent. Your boss wants you to work late. Your child wants you at the recital. You can't do both. The role conflict is real and it costs energy. Role ambiguity — when you don't know what the group expects — is also costly. So is role overload — when a person receives more expectations than they can manage.
-
-A sophisticated manager notices these dynamics. If a person is misfiring, the first question is not "are they lazy?" but "do they understand their role?" Often they don't. The second question is "are the roles assigned to them compatible?" Often they're not. Fixing the role structure fixes the person's performance faster than any motivational speech.
-
-### Worked Example — Diagnosing a Troubled Group
-
-You're asked to advise a startup engineering team that's become disengaged. The team has seven people. Three of them were early employees and get along well. Two were hired three months ago. One has been there six months. One is a recent hire. The recent hires rarely show up to team meetings unless explicitly required. The team has missed its last two deadlines. People seem to have stopped trying.
-
-What's probably happening, and what would you test?
-
-**Read the structure.** This group may have multiple subgroups — the "early three" and the "recent hires." If the early three have formed an informal coalition with inside jokes and shared history, the newer people are on the outside. They're in a formal group but not in the informal group. That creates status differences and reduces cohesion for the whole.
-
-**Test the norms.** Ask: what are the unwritten rules? If the norms are "early employees are valuable, recent hires are disposable," then of course recent hires aren't trying. The group has signaled that effort is pointless because the outcome is predetermined. Ask also whether the team has norms around effort, deadline discipline, quality. If no clear norms exist, people default to individual optimization, which in a disengaged context means doing as little as possible.
-
-**Check the roles.** Are the recent hires confused about what they're supposed to do? Are they in conflict — expected to contribute equally but treated as junior? Are they overloaded with onboarding tasks and actual work simultaneously? Role clarity would help.
-
-**Evaluate size and visibility.** Seven people is not too large, but if three of them have formed a subgroup, it's effectively two groups operating in one space. The recent hires are invisible. One management move: redistribute work so at least one newer person owns a piece of the next deadline alongside an early employee. Interdependence plus visibility.
-
-**What wouldn't help:** A speech about teamwork. A team-building offsite. A new incentive scheme. All of these ignore the underlying structure — the subgroups, the norms, the role confusion. You could do all three and the team would still fragment, because you haven't changed the reason the recent hires disengaged.
+This is the result this chapter is built around. Because if a meaningless categorization — "you're a Klee person, they're a Kandinsky person" — is sufficient to generate in-group preference and out-group bias, then the intergroup conflicts you see in organizations are not primarily caused by bad people, bad intentions, or bad luck. They are caused by the machinery of group identity itself, which activates the moment a boundary is drawn. Understanding that machinery is the first step toward doing anything useful about it.
 
 ---
 
-## Concept 2 — Social Identity and Intergroup Conflict
+## What a group actually is
 
-Back to Robbers Cave. By the end of the first week, each group had given itself a name — the Eagles and the Rattlers — and each had designed a flag. The boys had barely done anything together, yet they already felt like an "us." Sherif had accidentally discovered something that social psychologists would spend decades studying: the mere fact of being grouped into a category was enough to create bias in favor of the ingroup and against the outgroup. You didn't need conflict to generate hostility. You didn't even need real competition. You just needed a boundary. Draw a line around some people and call them the in-group, and the people outside the line become the out-group. From there, in-group preference is automatic.
+Before we get to intergroup conflict, we need to be precise about what a group is — because the word is used loosely in ways that obscure the mechanics.
 
-Henri Tajfel, a Polish-Jewish psychologist who had fled Nazi Europe and survived the Holocaust, was experimenting on this phenomenon in the 1970s. He created what he called the "minimal-group paradigm." In the simplest version, Tajfel put boys in a room, showed them some abstract paintings, and asked them which they preferred. Then — without telling them — he assigned them to groups based on their supposed taste preference. Some boys were in the "Klee group" and some in the "Kandinsky group." The assignment was random. The boys had never met before, and they'd never even see each other during the experiment.
+A group is not a collection of people in the same room. It is not a department on an org chart. A group, in the sense that matters for organizational behavior, is a set of people bound by regular interaction, governed by shared norms, with a recognized boundary between members and non-members. The boundary matters. You know who is in and who is out. Membership carries meaning.
 
-Then Tajfel asked each boy to distribute points — which could be exchanged for money — between members of his own group and members of the other group. The optimal strategy, if you only cared about maximizing the money, was to give money equally. Both groups would get more money overall. But that's not what happened. The boys gave more points to members of their own group, even when it meant *less* money overall. They were maximizing *relative advantage*. It wasn't that they wanted to be rich. It was that they wanted to be richer *than the other group*. Belonging to a group changed how they calculated fairness.
+The organization creates some groups deliberately. A department is a formal group — its structure is designed, its purpose is stated, membership is assigned. But the moment people arrive, informal groups emerge that the organization never planned. The engineers who eat lunch together. The first cohort of hires who arrived in the same month and formed a bond. The network of mid-level managers who exchange information about the real state of the organization. Informal groups are not on the org chart and yet they do much of the organization's actual work — they're how information flows, how trust gets established, how people learn what's really going on. A manager who manages only the formal structure is managing half of what's happening.
 
-This is the core of social identity theory — the idea that part of a person's self-concept comes from their group membership. When you identify with a group, that group becomes part of how you see yourself. If the group is evaluated positively, that enhances your self-esteem. If the group is threatened or evaluated negatively, that threatens your sense of self. The group becomes real because it's intertwined with your identity.
-
-Once that identity forms, the biases follow. You see members of your group as more diverse — "we have all kinds of people" — while seeing the outgroup as homogeneous — "they're all like that." Psychologists call this the *outgroup homogeneity effect*. You perceive your group as having higher-quality members. You attribute success by your group to ability ("we're skilled") and failures to external circumstance ("bad luck"). You attribute success by the outgroup to luck and failures to lack of ability. Sherif watched exactly this happen in real time: the Eagles beat the Rattlers at tug of war, and both teams immediately concluded it proved the Eagles were stronger, smarter, and more disciplined. When the Rattlers beat the Eagles the next day, both groups concluded the Eagles had cheated or the Rattlers got lucky. The interpretation rotated around the conclusion, which stayed fixed.
-
-This process doesn't require the groups to have conflicting interests. It doesn't require mistreatment. It emerges automatically from the categorization itself. Once you're in a group with a name and a boundary, the psychological machinery of intergroup bias activates. You feel loyalty to your group. You feel distance from the other. You interpret ambiguous information in ways that favor your group.
-
-In organizations, this manifests predictably. The product team thinks the sales team is dishonest — always making commitments the product team can't keep. The sales team thinks the product team is arrogant and out of touch with customer reality. Neither group is wrong about the facts. The product team did miss a deadline. Customers did complain. But the lens through which each group interprets those facts is filtered through group identity. "We're competent and well-intentioned; they're careless and self-interested." The other group sees it exactly backward.
-
-### Managing across the identity boundary
-
-Sherif discovered something that felt counterintuitive. Simply bringing the groups together for friendly contact didn't reduce the conflict. If anything, it made it worse, because now the groups had more opportunities to accumulate grievances. Lectures on cooperation didn't work. Appeals to common humanity didn't work.
-
-What *worked* was the broken water line. When both groups had to work together toward a goal that only they could achieve, and that goal mattered to both of them, the hostility decreased. The first successful collaboration — even a minor one — changed how people saw each other. The Eagles weren't lazy anymore. The Rattlers weren't stupid anymore. They were people who could be trusted to pull their weight. By the end of the experiment, the boys requested that they ride together in a single bus for the trip home, rather than segregated by group. The identity hadn't disappeared, but it had become permeable.
-
-Sherif's concept of the superordinate goal — a goal that supersedes the identity boundary and requires cooperation across it — is the only mechanism that reliable improves intergroup relations. It has to meet three conditions. First, the goal must be genuinely shared; both groups must want the outcome. Second, the groups must be interdependent; neither group can achieve it alone. Third, there must be genuine uncertainty about whether success is possible until the work begins. ("Maybe we'll get the water working; maybe we won't.") Without that uncertainty, the superordinate goal feels like management theater, and people respond with cynicism.
-
-In organizational practice, a superordinate goal might be: "The board has decided to spin off the product line, and if we don't hit 20 percent growth in the next two years, the whole unit will be sold. Engineering and product and sales have to jointly own the plan, or we're all affected equally." That's a real superordinate goal. It's not "get along better" or "improve cross-functional collaboration." It's a concrete outcome that matters, that requires working across the boundary, and that no single function can achieve alone.
-
-### Worked Example — Why the Marketing/Engineering Divide Is Not Individual
-
-An engineering team and a product marketing team in a software company have developed a bitter conflict. Engineering says marketing oversells the product and commits to impossible timelines. Marketing says engineering is slow, rigid, and out of touch with what customers actually want. The CEO brought both teams into a meeting and said, "This is counterproductive. You need to work together. You're on the same side." The teams agreed, went back to their desks, and then did the same thing again. Why did the CEO's intervention fail?
-
-**The CEO appealed to reason.** "You're on the same side" is logically true but psychologically irrelevant. Social identity isn't overridden by logic. The teams have already formed identities as separate groups with separate interests.
-
-**The CEO created no new incentive structure.** Engineering is still evaluated on shipping reliable code. Marketing is still evaluated on revenue and adoption. Those metrics pull them in different directions. As long as success for one group can come at the expense of the other group, identity will enforce conflict.
-
-**The CEO named the groups explicitly.** By saying "engineering and marketing," the CEO reinforced the group boundary. Now everyone in the room was reinforced in thinking of themselves as part of a distinct group.
-
-**What might work instead:** Create an accountability structure where the engineering and marketing teams *jointly own* the product goal — growth targets that require both reliability *and* market responsiveness. Engineer the product roadmap so that neither team can succeed without the other. Make them dependent. Give them a superordinate goal: "Our competitor just released a feature we need to match. We need a plan that engineering can execute confidently and marketing can sell based on that plan. If we execute, we hit our annual targets. If we don't, we don't." Structure the goal so that true engineering-driven solutions and true marketing-driven solutions both matter, and neither group can force the other to lose.
+Both formal and informal groups develop the same internal machinery: norms, roles, status, and a shared identity. The machinery runs whether management designed it or not.
 
 ---
 
-## Concept 3 — Managing Intergroup Coordination
+## The machinery inside a group
 
-You're the operations leader at a manufacturing firm. You have four distinct groups: production (makes the thing), quality (checks the thing), sales (sells the thing), and logistics (ships the thing). Each group has its own goals, norms, and way of working. Production is measured on throughput. Quality is measured on defect rates. Sales is measured on revenue. Logistics is measured on on-time delivery. If you're not careful, you'll get exactly what you designed for: production will cut corners to speed up, quality will hold everything up to find defects, sales will promise what production can't make, and logistics will miss deadlines because the other groups are giving it bad information. Each group will succeed individually and the organization will fail.
+Walk into a new team and watch what happens over the first few weeks. Even if everyone arrived as strangers, within three weeks the group will have developed norms — unwritten rules about how work gets done, what behavior is acceptable, what would make someone stand out in a bad way. One person will have emerged as the task driver, keeping focus on deadlines. Another will have emerged as the relationship manager, noticing when someone is upset, smoothing friction. A third will have become the skeptic, the one who asks the hard questions. Nobody assigned these roles. They emerged through repeated interaction.
 
-The problem is what researchers call *interdependence* — the degree to which groups depend on each other to get their work done. If groups were truly independent, you could manage them separately. But they're not. Thompson, in a foundational paper on organizations, identified three types of interdependence, and each requires different management.
+Norms are not preferences. They are rules that the group enforces. The first person who came to the meeting unprepared was probably let slide. The third person? Someone said something. Now there's a norm. The enforcement mechanism is social: disapproval, exclusion, the subtle withdrawal of acceptance. You can comply with a norm externally while disagreeing with it entirely — and often people do. The norm governs behavior, not belief. What makes norms powerful is that they shape what everyone does, not what everyone thinks.
 
-**Pooled interdependence** is the weakest. The groups are largely independent — they contribute to a larger organization but don't interact much. A retail bank might have separate loan offices in different neighborhoods. Each office serves its neighborhood, processes its loans, and deposits its earnings into the same company pot. They're independent of each other but collectively represent the firm. Pooled interdependence requires standardized procedures and occasional feedback to make sure each group is aligned with organizational goals.
+Solomon Asch demonstrated how powerful the conformity pressure can be. He put a naive subject in a room with seven confederates who were all going to give the same wrong answer to an obvious perceptual test — matching the length of a line to one of three comparison lines. The answer was unambiguous. Anyone looking at the lines could see which was the right match. But the confederates all agreed on the wrong answer.
 
-**Sequential interdependence** occurs when the output of one group becomes the input for another. Product design delivers specs to manufacturing. Manufacturing produces the product. Quality checks the product. Shipping ships it. Each group depends on the previous group's output. If product design delivers bad specs, manufacturing wastes time and money. If manufacturing doesn't follow specs, quality rejects the product. Sequential interdependence requires frequent communication between adjacent groups and mechanisms for managing handoffs.
+One-third of the time, the naive subject sided with the group. They denied what their own eyes were telling them. When asked afterward, some reported that they had actually begun to doubt their own perception. Not their reasoning — their *perception*. The group had partially rewritten their sensory experience.
 
-**Reciprocal interdependence** is the tightest bind. Two or more groups depend on each other mutually for inputs. Product engineering needs marketing's understanding of customer needs. Marketing needs engineering's realistic assessment of what can be built. Neither group can succeed without continuous input from the other. Reciprocal interdependence requires intensive coordination and often results in the most intergroup conflict, because neither group can shift all responsibility to the other if something goes wrong.
+This is not a story about weak people. Asch's subjects were ordinary individuals, and one-third capitulation on an unambiguous perceptual task is a remarkably high rate. The conformity pressure was social, not logical — nobody was being threatened or rewarded. The pressure came simply from the discomfort of being visibly different from everyone else in the room.
 
-Once you've diagnosed the type of interdependence, you can choose the coordination mechanism that matches the level of interdependence required.
+<!-- → [DIAGRAM: Asch conformity experiment — naive subject in a row of confederates, the line-matching task illustrated, with statistics: ~75% of subjects conformed at least once, ~33% of all critical trials ended in conformity. Should make vivid that the stimulus was not ambiguous.] -->
 
-**Rules and procedures** work for pooled interdependence. You standardize how each group does its work, and the standardization ensures that everyone's output is compatible. A company wide style guide for code, a standard expense report, a template for product documentation — these reduce the need for constant coordination.
+Now add to this the observation that norms apply only to behavior. A group can compel you to act a certain way. It cannot compel you to believe a certain way. You can tell your manager what they want to hear and tell your friend over lunch the real thing. This gap between performed compliance and actual belief is where organizational dysfunction lives. The meeting where everyone nods and nothing changes. The status report that says green when the team knows it's red. The employee who agrees to the goal and then does something different. You cannot close that gap by demanding belief. You can only close it by making the honest behavior less costly than the compliant one.
 
-**Member exchange** works for sequential interdependence. You temporarily move someone from one group to another, giving them firsthand experience of the other group's constraints. A manufacturing engineer spends three months in the field with customers. A salesperson spends a month with the engineering team. When they return to their home group, they bring institutional memory of the other group's world, which reduces friction and builds empathy.
+Group size interacts with all of this in ways that scale predictably. Smaller groups become more cohesive. Larger groups fragment. A person in a five-person team sees themselves as essential; a person in a fifty-person department is one of many. Absenteeism and turnover rise with size; job satisfaction falls.
 
-**Linking roles** work for reciprocal interdependence. You create a role or position whose explicit job is to coordinate across boundaries. A product manager represents engineering to marketing and marketing to engineering. A program manager coordinates across engineering, design, and operations. These people live on the boundary and their job is to translate between groups.
+There is also the Ringelmann effect, observed by a French engineer in the 1880s who had people pull a rope alone and then in groups and measured the force. One person alone exerts full effort. Two people together should produce twice the force. They produce less. Three people should produce triple. They produce less. The larger the group, the larger the gap between expected and actual effort — a phenomenon now called *social loafing*. The mechanism is accountability: when your individual contribution is invisible, there's less incentive to give full effort, and you implicitly revise your contribution downward on the assumption that others are covering the gap.
 
-**Task forces** are temporary versions of linking roles. When you need intensive coordination on a specific problem, you pull representatives from each group into a temporary team focused on that problem. A software company that needs to launch a new integration pulls in engineers, product managers, marketing, support, and operations. They work together intensely for three months, then dissolve back into their home groups, carrying the relationships and understanding they built.
-
-**Decoupling** is the Hail Mary pass. When two groups truly cannot work together effectively despite the requirement, you separate them. You change the structure so that the interdependence is reduced or eliminated. A hardware team and a software team that fight continuously can be decoupled by having the hardware team specify its interface precisely, and the software team design to that interface without constant back-and-forth. The groups are still connected by specification, but they're not in daily conflict.
-
-### Worked Example — Designing Coordination for a Product Launch
-
-A consumer goods company is launching a new product. Production needs to gear up. Sales needs to train distributors and place orders. Quality needs to define testing protocols. Regulatory needs to ensure compliance. R&D needs to support troubleshooting if things go wrong. The CEO asks you to design the coordination. What structure would you recommend?
-
-**Diagnose the interdependence.** This is reciprocal. Every group needs inputs from every other group. Production needs to know what quality thresholds to meet and what regulatory constraints apply. Sales needs to know what production can deliver and by when. Quality needs to know what the product should do and what regulatory requires. No group can succeed in isolation.
-
-**Choose the mechanism.** Because the interdependence is reciprocal and temporary, a task force is appropriate. Create a product launch team with a senior representative from each group. Give this team explicit authority to make decisions about the launch. The team meets daily or twice daily. The team has a single shared metric: successful launch on time and on spec.
-
-**Protect the boundaries, but link them.** Each group continues reporting to its home function (the production person reports to the plant manager, etc.). But they also report to the launch team. This "dual reporting" creates tension, which is healthy when it's about competing priorities. The tension surfaces issues. But make clear that when launch decisions are made, the team speaks for all groups.
-
-**What happens after launch.** The task force dissolves. But the relationships persist. The launch team has been through something together. They've seen each other's constraints. That institutional memory reduces friction when the next product launch or crisis requires coordination.
+The practical implication is concrete: if you need maximum effort from every person, keep groups small and make individual contribution visible and consequential. If you organize a large group where effort is diffuse and credit is collective, you have designed social loafing into the structure.
 
 ---
 
-## Integration and Synthesis
+## Why groups see other groups the way they do
 
-You now understand how groups form, how they govern themselves internally, why they persist in seeing their own group as superior, and how to coordinate across group boundaries when necessary.
+Now back to Tajfel.
 
-The key insight that connects these concepts is this: a group is not five individuals. It's a system with its own logic, its own pressures, its own way of interpreting the world. The forces that create group identity — the need to belong, the social validation of shared norms, the simplified understanding that comes from group membership — are the same forces that create intergroup conflict. A manager who ignores group dynamics ignores the most powerful forces shaping behavior in organizations.
+His minimal-group paradigm showed that categorization alone — with no history, no competition, no interaction — produces in-group favoritism and out-group bias. The question is why. The answer is social identity theory, which Tajfel developed with John Turner.
 
-Sherif showed that the solution to intergroup conflict is not to dissolve the groups or to suppress group identity. The solution is to create conditions where the groups' identities can coexist with a shared, higher-order goal. The Eagles didn't stop being the Eagles. The Rattlers didn't stop being the Rattlers. But both became, temporarily, people who were working on the water system together.
+The core claim is this: part of a person's self-concept is derived from their group memberships. When you identify with a group, that group becomes part of how you understand yourself. If the group is evaluated positively, that enhances your self-esteem. If the group is threatened or evaluated negatively, your sense of self is threatened. The group's status and your personal esteem are entangled.
 
-This is why the best organizations create clear superordinate goals and then align incentives so that groups have to cooperate to achieve them. It's also why the worst organizations let group identity harden into silos, then manage the silos as if they were just a coordination problem. Coordination is necessary but not sufficient. If two groups hate each other and you structure them to be interdependent, they'll be more efficient at thwarting each other.
+Once that entanglement exists, several cognitive biases follow automatically.
 
-What changes the identity is sustained cooperation toward something that matters. When groups work together on a real problem, when they see each other problem-solve, when they notice that the other group is competent and well-intentioned (even if they're different), the outgroup homogeneity effect starts to break down. People still prefer their group — that preference is deep and persistent — but they stop seeing the other group as monolithic and inferior.
+You perceive your own group as diverse — "we have all kinds of people with different views and strengths" — while perceiving the out-group as homogeneous — "they're all like that." This is the *out-group homogeneity effect*, and it has been replicated across dozens of studies. It's not that you're being consciously unfair. It's that you have detailed information about the individuals in your in-group, and you have a category for the out-group. Detailed information looks diverse. Categories look uniform.
 
----
+You attribute your group's successes to ability and its failures to circumstance. You attribute the out-group's successes to luck and its failures to ability. This attribution asymmetry means that identical evidence leads to different conclusions depending on which group produced it. A reliable result from your group proves competence. The same result from the out-group was probably a fluke.
 
-## Graduated Exercises
+Muzafer Sherif documented both of these effects in real time at Robbers Cave State Park in Oklahoma in 1954. He had split twenty-two eleven-year-old boys — matched on every measurable dimension — into two groups before they arrived at summer camp. Within days the groups had named themselves the Eagles and the Rattlers, designed flags, developed norms, and begun to see each other as inferior. When the Eagles won a competition, both groups concluded the Eagles were stronger and smarter. When the Rattlers won the next day, both groups concluded the Rattlers had gotten lucky or the Eagles had been cheated. The interpretation rotated around the conclusion. The conclusion stayed fixed.
 
-### Warm-up: Observe a Group Norm in Real Time
+<!-- → [DIAGRAM: The attribution asymmetry in action — a 2×2 showing In-group vs. Out-group × Success vs. Failure. In-group success → ability. In-group failure → circumstance. Out-group success → luck. Out-group failure → ability. Should be simple and striking.] -->
 
-Find a group you're part of or can observe (a team, a class, a friend group, a religious congregation). Spend one hour noticing the norms. What do people do without being told? What behavior would make someone stand out? What's the consequence if someone violates the norm? Write a one-page description of three norms you observe, how you know they're norms (i.e., what evidence tells you it's a norm rather than an individual preference), and what function each norm serves for the group.
+What is important about Sherif's experiment is what *didn't* reduce the conflict. When he brought the groups together for casual contact — shared meals, movie nights — the hostility didn't decrease. If anything, the proximity generated more opportunities for grievance. Lectures about cooperation had no effect. Appeals to fair play had no effect.
 
-**Calibration:** Good responses will be specific (not "people are nice to each other" but "people make a point of remembering each other's names and using them, and if someone forgets, they get teased until they apologize"). Good responses will identify consequences (implicit or explicit). Good responses will avoid the assumption that the norm is universal — "our group values efficiency; I notice this because meetings start exactly on time and if someone's running five minutes late they apologize."
+What worked was a broken water line.
 
-### Application: Design a Superordinate Goal
+Sherif had engineered a failure in the water supply that served both camps. Both groups were thirsty. Sherif announced that the pipe could be repaired, but only if both groups worked on it together. For forty minutes, Eagles and Rattlers worked the valve — holding, pulling, diagnosing. When the water came, both groups cheered. Not two groups cheering separately. One collective response.
 
-Pick two groups in an organization that have intergroup conflict (or use a historical or fictional example: product vs. sales, engineering vs. operations, labor vs. management, etc.). Diagnose the nature of the conflict. Then design a superordinate goal that could bridge the conflict. Your goal must:
+Over the following days, Sherif engineered additional situations where the groups had to collaborate to achieve something neither could achieve alone. A truck that wouldn't start. A food supply that required joint effort to reach. Each successful collaboration softened the hostility. By the end of the study, the boys who had been calling each other stupid and dishonest were requesting to ride home on the same bus.
 
-1. Be genuinely desired by both groups.
-2. Require both groups to contribute essential work.
-3. Have real uncertainty about whether success is possible.
-4. Matter enough to override the in-group preference, at least during the work.
+The groups hadn't dissolved. The Eagles still felt like Eagles. But the identity had become permeable — something that could coexist with genuine appreciation of the other group.
 
-Write a two-page memo to the CEO explaining the goal, why it would work, and what would happen if you simply told the groups to "get along better."
-
-**Calibration:** Good responses will diagnose the social identity mechanism ("they see each other as incompetent and self-interested") rather than just listing surface problems. Good responses will explain why the goal meets each condition. Good responses will connect back to Sherif's research. Bad responses will try to "solve" the conflict by appealing to shared values, listing benefits of cooperation, or mandating better communication.
-
-### Synthesis: Audit a Failed Group or Intergroup Initiative
-
-Find a case study of a failed team, a failed merger, a failed cross-functional project, or a failed organizational change (use articles, case studies, your own experience, or history). Write a three-page analysis using the concepts from this chapter. What was the group structure? What were the norms? What interdependence required coordination? What went wrong? If you had diagnosed the problem correctly, what would you have changed?
-
-**Calibration:** Good responses will avoid the "people were not committed enough" diagnosis. Good responses will point to a specific structural or norm-based failure. Good responses will propose a change that addresses the actual mechanism, not just the symptom. Excellent responses will identify which concept was most important to understanding the failure.
-
-### Challenge: Map an Organization's Intergroup Landscape
-
-Choose an organization you know well (your workplace, a sports team, a company you've studied, a nonprofit, a government agency). Draw a map showing:
-
-1. The main groups (departments, teams, informal coalitions — at least 5).
-2. The type of interdependence between each pair of groups (pooled, sequential, reciprocal, or none).
-3. The current coordination mechanism between each pair (rules, member exchange, linking role, task force, decoupling, or informal/unmanaged).
-4. Your assessment of whether each pair's coordination mechanism matches the interdependence required.
-
-Then write a one-page memo identifying the two highest-risk mismatches (i.e., reciprocal interdependence managed by rules, or pooled interdependence overcoordinated with a task force). Recommend what you'd change.
-
-**Calibration:** Good responses will show a realistic understanding of how the organization actually works, not how the org chart suggests it works. Good responses will recognize that informal groups matter. Good responses will avoid recommending "more communication" as a fix. Good responses will recognize that not every mismatched pair is a problem; the problem emerges when the mismatched pair is important.
+Sherif called the mechanism a *superordinate goal*: a goal that both groups genuinely want, that neither group can achieve alone, and whose achievement is uncertain enough that real collaboration is required. The uncertainty matters. If success is guaranteed regardless of effort, the goal doesn't force interdependence. If failure is certain regardless of effort, no one will engage. The goal has to be in the zone where cooperation actually determines the outcome.
 
 ---
 
-## Chapter Summary
+## What this means in organizations
 
-Groups are the primary organizational unit of meaning and action. A group is more than a collection of people — it's a system with structure (size, roles, status), norms that govern behavior and are enforced through conformity pressure, and an identity that shapes how members see themselves and others.
+The intergroup conflicts that consume organizational energy — engineering versus product, sales versus operations, clinical versus business, headquarters versus field — are not primarily caused by difficult personalities or incompetent managers. They are caused by the same machinery Tajfel found in a room full of boys who had been told they liked Klee. The groups have formed. The identities have activated. The out-group homogeneity effect has made the other department look like it's full of the same kind of people who don't understand what really matters. The attribution asymmetry has made every failure theirs and every success yours.
 
-Formal groups are designed by the organization. Informal groups emerge from social needs and are often more powerful than the formal structure. Both exist and both matter.
+A CEO who calls both groups into a room and says "you need to work together; you're on the same side" has done something worse than nothing. The intervention explicitly invokes the group labels — "engineering" and "product" — reinforcing the boundary it was trying to dissolve. It offers no structural reason for cooperation. And it implies that the conflict is a moral failure rather than a structural one, which means the implicit message is that someone is being difficult. That message triggers defensiveness, not collaboration.
 
-Group size affects performance through multiple channels. Smaller groups develop more cohesion and higher member satisfaction. Larger groups experience social loafing — people reduce effort when individual contribution is hard to measure. The Ringelmann effect shows that total group output doesn't scale linearly with size. Status systems and roles emerge in groups and must be managed, especially when they create role ambiguity or role conflict.
+What works is Sherif's broken water line: a goal that matters to both groups, that neither can achieve alone, and that requires enough real cooperation that the groups will actually see each other working. The goal cannot be "improve cross-functional collaboration." That's a process goal. Process goals don't generate the sustained joint effort required to shift identity. The goal has to be concrete, external, and consequential: "Our competitor shipped a feature we need to match in sixty days. Neither engineering nor product can get there independently. If we don't, we lose the account."
 
-Norms are unwritten rules enforced through social approval and disapproval. Conformity pressure is powerful; Solomon Asch's experiments showed that people will deny their own senses rather than contradict a group consensus. Conformity depends on personality, the ambiguity of the situation, and group characteristics like cohesion and success.
-
-Social identity theory explains why groups persist and why intergroup conflict emerges even in the absence of real conflict of interest. The minimal-group paradigm shows that merely being categorized into a group is enough to trigger in-group preference and out-group bias. Once you identify with a group, that group becomes part of your self-concept. Threats to the group are threats to the self. The outgroup homogeneity effect makes other groups seem more uniform and more inferior than they are.
-
-Sherif's Robbers Cave experiment is the landmark study showing that superordinate goals — shared goals that require cooperation across group boundaries — are the only reliable way to reduce intergroup conflict. The goal must be genuinely desired, require interdependence, carry uncertainty, and matter enough to override group identity, at least temporarily.
-
-Interdependence comes in three forms. Pooled interdependence (groups contribute independently to a larger whole) requires standardized procedures. Sequential interdependence (output of one group becomes input for another) requires communication mechanisms and managed handoffs. Reciprocal interdependence (groups need each other's input continuously) requires intensive coordination through linking roles or task forces. Decoupling — reducing interdependence — is a last resort when groups cannot coordinate effectively despite the requirement.
+<!-- → [TABLE: Superordinate goal checklist — four criteria (genuinely desired by both groups / neither can achieve alone / outcome uncertain / matters enough to override in-group preference) with examples of goals that meet vs. fail each criterion. Goal is to give a practical screen for evaluating proposed interventions.] -->
 
 ---
 
-## Connections Forward
+## The coordination problem that follows
 
-Chapter 10 (Understanding and Managing Work Teams) deepens the study of groups. This chapter gives you the foundations of group dynamics. Chapter 10 adds team development, the conditions under which teams outperform other organizational arrangements, and the distinct challenges of virtual teams.
+Even when intergroup identity isn't hostile, groups that must work together face a coordination problem whose difficulty depends on the type of interdependence between them.
 
-Chapter 11 (Communication) explores how information flows through groups and across group boundaries. The coordination mechanisms you studied in this chapter depend on communication systems that work. Norms about what information is safe to share, what language is acceptable, and how disagreement is voiced all shape whether coordination mechanisms succeed or fail.
+James Thompson identified three types, and the distinction has practical teeth.
 
-Chapter 12 (Leadership) examines how leaders navigate group identity, create superordinate goals, and make groups feel safe enough to coordinate across boundaries. A leader's ability to manage intergroup relations depends on understanding the mechanisms in this chapter.
+*Pooled interdependence* is the weakest form. The groups operate largely independently but contribute to a shared whole. Retail branches of a bank each serve their neighborhood, deposit their earnings into the same company pool, and have minimal need to coordinate with each other. Managing pooled interdependence requires standardized procedures — everyone follows the same rules so their outputs are compatible — and occasional feedback to check alignment.
 
----
+*Sequential interdependence* is tighter. The output of one group becomes the input for the next. Product design hands specs to manufacturing, which hands the product to quality, which hands it to shipping. Each group depends on the previous group's output being correct. If product design delivers ambiguous specs, manufacturing wastes effort and money. Managing sequential interdependence requires communication mechanisms at the handoff points — regular sync meetings between adjacent groups, explicit protocols for what gets handed off and in what form.
 
-## What Would Change My Mind
+*Reciprocal interdependence* is the tightest bind. The groups continuously need each other's input. Product engineering needs marketing's understanding of what customers want. Marketing needs engineering's honest assessment of what can actually be built. Neither group can succeed without the other, and the exchange is not a one-time handoff but an ongoing conversation. Managing reciprocal interdependence requires intensive coordination — people or roles whose explicit job is to translate across the boundary.
 
-I've emphasized that superordinate goals are necessary for reducing intergroup conflict. I'd revise this if evidence emerged that groups could reconcile through repeated positive contact alone, without requiring a shared goal. Some recent research suggests that sustained cross-group friendships may partially override the outgroup homogeneity effect. If that effect is larger than I'm treating it, the practical implication changes.
+The coordination mechanism should match the interdependence. For pooled: standardized rules and procedures. For sequential: regular communication at handoff points and, when friction is high, member exchange — temporarily moving someone from one group to the other so they understand the adjacent group's constraints firsthand. For reciprocal: linking roles (a product manager who represents engineering to marketing and marketing to engineering), or task forces that pull representatives from both groups into a temporary shared team focused on a specific problem.
 
----
+The mismatch between interdependence and coordination mechanism is one of the most common structural failures in organizations. Reciprocal interdependence managed by rules — "here's the spec doc, let us know if you have questions" — generates the kind of recurring conflict that managers mistake for a people problem. Sequential interdependence managed by a daily task force — intensive coordination for a relationship that doesn't require it — wastes time and breeds resentment. The first question is always: what type of interdependence actually exists here? The coordination mechanism follows from the answer.
 
-## Still Puzzling
-
-I'm uncertain about the relationship between group identity and individual identity. Sherif's work shows that group membership is powerful and sometimes overrides individual judgment. But some people seem less susceptible to group identity pressure than others. I don't yet have a clear model of which personal characteristics make someone likely to identify strongly with a group and which make them more likely to maintain independence. The literature suggests extraversion, need for belonging, and early group experiences matter, but the predictive power is modest.
+A last resort when coordination genuinely fails despite all attempts is *decoupling* — restructuring to reduce the interdependence itself. If two groups cannot coordinate reciprocally despite the requirement, you can sometimes redesign the work so that the groups communicate through a specification rather than through ongoing dialogue: engineering defines an API contract, the other group builds to it without daily contact. This trades coordination cost for constraint — you lose flexibility, but you stop the conflict. It's a real option, and sometimes the right one.
 
 ---
 
-## Tags
+## The loop
 
-group-dynamics, social-identity-theory, Sherif-Robbers-Cave, intergroup-conflict, norms-conformity, organizational-coordination, superordinate-goals, informal-groups, Tajfel-minimal-group, Asch-conformity
+Here is the loop this chapter has been building toward.
+
+Groups form because people need belonging, meaning, and identity — and group membership provides all three efficiently. The same identity formation that makes groups cohesive and effective internally makes them suspicious and competitive externally. Out-group homogeneity and attribution asymmetry are not failures of character. They are features of how group identity works. The features are automatic. They activate without deliberate effort.
+
+You cannot dissolve group identity through reason. You cannot mandate cooperation. You cannot appeal to shared humanity and expect it to override the machinery. What you can do is structure the situation so that the machinery works differently. Superordinate goals change what the group identity is in competition with — instead of "us vs. them," it becomes "all of us vs. the problem." Appropriate coordination mechanisms reduce the friction at group boundaries without requiring the groups to stop being groups. Member exchange builds empathy without requiring merger.
+
+The manager who sees a cross-functional conflict and diagnoses it as a people problem will keep hiring and firing people, running team-building events, and delivering speeches about collaboration — and the conflict will recur with every new hire, because the structure that generates the conflict has not changed. The manager who sees the same conflict and diagnoses it as a structural problem will ask: what is the interdependence type, what coordination mechanism matches it, and what superordinate goal would make both groups genuinely want to work across the boundary?
+
+The second manager will make fewer speeches and solve more problems.
+
+---
+
+## What remains genuinely uncertain
+
+Social identity theory explains much, but not everything. The effect sizes in minimal-group experiments are real but modest — categorization produces bias, but the bias is considerably weaker than what emerges from real group history, real competition, and real perceived grievance. Tajfel's boys allocated points unfairly; Sherif's boys burned each other's flags. The mechanisms are related but not the same, and I don't have a fully satisfying account of what converts weak categorization bias into intense intergroup hostility.
+
+I'm also uncertain about what makes some people more resistant to out-group bias than others. The research suggests that exposure to diverse social environments and personal experience of being a minority reduce out-group homogeneity effects. But the effect is modest and the mechanism is underspecified.
+
+The superordinate goal intervention is well-established in research but harder to implement in organizations than in a summer camp. Real organizations have multiple simultaneous intergroup relationships, competing resource pressures, and leadership that may not be committed to the intervention. Sherif could control the environment completely; managers cannot. The gap between the laboratory result and the organizational application is real, and I think the literature understates it.
+
+---
+
+## Exercises
+
+### Warm-up
+
+1. **Observe a norm in real time.** Find a group you belong to or can observe — a team, a class, a friend group, a workplace meeting. Spend one hour noticing the unwritten rules: what do people do without being told? What would make someone stand out as a violator? Write down three specific norms you observe, your evidence that each is a norm rather than an individual preference (i.e., what the enforcement mechanism is), and what function each norm serves for the group. Be specific — not "people are polite" but "people refrain from checking phones during presentations, and anyone who does gets a pointed look from the person speaking." *(Tests: norm identification, enforcement mechanisms, norm function)*
+
+2. **Categorize the interdependence.** Pick two groups in an organization you know — two departments, two teams, two functions. Diagnose the interdependence type: is it pooled, sequential, or reciprocal? What is the current coordination mechanism? Does the mechanism match the interdependence? If there is a mismatch, describe what the mismatch produces: what kind of friction or conflict would you predict? *(Tests: Thompson's three types, coordination mechanism matching)*
+
+3. **The Tajfel question, applied.** Think of two groups in an organization that are in conflict — or use a historical example. Apply the minimal-group paradigm logic: does the conflict actually require competing interests, or would the social identity machinery alone be sufficient to generate it? What evidence would you need to distinguish "conflict caused by real competing interests" from "conflict caused by group identity activation"? *(Tests: social identity theory, minimal-group paradigm, distinguishing structural causes)*
+
+### Application
+
+4. **Design a superordinate goal.** Pick two groups in a real or hypothetical organization that have intergroup conflict. Using Sherif's four criteria — genuinely desired by both groups, neither can achieve it alone, outcome uncertain, consequential enough to override in-group preference — design a superordinate goal that could bridge the conflict. Then explain why simply telling the groups to "collaborate better" would fail where your superordinate goal would succeed. Be specific about the mechanism. *(Tests: superordinate goal design, Sherif's criteria, structural vs. motivational intervention)*
+
+5. **The norm violation.** You're a new manager inheriting a team whose norms include: meetings never start on time, deliverables are always submitted one day late, and team members never push back on each other's ideas in group settings. You want to change all three norms. Using what you know about how norms form and how they're enforced, design an approach to changing one of them. What would you do first? What makes it harder than announcing a new expectation? What would tell you the new norm had actually taken hold? *(Tests: norm formation, enforcement mechanisms, norm change)*
+
+6. **Diagnose the coordination failure.** A product team and a sales team at a software company are in persistent conflict. Sales regularly promises features to customers that product hasn't agreed to build. Product regularly ships features that sales doesn't know about until after launch. Both teams blame the other. Using the interdependence framework, diagnose the type of interdependence, identify the current (failing) coordination mechanism, and recommend a better one. Explain why your recommendation would reduce the conflict where better communication training would not. *(Tests: reciprocal interdependence, coordination mechanism selection, structural vs. behavioral intervention)*
+
+### Synthesis
+
+7. **The CEO's failed intervention.** An engineering team and a marketing team have been in conflict for two years. The CEO has held two all-hands meetings emphasizing collaboration, sent a company-wide email about "one team, one mission," and hired a consultant to run a half-day workshop on communication styles. Nothing has changed. Using social identity theory, the out-group homogeneity effect, and the attribution asymmetry, explain precisely why each of the CEO's interventions failed. Then propose one structural change — not a cultural or motivational one — that addresses the actual mechanism. *(Tests: social identity theory applied to organizational intervention, distinguishing structural from motivational causes)*
+
+8. **Map the informal structure.** Choose an organization you know well. Draw two structures: the formal org chart and the informal group map — the actual clusters of people who interact regularly, share norms, and form a recognizable identity. Where do the two structures diverge most significantly? What informal groups do real organizational work that the formal structure doesn't recognize? What is the risk created by the gap between the formal and informal structure? *(Tests: formal vs. informal groups, recognition of informal group function, structural risk)*
+
+9. **The social loafing audit.** You are a manager of a twelve-person team. You suspect social loafing is reducing overall performance, but you can't identify who specifically is coasting — individual contributions are hard to observe. Using the Ringelmann effect and what you know about the conditions that produce social loafing, redesign the team's structure to make individual contribution more visible and accountable, without converting the team into twelve independent contributors who never coordinate. What is the tradeoff you're making? *(Tests: Ringelmann effect, social loafing conditions, design response)*
+
+### Challenge
+
+10. **The intergroup landscape.** Map the intergroup landscape of a real organization — at least five groups (departments, informal coalitions, or both). For each pair that has meaningful interaction: identify the interdependence type, the current coordination mechanism, and whether the mechanism matches the interdependence. Identify the two highest-risk mismatches. For each, write a one-paragraph structural recommendation — not a cultural one — and explain what the recommendation addresses that a "communicate better" directive would not. Present the full analysis as a memo to the organization's leadership team. *(Tests: full integration of Thompson's interdependence types, coordination mechanisms, structural diagnosis, practical recommendation)*
+
+---
+
+## Summary
+
+Groups are systems, not collections. They develop norms through repeated interaction and enforce them through social approval and disapproval — mechanisms powerful enough, as Asch demonstrated, to override a person's direct sensory experience. Conformity depends on personality, the ambiguity of the situation, and the characteristics of the group itself. Groups develop roles and status hierarchies without being designed to, and mismatches between assigned roles and group expectations generate the role conflict and ambiguity that look, from the outside, like individual performance problems.
+
+Group size affects cohesion and effort. Larger groups produce social loafing — reduced individual effort when contribution is diffuse and unaccountable. The practical implication is design: make individual contribution visible when you need maximum effort.
+
+Social identity theory explains why intergroup conflict is a structural prediction, not a moral failure. Categorization alone produces in-group preference and out-group bias. Once you identify with a group, the group's standing becomes entangled with your self-esteem. Out-group homogeneity and attribution asymmetry follow automatically. Sherif's Robbers Cave experiment documented the full cycle — formation, escalation, and resolution — and demonstrated that the only reliable resolution is a superordinate goal: genuinely shared, requiring interdependence, with real uncertainty about success.
+
+Interdependence between groups comes in three types: pooled (independent contributions to a shared whole), sequential (output of one group becomes input for the next), and reciprocal (continuous mutual input). Each requires a different coordination mechanism. The mismatch between interdependence and mechanism is a structural source of the conflicts that get misdiagnosed as people problems.
 
 ---
 
@@ -381,7 +278,6 @@ handbook.
 
 **Preview of next chapter:** Chapter 10 zooms in from groups to teams — the design choices that distinguish a group from an effective team. Tuckman's stages, task interdependence, and the psychological-safety mechanism that lets teams produce more than the sum of individual outputs.
 
-
 ---
 
 ## AI Wayback Machine
@@ -391,7 +287,9 @@ handbook.
 **Run this:**
 
 ```
-Who is Muzafer Sherif, and how does their work connect to intergroup relations we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Muzafer Sherif, and how does their work connect to intergroup
+relations we covered in this chapter? Keep it to three paragraphs.
+End with the single most surprising thing about their career or ideas.
 ```
 
 → Search **"Muzafer Sherif"** on Wikipedia.
