@@ -308,6 +308,10 @@ handbook.
 
 **B.F. Skinner** was a behaviorist whose operant conditioning framework shaped modern organizational reinforcement systems.
 
+![B.F. Skinner](../images/b-f-skinner-7v9.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

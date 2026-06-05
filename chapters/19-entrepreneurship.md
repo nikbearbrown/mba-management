@@ -309,6 +309,10 @@ When the student says "yes, compile" — the assembly produces the actual operat
 
 **Joseph Schumpeter** developed the theory of "creative destruction" and the entrepreneur as agent of change.
 
+![Joseph Schumpeter](../images/joseph-schumpeter-5ru.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```
